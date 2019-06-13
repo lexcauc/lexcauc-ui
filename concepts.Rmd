@@ -1,0 +1,85 @@
+---
+title: "Concepts"
+---
+
+```{r, include=FALSE}
+read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
+read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/forms.csv",stringsAsFactors = FALSE) -> forms
+read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/languages.csv",stringsAsFactors = FALSE) -> langs
+#read.csv("/home/oleg/build/lexcauc/lexcauc-db/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
+#read.csv("/home/oleg/build/lexcauc/lexcauc-db/forms.csv",stringsAsFactors = FALSE) -> forms
+#read.csv("/home/oleg/build/lexcauc/lexcauc-db/languages.csv",stringsAsFactors = FALSE) -> langs
+```
+
+```{r,include=FALSE,eval=FALSE}
+sapply(seq_along(concepts$no),function(i){
+    title <- paste0("## ", concepts$no[i], ". ", concepts$rus[i])
+    def <- paste0("### Определение", "\n", ifelse(is.na(concepts$def_RU[i]), "", concepts$def_RU[i]), "\n")
+    ctx <- paste0("### Контексты", "\n", ifelse(is.na(concepts$cx_RU[i]), "", concepts$cx_RU[i]), "\n")
+    text <- c(title, def, ctx)
+    writeLines(text,paste0(concepts$no[i],"_RU.Rmd"))
+  })
+
+sapply(seq_along(concepts$no),function(i){
+    title <- paste0("## ", concepts$no[i], ". ", concepts$eng[i])
+    def <- paste0("### Definition", "\n", ifelse(is.na(concepts$def_EN[i]), "", concepts$def_EN[i]), "\n")
+    ctx <- paste0("### Contexts", "\n", ifelse(is.na(concepts$cx_EN[i]), "", concepts$cx_EN[i]), "\n")
+    text <- c(title, def, ctx)
+    writeLines(text,paste0(concepts$no[i],"_EN.Rmd"))
+  })
+```
+
+```{r sets table 1, include=FALSE}
+library(DT)
+library(tidyverse)
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+```{r render table 1}
+
+# Place links to concept definitions
+mutate(concepts,rus = paste0("<a href = '",
+                       no,
+                        "_RU.html' target='_blank'>",
+                        rus,
+                        "</a>"),
+          eng = paste0("<a href = '",
+                        no,
+                        "_EN.html' target='_blank'>",
+                        eng,
+                        "</a>")) ->
+concepts
+
+# Filter out only main counterparts for comparative concepts
+filter(forms, aux == "" & excl == "" & lc.id != 0) -> display
+
+# Add Russian and English columns and remove unnecessary columns
+mutate(display, rus = "",
+                eng = "",
+                subentry = NULL,
+                aux = NULL,
+                excl = NULL,
+                gender = as.factor(gender),
+                lang = as.factor(lang)) -> display
+
+# Populate Russian and English columns with corresponding names and URLs
+for(i in 1:nrow(display)) {
+  display$rus[i] = concepts$rus[concepts$no == display$lc.id[i]]
+  display$eng[i] = concepts$eng[concepts$no == display$lc.id[i]]
+}
+
+# Collapse lexeme variants into single rows, spread the table
+display %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", ")) %>% slice(1) %>% ungroup() %>% transmute(id = lex.id, rus = rus, eng = eng, orthographic = orthographic, lang = lang) %>% spread(lang,orthographic) -> display.spread
+
+# Display the table
+datatable(display.spread,escape = FALSE, rownames = FALSE,
+            extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
+            filter = list(position = 'top', clear = TRUE),
+            options = list(
+              dom = 'Btip', 
+              autoWidth = TRUE, 
+              colReorder = TRUE, 
+              buttons = I('colvis'),
+              fixedHeader = TRUE,
+              pageLength = 20))
+```
