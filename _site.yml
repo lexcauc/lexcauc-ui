@@ -1,0 +1,10 @@
+name: "lexcauc"
+navbar:
+    title: "LexCauc"
+    left:
+        - text: "Home"
+          href: index.html
+        - text: "About"
+          href: about.html
+        - text: "Concepts"
+          href: concepts.html
