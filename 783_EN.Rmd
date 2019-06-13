@@ -1,0 +1,7 @@
+## 783. FLEE
+### Definition
+
+
+### Contexts
+1. He ran away from the robbers. 2. The fox runs away when it sees a person.
+

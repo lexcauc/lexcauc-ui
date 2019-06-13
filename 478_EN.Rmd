@@ -1,0 +1,7 @@
+## 478. BROTH
+### Definition
+Water with an extract of meat that is left after boiling a piece of meat.
+
+### Contexts
+1. When meat is boiled, a broth is left. 2. Broth is eaten after the khinkal.
+

@@ -1,0 +1,7 @@
+## 502. EGG YOLK
+### Definition
+The yellow, spherical part of an egg that is surrounded by the white albumen, and serves as nutriment for the growing young. (Concepticon)
+
+### Contexts
+1. Give the yolk to the children 2. The egg consists of the white and the yolk.
+

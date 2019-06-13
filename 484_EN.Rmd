@@ -1,0 +1,7 @@
+## 484. GREASE
+### Definition
+Animal fat as a general substance used for eating or various economic needs. Should be distinguished from “vegetable fat” or “butter”, (liquid) “oil”, although many languages use the same word for these notions, as well as specific words denoting different kinds of fat contained in particular body parts (e.g., ‘suet’) or specially treated (e.g., boiled) fat. (GLD)
+
+### Contexts
+1. You can eat meat and fat. (GLD) 2. The bottom of the pan is smeared with fat / grease.
+

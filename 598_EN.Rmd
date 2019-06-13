@@ -1,0 +1,7 @@
+## 598. SLAB FOR ROOF
+### Definition
+The object that strengthens the corners of a room. Most often made of stone, but sometimes made of wood.
+
+### Contexts
+Stone / wooden slabs are placed at the corners of roofs.
+

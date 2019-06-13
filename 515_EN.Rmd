@@ -1,0 +1,7 @@
+## 515. CUT OUT (CLOTH)
+### Definition
+To cut out thread for the sewing of clothes.
+
+### Contexts
+She cut out pieces of fabric and sewed a dress out of them.
+

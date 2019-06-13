@@ -1,0 +1,7 @@
+## 409. HURT (INTR, OF BODY PART)
+### Definition
+To cause pain (of a body part).
+
+### Contexts
+1. I hit my leg and now it hurts. 2. My tooth is aching.
+

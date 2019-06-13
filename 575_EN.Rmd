@@ -1,0 +1,7 @@
+## 575. CLAY STOVE FOR BREAD
+### Definition
+A traditional stove used for baking bread.
+
+### Contexts
+They used to bake bread in STOVE.
+

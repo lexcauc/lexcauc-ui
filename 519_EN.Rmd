@@ -1,0 +1,7 @@
+## 519. THREAD
+### Definition
+A long, thin and flexible form of material, generally with a round cross-section, used in sewing or weaving. (Concepticon, mod.)
+
+### Contexts
+1. Fabric is made out of threads. 2. Pass the thread through the needle.
+

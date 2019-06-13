@@ -1,0 +1,7 @@
+## 561. MEETING AREA
+### Definition
+An open area in the center of a village where men gather and discuss various questions.
+
+### Contexts
+In every village old men gather in the MEETING AREA.
+

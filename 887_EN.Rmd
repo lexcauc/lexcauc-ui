@@ -1,0 +1,7 @@
+## 887. NARROW
+### Definition
+Of a gap, opposite of 'wide'. *Not* of an object, *not* opposite of 'broad, thick'. (CoBL)
+
+### Contexts
+The canyon is wide here, but further down it's narrow. (CoBL)
+

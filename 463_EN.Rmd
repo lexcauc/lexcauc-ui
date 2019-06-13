@@ -1,0 +1,7 @@
+## 463. MIX (TR)
+### Definition
+To combine together two granular substances or liquids.
+
+### Contexts
+1. I mixed rice with grain. 2. I mixed milk with cream.
+

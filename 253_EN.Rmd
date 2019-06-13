@@ -1,0 +1,7 @@
+## 253. WOOL OF GOATS
+### Definition
+The thick growth of hair that covers a goat’s body, prepared and used as material for clothes.
+
+### Contexts
+1. I cut the hide from a goat. 2. X is made out of sheep wool, Y is made out of goat wool.
+

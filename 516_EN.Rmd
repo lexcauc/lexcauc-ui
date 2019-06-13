@@ -1,0 +1,7 @@
+## 516. NEEDLE
+### Definition
+A thin, sharp instrument used for sewing.
+
+### Contexts
+Pass the thread through the needle.
+

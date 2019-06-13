@@ -1,0 +1,7 @@
+## 722. BUILD
+### Definition
+To create a permanent roofed building using stone or wood.
+
+### Contexts
+My father built his house himself.
+

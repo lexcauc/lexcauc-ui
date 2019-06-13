@@ -1,0 +1,7 @@
+## 137. SHEEP MILKING SHED
+### Definition
+A building where sheep are milked. (PICTURE?)
+
+### Contexts
+Sheep are going to the milking shed to be milked.
+

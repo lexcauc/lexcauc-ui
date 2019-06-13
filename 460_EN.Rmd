@@ -1,0 +1,7 @@
+## 460. PEEL (TR, OF FRUIT)
+### Definition
+To remove the skin from food or vegetables. (Concepticon)
+
+### Contexts
+I peeled the potatoes.
+

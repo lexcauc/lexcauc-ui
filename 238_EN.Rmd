@@ -1,0 +1,7 @@
+## 238. NEIGH
+### Definition
+To make the typical sound produced by a horse.
+
+### Contexts
+Horses neigh.
+

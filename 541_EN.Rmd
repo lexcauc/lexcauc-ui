@@ -1,0 +1,7 @@
+## 541. FASTENER
+### Definition
+Конструкция, состоящая из отверстия и продеваемой в него верёвки или иной полоски, фиксирующей одежду.A construction that consists of an opening and a strap that is inserted into it to fasten clothing.
+
+### Contexts
+Women have fasteners on their coats.
+

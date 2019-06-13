@@ -1,0 +1,7 @@
+## 236. BLEAT (SHEEP)
+### Definition
+To make the typical sound produced by a sheep.
+
+### Contexts
+Sheep bleat.
+

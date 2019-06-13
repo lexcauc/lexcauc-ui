@@ -1,0 +1,7 @@
+## 572. WALL
+### Definition
+The outer structure which encloses a building.
+
+### Contexts
+1. There is a picture on the wall. 2. The house has four walls.
+

@@ -1,0 +1,7 @@
+## 474. GRIND (FLOUR)
+### Definition
+To create flour by finely crushing grain.
+
+### Contexts
+1. To make flour, one must grind grain. 2. They grind flour on the mill.
+

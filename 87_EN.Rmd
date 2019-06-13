@@ -1,0 +1,7 @@
+## 87. GRANDFATHER (FATHER OF MOTHER)
+### Definition
+Mother’s father.
+
+### Contexts
+When my mother was born, my grandfather was 30 years old.
+

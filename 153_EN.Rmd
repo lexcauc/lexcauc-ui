@@ -1,0 +1,7 @@
+## 153. LAMB (< 1 YEAR)
+### Definition
+A sheep younger than 1 year.
+
+### Contexts
+1. A ewe gave birth to a lamb. 2. Lambs have little wool.
+

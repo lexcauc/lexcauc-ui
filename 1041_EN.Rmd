@@ -1,0 +1,7 @@
+## 1041. THINK
+### Definition
+Most generic verb for the active mental process of thinking, reasoning -- i.e. 'cogitate', but the most generic verb that covers this.  Not specifically 'have an opinion', 'believe'. I.e. not the context with following 'that': 'think that', 'believe that'. Avoid intensifying verbs specifically for deep or long thinking: e.g. 'ponder', 'consider'. Avoid verbs focusing on decision-making: e.g. 'decide'. Avoid verbs specifically for superficial thinking, mind-wandering: e.g. 'wonder'. (CoBL)
+
+### Contexts
+1. Wait a moment, I need to think. 2. What are you doing? I’m just thinking. (CoBL)
+

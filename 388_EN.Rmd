@@ -1,0 +1,7 @@
+## 388. KILL
+### Definition
+To put to death; to end a life. (Concepticon) By an animate agent (i.e. excluding diseases, colliding stones etc.). This verb should preferably be able to take both humans and common animals as its object, so as to rule out stylistic and archaic variants (e.g., ‘to slay’). Singular object use (i. e. not ‘to slaughter’ or various suppletive roots in specific paradigms, see the introduction). (CoBL)
+
+### Contexts
+1. The man killed a beast / another man. (GLD) 2. He is so strong / agile that he can kill any beast / any man. (GLD)
+

@@ -1,0 +1,7 @@
+## 191. DOG
+### Definition
+Most generic term for animal of species canis familiaris. Domesticated dog. Not to be confused with various breeds or specific words for dogs of different ages or sexes (‘puppy’, ‘bitch’ etc.). (Kassian et al. 2010). Also, avoid terms for hunting dog, e.g. Eng. "hound". (CoBL)
+
+### Contexts
+1. The dog guards the sheep. 2. Dogs live with people, wild animals do not.
+

@@ -1,0 +1,7 @@
+## 813. GIVE
+### Definition
+To be distinguished from ‘to hand’, ‘to offer’ etc., as well as special polite forms if encountered. Some languages make a clear and regular distinction between ‘to give (to 1st/2nd person)’ and ‘to give (to 3rd person)’ (cf. the difference between contexts 1 and 2); it is permissible to use these as synonyms if no third ‘recipient-neutral’ party is found.
+
+### Contexts
+1. I am giving my father a stone.  2. My father is giving me a stone.  3. He gave him a stick, but then snatched it back.
+

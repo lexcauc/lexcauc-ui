@@ -1,0 +1,7 @@
+## 716. WASH
+### Definition
+Most generic verb for removing dirt from the human body. Avoid specific terms for washing clothes, dishes etc. Avoid terms for total immersion, e.g. "bathe". (CoBL)
+
+### Contexts
+1. She washed her hands. (CoBL) 2. She is washing dishes.
+

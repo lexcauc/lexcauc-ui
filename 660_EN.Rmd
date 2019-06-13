@@ -1,0 +1,7 @@
+## 660. PEAR
+### Definition
+A fruit of the pear tree (Malus), of the Rosaceae family. 
+
+### Contexts
+1. Pears are elongated, apples are round. 2. Mountain pears are firm and sour.
+

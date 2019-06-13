@@ -1,0 +1,7 @@
+## 600. FIELD (FOR CULTIVATION)
+### Definition
+A plot of fertile land reserved for cultivation.
+
+### Contexts
+1. Fields are cultivated in spring. 2. Grain grows in the field. 3. Over here are the fields of our village, over there are the fields of the neighbouring village.
+

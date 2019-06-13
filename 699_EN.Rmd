@@ -1,0 +1,7 @@
+## 699. BREAK (TR)
+### Definition
+To separate into two parts by abrupt movement of the hands in transverse direction.
+
+### Contexts
+1. Rasul broke the stick with his hands. 2. This pencil is too thick, I cannot break it.
+

@@ -1,0 +1,7 @@
+## 468. MALT
+### Definition
+Soaked and sprouted seeds of cereals, primarily of barley. (Wiki)
+
+### Contexts
+1. Malt is made of wet cereals. 2. Beer is made out of malt.
+

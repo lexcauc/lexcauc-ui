@@ -1,0 +1,7 @@
+## 240. MEAOW
+### Definition
+To make the typical sound produced by a cat.
+
+### Contexts
+Cats meaow.
+

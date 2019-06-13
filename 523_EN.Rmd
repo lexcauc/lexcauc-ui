@@ -1,0 +1,7 @@
+## 523. FUR COAT
+### Definition
+A large fur coat with long sleeves.
+
+### Contexts
+In winter people wear fur coats.
+

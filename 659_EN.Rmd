@@ -1,0 +1,7 @@
+## 659. APPLE
+### Definition
+A fruit of the apple tree (Malus), of the Rosaceae family.
+
+### Contexts
+1. Apples are red or green. 2. Green apples are sour.
+

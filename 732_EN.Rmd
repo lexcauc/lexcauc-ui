@@ -1,0 +1,7 @@
+## 732. FLINT
+### Definition
+A piece of mineral rubbing which on another flint creates a spark.
+
+### Contexts
+
+

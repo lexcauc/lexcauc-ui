@@ -1,0 +1,7 @@
+## 173. NEST
+### Definition
+A structure which is built by birds on trees, in which they live and lay eggs.
+
+### Contexts
+1. Birds lay eggs in their nests. 2. I saw a sparrow’s nest in the bushes.
+

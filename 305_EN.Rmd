@@ -1,0 +1,7 @@
+## 305. NECK
+### Definition
+The part of the body (found in some animals, including humans) that connects the head and the trunk. (Concepticon) To be distinguished from ‘throat’ (internal) or specialized terms like ‘front / back of the neck’.  (GLD)
+
+### Contexts
+1. Tie the scarf around your neck. 2. The camel has a long neck.
+

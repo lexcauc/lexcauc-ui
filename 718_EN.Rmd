@@ -1,0 +1,7 @@
+## 718. SWEEP
+### Definition
+To clean the floor with a broom.
+
+### Contexts
+1. I swept the floor with a broom. 2. First sweep the floor and then wash it with water.
+

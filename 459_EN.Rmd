@@ -1,0 +1,7 @@
+## 459. SIEVE (N)
+### Definition
+A kitchen utensil used for sieving granular material and straining liquid material.
+
+### Contexts
+1. Mother has sieved flour with a sieve. 2. Mother has strained stock with a sieve.
+

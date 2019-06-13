@@ -1,0 +1,7 @@
+## 179. BAT
+### Definition
+A nocturnal flying mammal that resembles a mouse with membranous wings.
+
+### Contexts
+1. Bats fly in the dark. 2. A bat is not a bird.
+

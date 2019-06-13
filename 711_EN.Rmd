@@ -1,0 +1,7 @@
+## 711. HANG (INTR)
+### Definition
+Remain suspended to some point above. (Concepticon)
+
+### Contexts
+1. There is a light hanging on my ceiling. 2. There is a picture hanging on my wall.
+

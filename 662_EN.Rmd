@@ -1,0 +1,7 @@
+## 662. CHERRY PLUM
+### Definition
+A fruit of Prunus cerasifera, a species of the genus Prunus of the Rosaceae family.
+
+### Contexts
+Cherry plum is smaller than a plum.
+

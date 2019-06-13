@@ -1,0 +1,7 @@
+## 422. INTOXICATED
+### Definition
+Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol. (Concepticon)
+
+### Contexts
+1. If you drink a lot of beer, you will become drunk. 2. A drunk person staggers.
+

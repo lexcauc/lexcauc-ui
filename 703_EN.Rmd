@@ -1,0 +1,7 @@
+## 703. BURST
+### Definition
+To split into pieces in all directions due to being overfilled.
+
+### Contexts
+1. Bubbles in soapy water burst. 2. The balloon burst.
+

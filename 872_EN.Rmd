@@ -1,0 +1,7 @@
+## 872. END (OF KNIFE)
+### Definition
+
+
+### Contexts
+Don’t touch the end of the knife.
+

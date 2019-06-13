@@ -1,0 +1,7 @@
+## 700. TEAR (INTR, OF ROPE)
+### Definition
+To be separated into two parts as a result of extensive load in lengthwise direction (of a rope).
+
+### Contexts
+We tied an exceednigly heavy load to the rope, and it tore.
+

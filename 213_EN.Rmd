@@ -1,0 +1,7 @@
+## 213. LEECH
+### Definition
+Segmented bloodsucking worms that inhabit freshwater environments. Used in traditional medicine.
+
+### Contexts
+1. Leeches live in the water. 2. Leeches suck blood. 3. In former times leeches were used to cure diseases.
+

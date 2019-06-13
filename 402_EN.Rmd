@@ -1,0 +1,7 @@
+## 402. FURUNCLE
+### Definition
+Word included for compatiility with K&K. Only enter if the language draws a robust distinction between «spots», «furuncles» and «blisters».
+
+### Contexts
+You can squeeze out a spot with your fingers, ut not a furuncle.
+

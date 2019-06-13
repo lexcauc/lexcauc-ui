@@ -1,0 +1,7 @@
+## 301. TOOTH
+### Definition
+Generic term; to be strictly separated from specific kinds of teeth (molars, cuspids, wisdom teeth etc.). If no single term can be determined (e.g., in Basque, which lexically separates ‘back tooth, molar’ from ‘front tooth, incisor’ and uses the compound of both to denote ‘teeth’ in general), two roots can be taken as synonyms. (GLD)
+
+### Contexts
+1. The grown-up person has a lot of teeth, the newborn baby has no teeth. (GLD) 2. Old men usually have few teeth left. (GLD) 3. You can break a tooth while eating hard food. (GLD)
+

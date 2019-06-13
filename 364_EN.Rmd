@@ -1,0 +1,7 @@
+## 364. SPIT
+### Definition
+Most generic verb for expelling saliva from the mouth. Avoid terms specifically for spitting out an object, e.g. food. Avoid terms specifically for spitting at a person? (CoBL)
+
+### Contexts
+He spat on the ground.
+

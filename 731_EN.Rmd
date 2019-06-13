@@ -1,0 +1,7 @@
+## 731. TONGS
+### Definition
+A scissors-like metal tool used for taking hot embers from a fire.
+
+### Contexts
+
+

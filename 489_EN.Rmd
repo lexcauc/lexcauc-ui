@@ -1,0 +1,7 @@
+## 489. SUGAR
+### Definition
+A sweet crystalline or powdered substance that is used for improving the taste of products.
+
+### Contexts
+1. I drank tea with sugar. 2. Sugar is sweet.
+

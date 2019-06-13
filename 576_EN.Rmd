@@ -1,0 +1,7 @@
+## 576. CHIMNEY
+### Definition
+A masonry pipe that transports smoke outside from the room.
+
+### Contexts
+Smoke is coming from the chimney.
+

@@ -1,0 +1,7 @@
+## 275. ХВОСТ
+### Определение
+Most generic term for the appendage of an animal attached to its posterior. (CoBL) Of mammals (not birds, fish, snakes, etc.). Generic term, applied to as many different species as possible. Not to be confused with possible narrow terms, such as ‘small tail as of a goatling’ etc.  (GLD) Самое общее слово для отростка в задней части животных. (CoBL) О млекопитающем (не о рыбах, птицах, змеях и т. п.). Общий термин, сочетающийся с максимальным разнообразием видов. Отличать от возможных специализированных обозначений, напр., ‘хвостик козленка’ и т. п.
+
+### Контексты
+1. У зверей есть хвост, а у человека нету. (GLD) 2. [Зверь] машет хвостом, отгоняя насекомых. (GLD) 3. Он отрезал у [зверя] хвост. (GLD)
+

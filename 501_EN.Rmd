@@ -1,0 +1,7 @@
+## 501. EGG
+### Definition
+Egg (either fertilized or not) from domesticated birds, most commonly hens, seen as food. (CoBL) Note that the notion ‘to lay eggs’ can frequently be expressed syncretically by a separate verb; this should be rejected. (GLD)
+
+### Contexts
+1. Birds lay eggs, animals do not.  2. He had an egg in his hand.  3. Do you eat eggs?
+

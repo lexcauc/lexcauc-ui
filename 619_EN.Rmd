@@ -1,0 +1,7 @@
+## 619. SICKLE
+### Definition
+An implement, having a semicircular blade and short handle, used for cutting long grass and cereal crops in agriculture. (Concepticon)
+
+### Contexts
+1. Grain is reaped using a sickle. 2. The Soviet coat of arms was a hammer and a sickle.
+

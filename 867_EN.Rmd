@@ -1,0 +1,7 @@
+## 867. HIDE (INTR)
+### Definition
+
+
+### Contexts
+The child hid from its parents.
+

@@ -1,0 +1,7 @@
+## 713. POUR (TR, LIQUID)
+### Definition
+To cause a liquid to flow into a container. (Concepticon)
+
+### Contexts
+1. He poured water into the barrel. 2. Pour some water into the glass.
+

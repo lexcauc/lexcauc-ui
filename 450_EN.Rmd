@@ -1,0 +1,7 @@
+## 450. BOWL
+### Definition
+A roughly hemispherical container used to serve food for eating. (Concepticon, mod.)
+
+### Contexts
+Stock is served in a bowl.
+

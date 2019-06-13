@@ -1,0 +1,7 @@
+## 1077. NAME
+### Definition
+A word or phrase that designates a particular person (human being).
+
+### Contexts
+1. Tell me your mother’s / father’s name. (GLD) 2. A new-born baby does not yet have a name. (GLD)
+

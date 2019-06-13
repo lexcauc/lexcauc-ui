@@ -1,0 +1,7 @@
+## 942. OLD (OF THING)
+### Definition
+Most generic adjective for the relative age of an inanimate object. Avoid terms specifically for food, e.g. "rotten, gone off" etc., where different. Avoid terms for great age, e.g. "ancient", where different. Avoid terms applying to animates, e.g. "elderly, old man". Avoid terms indicating something is "worn out, thin" or no longer useful, e.g. for clothing. Avoid terms for "in ruins" etc. (CoBL)
+
+### Contexts
+1. He lives in the old house, not in the new house. (CoBL) 2. XX is a very old city.
+

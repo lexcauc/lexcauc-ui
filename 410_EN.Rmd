@@ -1,0 +1,7 @@
+## 410. HEAL (TR)
+### Definition
+To remedy a person from illness by medical means.
+
+### Contexts
+Doctors heal people.
+

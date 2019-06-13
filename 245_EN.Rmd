@@ -1,0 +1,7 @@
+## 245. BUZZ
+### Definition
+To make the sound produced by insects during flight.
+
+### Contexts
+Flies buzz when flying.
+

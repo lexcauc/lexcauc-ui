@@ -1,0 +1,7 @@
+## 954. DAY (NOT NIGHT)
+### Definition
+Most generic term for the light period in contrast to night. Antonym of "night". Avoid terms referring to the "24-hour period". (CoBL)
+
+### Contexts
+1. Night comes after the day. 2. It is daytime now, we must work.
+

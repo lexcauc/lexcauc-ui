@@ -1,0 +1,7 @@
+## 968. YEAR
+### Definition
+Should be distinguished from adverbial forms (‘annually’, ‘all the year round’, etc.); from specific nominal or adverbial designations of particular time periods (‘this year’, ‘past year’, etc.); from special terms for half-years or seasons; from ‘year’ as an age marker (‘he is five years old’, etc.). If the language has no common term for ‘year’ whatsoever, the slot should remain empty. (Kassian et al. 2010) Singular rather than plural form, preferably nominative. Avoid terms which refer specifically to the duration of the year taken as a whole, such as French année rather than basic an. Avoid terms specifically for counting years. (CoBL)
+
+### Contexts
+1. The first month of the year is called [X]. (GLD)  2. How many months are there in a year? (GLD)
+

@@ -1,0 +1,7 @@
+## 467. FRIED FLOUR
+### Definition
+Flour made of fried grain (Russian <i>tolokno</i>, Estonian <i>kama</i>).
+
+### Contexts
+FRIED FLOUR is made out of fried grain.
+

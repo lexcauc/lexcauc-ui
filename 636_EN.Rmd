@@ -1,0 +1,7 @@
+## 636. ONION
+### Definition
+A vegetable (<i>Allium cepa</i>), the most widely cultivated species of the genus Allium. (Concepticon, mod.)
+
+### Contexts
+When meat is fried, onion is added.
+

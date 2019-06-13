@@ -1,0 +1,7 @@
+## 219. SPIDER
+### Definition
+An eight-legged insect of the order Araneae that weaves webs.
+
+### Contexts
+1. A spider has woven a web in the corner of the room. 2. Spiders eat flies.
+

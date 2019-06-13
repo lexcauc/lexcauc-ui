@@ -1,0 +1,7 @@
+## 224. WASP
+### Definition
+A flying stinging insect related to the bee, which is usually coloured yellow and black. (Concepticon)
+
+### Contexts
+1. Wasps bite painfully. 2. If you don’t touch the wasp, it won’t bite you. 3. Bees make honey, wasps do not.
+

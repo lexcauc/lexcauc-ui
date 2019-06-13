@@ -1,0 +1,7 @@
+## 187. CUCKOO
+### Definition
+A bird from the family Cuculidae. It is distinguished primarily by the characteristic sound it makes.
+
+### Contexts
+A cuckoo is loudly singing in the wood.
+

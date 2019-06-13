@@ -1,0 +1,7 @@
+## 893. STRAIGHT
+### Definition
+Most generic term describing the path of an uncurved line. Avoid terms specifically meaning "moral correctness" or "proper conduct". Avoid terms specifically meaning "straight ahead" in spatial directions (implying goal of motion). (CoBL)
+
+### Contexts
+1. This stick is straight, but that one is bent. (CoBL) 2. There is a straight road from our village to XX.
+

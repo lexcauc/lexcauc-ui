@@ -1,0 +1,7 @@
+## 613. SOW
+### Definition
+To scatter or disperse seeds on a field. (Concepticon)
+
+### Contexts
+Fields are sown in spring.
+

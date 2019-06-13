@@ -1,0 +1,7 @@
+## 685. UNTIE (KNOT, ROPE)
+### Definition
+The removal of a knot on a rope, strap or thread.
+
+### Contexts
+1. When you remove your shoes, untie the straps. 2. He untied the knot on the rope.
+

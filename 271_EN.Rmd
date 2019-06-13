@@ -1,0 +1,7 @@
+## 271. DUNG (OF COW)
+### Definition
+The stool of a cow. If there is only a general term for animal stool (not just for cows), enter it here.
+
+### Contexts
+There is a lot of cow dung in the field.
+

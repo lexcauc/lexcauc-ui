@@ -1,0 +1,7 @@
+## 563. DOOR
+### Definition
+A firm structure, usually made of wood, that covers the entrance into a building.
+
+### Contexts
+1. There is a door in every house. 2. He knocked at the door.
+

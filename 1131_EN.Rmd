@@ -1,0 +1,7 @@
+## 1131. WITH
+### Definition
+The target sense is of with as 'together with a person', not with as 'by means of' an instrument (i.e. comitative, not instrumental). If your language uses the same lexeme for both comitative and instrumental, obviously enter that lexeme. If your language has separate lexemes, enter the comitative one only. If your language normally expresses this by a case affix, rather than a free-standing grammatical word, then enter the case affix, although if there is a grammatical word for 'together with', enter this. (CoBL)
+
+### Contexts
+I saw him walking with a friend. (CoBL)
+

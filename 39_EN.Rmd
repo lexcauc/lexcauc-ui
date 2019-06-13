@@ -1,0 +1,7 @@
+## 39. RAIN
+### Definition
+Most generic term for liquid precipitation. Avoid terms for different types of precipitation, e.g. "drizzle", or denoting duration, e.g. "shower". (CoBL)
+
+### Contexts
+1. Rain is water from the sky. (GLD)  2. Look at the rain, it is not very heavy yet. (GLD)
+

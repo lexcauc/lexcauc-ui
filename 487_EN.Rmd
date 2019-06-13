@@ -1,0 +1,7 @@
+## 487. SALT
+### Definition
+Salt as natural product. Should be distinguished from specific designation of ‘packaged salt’, bought in stores; also from ‘saltlick’, ‘saltpan’, etc. (GLD)
+
+### Contexts
+1. People have to eat salt. (GLD) 2. This kid wants some salt. (GLD) 3. Here is some white salt. (GLD)
+

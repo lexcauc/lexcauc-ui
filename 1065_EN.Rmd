@@ -1,0 +1,7 @@
+## 1065. THERE (MEDIAL)
+### Definition
+Most generic adverbial indicating distal location. When a language has a three-way distinction, e.g. "here-there-yonder", the more proximate term should be chosen.  (CoBL)
+
+### Contexts
+Look, a snake is crawling over there (near you).
+

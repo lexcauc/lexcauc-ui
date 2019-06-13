@@ -1,0 +1,7 @@
+## 790. PUSH
+### Definition
+Most generic verb for moving an object with the hands in a direction away from oneself -- basic opposite of 'pull'.  Avoid terms for just applying pressure, without necessarily causing movement, e.g. 'press'.  Not the sense of 'push a button', i.e. 'press', 'push in/down'.  Avoid terms specifically for 'distancing', i.e. pushing further away from oneself; the verb selected should be generic enough also to apply to cases where the person pushing the object is him/herself moving too, i.e. pushing an object along.  Avoid terms specifically for pushing an object in constant contact with the ground, e.g. 'shove'.  Avoid intensifying terms emphasising sudden pushing, strenuous force and/or particularly heavy objects, e.g. 'jolt', 'ram', 'shove'.  Avoid terms specifically involving rotation (e.g. 'roll'), causing to fall (e.g. 'push over') or other overly specific senses.  Avoid terms for more general change of position, e.g. 'move, carry'. (CoBL)
+
+### Contexts
+1. He went and pushed the cart in front of him. 2. He pushed the table from himself.
+

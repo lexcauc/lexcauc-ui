@@ -1,0 +1,7 @@
+## 88. GRANDMOTHER (MOTHER OF FATHER)
+### Definition
+Father’s mother.
+
+### Contexts
+My grandmother gave birth to my father when she was 20 years old.
+

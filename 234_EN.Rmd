@@ -1,0 +1,7 @@
+## 234. LIZARD
+### Definition
+A suborder of squamate reptiles. Are differentiated from snakes by the presence of limbs.
+
+### Contexts
+1. Lizards like hot weather. 2. Lizards have four legs and long tails.
+

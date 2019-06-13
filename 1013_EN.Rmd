@@ -1,0 +1,7 @@
+## 1013. COLD
+### Definition
+Having a low temperature. (Concepticon)
+
+### Contexts
+1. The water is too cold. (GLD) 2. I do not know if this stone is still cold or whether it already got hot in the sun. (GLD) 3. Ice is cold.
+

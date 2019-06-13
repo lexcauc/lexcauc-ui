@@ -1,0 +1,7 @@
+## 907. THREE
+### Definition
+The third natural number (3). (Concepticon)
+
+### Contexts
+He has three children: a son and two daughters.
+

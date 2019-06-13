@@ -1,0 +1,7 @@
+## 621. ARD PLOUGH
+### Definition
+An old type of instrument for ploughing; the ancestor of the plough.
+
+### Contexts
+In the old times fields were cultivated using ARD PLOUGHs.
+

@@ -1,0 +1,7 @@
+## 244. CROW
+### Definition
+To make the typical sound produced by a rooster.
+
+### Contexts
+Roosters crow in the morning.
+

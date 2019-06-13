@@ -1,0 +1,7 @@
+## 118. FAMILY
+### Definition
+A group of close relatives which minimally includes parents and their children. The precise boundaries in a given culture are not important; the word for a minimal group of this type should be included (i.e. not ‘clan’).
+
+### Contexts
+There are three children in Muhammad and Fatima’s family.
+

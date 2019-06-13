@@ -1,0 +1,7 @@
+## 650. WILLOW
+### Definition
+A deciduous tree of the genus Salix of the Salicaceae family.
+
+### Contexts
+1. The branches of the willow are hanging down. 2. Willows grow near rivers.
+

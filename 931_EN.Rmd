@@ -1,0 +1,7 @@
+## 931. FULL
+### Definition
+Adjective or verb, referring to the full state of a vessel. Can be used without dependents, thus, should not be confused with ‘filled with smth.’. Also to be distinguished from specialized words like ‘completely full’, ‘full to the brim’, ‘full with small/large objects’, etc.
+
+### Contexts
+1. This jar is full, that one is empty. 2. The jar (bag, pit, etc.) is already full, we cannot put in anything else.
+

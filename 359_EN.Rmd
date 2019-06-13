@@ -1,0 +1,7 @@
+## 359. YAWN
+### Definition
+To open the mouth widely and take a long, deep breath because of tiredness or boredom. (Concepticon)
+
+### Contexts
+Murad wants to sleep and is yawning.
+

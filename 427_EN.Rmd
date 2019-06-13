@@ -1,0 +1,7 @@
+## 427. FOOD
+### Definition
+A substance that can be ingested and utilized by the organism as a source of nutrition and energy. (Concepticon)
+
+### Contexts
+A person cannot live without food.
+

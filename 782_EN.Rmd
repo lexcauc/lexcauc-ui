@@ -1,0 +1,7 @@
+## 782. DISAPPEAR
+### Definition
+
+
+### Contexts
+1. Murad disappeared, we haven’t seen him for 10 years. 2. In the morning stars disappear.
+

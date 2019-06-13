@@ -1,0 +1,7 @@
+## 297. MOUTH (INTERNAL, ORAL CAVITY)
+### Definition
+The internal space of the mouth, oral cavity. Avoid specialized anatomical terms. If the contexts do not distinguish between ‘external mouth’ and ‘internal mouth’, input the same lexeme (i.e. English would have ‘mouth’ and not ‘oral cavity’).
+
+### Contexts
+1. His mouth is full of food. 2. He has candies in his mouth.
+

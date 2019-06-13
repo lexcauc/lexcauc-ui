@@ -1,0 +1,7 @@
+## 550. BRAID
+### Definition
+Women’s haircut that consists of several hairs braided together. Different terms may exist for one large braid and one of two smaller braids. In this case the term that refers to one large braid must be entered.
+
+### Contexts
+Women braid their hair into two small braids or one large braid.
+

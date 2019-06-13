@@ -1,0 +1,7 @@
+## 453. PITCHER FOR CARRYING WATER
+### Definition
+A traditional pitcher in which women carry water from the source.
+
+### Contexts
+Women go for water with pitchers.
+

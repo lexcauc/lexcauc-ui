@@ -1,0 +1,7 @@
+## 618. REAP (V, CROPS)
+### Definition
+To harvest crops from a field.
+
+### Contexts
+In summer wheat fields are reaped.
+

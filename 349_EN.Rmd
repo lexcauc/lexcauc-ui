@@ -1,0 +1,7 @@
+## 349. FAT (ADJ)
+### Definition
+Carrying a larger-than-normal amount of fat. (Concepticon, modified)
+
+### Contexts
+The farmer slaughtered a fat ram.
+

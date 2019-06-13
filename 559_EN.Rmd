@@ -1,0 +1,7 @@
+## 559. RUINS
+### Definition
+A destroyed building.
+
+### Contexts
+The village turned into ruins.
+

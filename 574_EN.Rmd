@@ -1,0 +1,7 @@
+## 574. FIREPLACE
+### Definition
+An open recess in a wall at the base of a chimney where a fire may be built. (Concepticon)
+
+### Contexts
+There is always fire in our fireplace.
+

@@ -1,0 +1,7 @@
+## 506. REMOVE (DRESS)
+### Definition
+To remove clothing that covers the upper part of the body (shirt, dress). 
+
+### Contexts
+1. I removed my shirt. 2. She removed her dress.
+

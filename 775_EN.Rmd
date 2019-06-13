@@ -1,0 +1,7 @@
+## 775. STEP (N)
+### Definition
+The distance that a person passes with one move of their leg.
+
+### Contexts
+
+

@@ -1,0 +1,7 @@
+## 133. HERDSMAN (OF COWS)
+### Definition
+A person herding cattle (i.e. cows, not sheep).
+
+### Contexts
+The herdsman led the cattle home.
+

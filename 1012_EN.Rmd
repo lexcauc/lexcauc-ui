@@ -1,0 +1,7 @@
+## 1012. WARM
+### Definition
+‘Warm’ can be understood as ‘having a temperature slightly above the norm’, with a generally positive connotation. (GLD)
+
+### Contexts
+1. The water is warm, not too hot and not too cold. (GLD) 2. A warm wind is blowing. (GLD)
+

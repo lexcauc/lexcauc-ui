@@ -1,0 +1,7 @@
+## 135. CATTLE SHED
+### Definition
+A covered building for cattle.
+
+### Contexts
+Drive the cattle into the shed.
+

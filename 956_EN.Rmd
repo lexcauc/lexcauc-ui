@@ -1,0 +1,7 @@
+## 956. NIGHT
+### Definition
+‘Night’ as the time period devoid of sunshine, opposed to ‘day’. Not to be confused with adverbial temporal usage (‘by night’, ‘nightly’), if such forms are represented by a different root. (GLD)
+
+### Contexts
+1. Night comes after the day. (GLD) 2. The night is bright when the moon is shining. (GLD)
+

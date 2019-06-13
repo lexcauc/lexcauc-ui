@@ -1,0 +1,7 @@
+## 577. STAIRS
+### Definition
+A contiguous set of steps connecting two floors. (Concepticon)
+
+### Contexts
+1. You should enter this house via the stairs. 2. You can take this stairway up to the roof.
+

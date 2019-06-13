@@ -1,0 +1,7 @@
+## 419. DEAF
+### Definition
+Not having the faculty of hearing. (Concepticon, modified)
+
+### Contexts
+1. Deaf people do not hear anything. 2. Don’t say anything to him, he is deaf.
+

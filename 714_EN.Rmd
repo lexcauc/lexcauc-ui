@@ -1,0 +1,7 @@
+## 714. POUR (INTR, GRANULAR)
+### Definition
+To move outside from a container (of a granular substance), typically through a hole.
+
+### Contexts
+Grain poured out of the sack.
+

@@ -1,0 +1,7 @@
+## 674. WEED
+### Definition
+A wild plant that grows in a field or vegetable garden, that has no household use and that inhibits the growth of cultivated plants.
+
+### Contexts
+1. For vegetables to grow in the garden, you should weed out weeds. 2. Vegetables and cereals are edible, weeds are not.
+

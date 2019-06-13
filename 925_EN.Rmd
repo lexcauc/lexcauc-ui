@@ -1,0 +1,7 @@
+## 925. ALL (PL.)
+### Definition
+The “plural” ‘all’ (= Latin omnis). Not to be confused with ‘each, every’ (cf. context 3). If possible, should be separated from the “singular” ‘all’ (Latin totus, in contexts like: All of the water in the lake/pool became frozen/evaporated; He has eaten all the meat), which we recommend to exclude from the list. (GLD)
+
+### Contexts
+1. He has cut down all the trees. (GLD) 2. He has killed all animals. (GLD) 3. All these men are brothers. (GLD)
+

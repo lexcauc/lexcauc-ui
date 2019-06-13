@@ -1,0 +1,7 @@
+## 648. BIRCH
+### Definition
+Any deciduous tree of the genus Betula of the family Betulaceae.
+
+### Contexts
+The trunk of a birch is black and white.
+

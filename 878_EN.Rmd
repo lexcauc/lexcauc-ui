@@ -1,0 +1,7 @@
+## 878. GROW
+### Definition
+
+
+### Contexts
+A high tree grew up in our garden.
+

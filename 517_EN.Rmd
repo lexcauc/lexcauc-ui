@@ -1,0 +1,7 @@
+## 517. KNITTING NEEDLE
+### Definition
+A long, but not sharp needle that is used for knitting.
+
+### Contexts
+Wool clothes are knit using the knitting needle.
+

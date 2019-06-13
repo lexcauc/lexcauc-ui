@@ -1,0 +1,7 @@
+## 885. SHORT
+### Definition
+The lexeme selected should be the basic term that contrasts with 'long' in your language. Indeed it should be the basic opposite to the term you enter for the CoBL comparison meaning long -- see also the precise definition for that comparison meaning too. The lexeme selected should be the most generic adjective for a relatively small distance between two points, prototypically the two ends of an object (on its longest dimension, usually perceived of horizontally rather than vertically). The target sense is not that of a short duration in time. (That may also fall under the scope of the chosen lexeme, as it does in English, but do not choose a term like 'brief' that refers most basically to time rather than size.) The target sense is also not that of short in stature. I.e., do not give the opposite of 'tall', but the opposite of 'long'. Some languages may have different lexemes depending on the type or form of referent: rope, clothing, hair, snake/worm, and so on. In such cases, the prototypical referent to consider is a long and thin object like a piece of rope or string. As per standard policy, however, please give not a specific lexeme exclusive to that sense, but the lexeme with most basic, broadest range that also includes that prototypical context. (CoBL)
+
+### Contexts
+1. Here is a long stick, here is a short one. (GLD) 2. This rope is long, I need a short one. (GLD) 3. Women have long hair, men have short hair. (GLD)
+

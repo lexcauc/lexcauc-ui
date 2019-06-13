@@ -1,0 +1,7 @@
+## 909. FIVE
+### Definition
+The fifth natural number (5).
+
+### Contexts
+A hand has five fingers.
+

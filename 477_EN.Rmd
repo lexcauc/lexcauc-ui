@@ -1,0 +1,7 @@
+## 477. SAUSAGE
+### Definition
+A piece of animal intestine filled with meat and ready for consumption.
+
+### Contexts
+1. Sausage is made out of guts and meat. 2. Sausages are fried.
+

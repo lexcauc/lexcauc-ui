@@ -1,0 +1,7 @@
+## 755. TURN (INTR)
+### Definition
+To move around one’s axis.
+
+### Contexts
+
+

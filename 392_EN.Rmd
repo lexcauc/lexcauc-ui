@@ -1,0 +1,7 @@
+## 392. SHROUD
+### Definition
+A piece of fabric that is used to cover a dead body during funeral.
+
+### Contexts
+A dead person is covered by a shroud.
+

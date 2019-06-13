@@ -1,0 +1,7 @@
+## 322. CLAW
+### Definition
+A curved pointed appendage, found at the end of some animals’ paws.
+
+### Contexts
+1. Animals have claws on their paws. 2. People have fingernails, animals have claws.
+

@@ -1,0 +1,7 @@
+## 128. SELF
+### Definition
+A 3rd person pronoun used in direct object position, coreferential with the transitive subject.
+
+### Contexts
+He saw himself in the mirror.
+

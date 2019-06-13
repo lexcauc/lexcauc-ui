@@ -1,0 +1,7 @@
+## 717. WASH (LAUNDRY)
+### Definition
+To wash clothes in soapy water.
+
+### Contexts
+1. Bring me water, I need to wash clothes. 2. I have just washed clothes and put them out to dry.
+

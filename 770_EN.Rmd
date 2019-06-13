@@ -1,0 +1,7 @@
+## 770. CROUCH
+### Definition
+
+
+### Contexts
+1. He crouched to have a rest. 2. He crouched to enter the cave.
+

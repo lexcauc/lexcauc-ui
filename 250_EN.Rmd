@@ -1,0 +1,7 @@
+## 250. HIDE OF GOATS AND SHEEP
+### Definition
+The hide of goats and sheep.
+
+### Contexts
+1. I removed the hide from the sheep. 2. X is made out of sheep hide, Y is made out of cow hide.
+

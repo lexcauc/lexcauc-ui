@@ -1,0 +1,7 @@
+## 520. SKEIN
+### Definition
+Many threads wound together into a ball.
+
+### Contexts
+He rolled the thread into a skein.
+

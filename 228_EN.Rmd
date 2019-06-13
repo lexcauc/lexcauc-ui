@@ -1,0 +1,7 @@
+## 228. SNAKE
+### Definition
+Most generic term for a reptile of the suborder Serpentes. (CoBL) To be distinguished from the meaning ‘worm’.
+
+### Contexts
+1. A snake has eyes, a worm has no eyes. (GLD) 2. Birds fly in the sky, snakes crawl on the ground. (GLD) 3. The snake is basking in the sun. (GLD)
+

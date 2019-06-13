@@ -1,0 +1,7 @@
+## 492. CHEESE
+### Definition
+A firm product made of curdled milk.
+
+### Contexts
+1. Cheese is made out of milk. 2. Salt is put into cheese.
+

@@ -1,0 +1,7 @@
+## 641. ROOT
+### Definition
+Generic term referring to roots of trees/shrubs. Not to be confused with ‘tubers’, ‘edible roots’ of specific plants, or grass roots. (GLD)
+
+### Contexts
+1. You could see some of the roots of the tree above the ground. (CoBL) 2. Plants have roots.
+

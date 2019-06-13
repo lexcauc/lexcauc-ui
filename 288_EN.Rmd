@@ -1,0 +1,7 @@
+## 288. EYE
+### Definition
+Basic term for human eye, but not specialised medical or technical terms if different. Avoid specific terms for "vision, sight" etc. (CoBL)
+
+### Contexts
+1. People have two eyes. 2. He has only one eye. 3. We see with our eyes.
+

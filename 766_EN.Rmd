@@ -1,0 +1,7 @@
+## 766. SWIM
+### Definition
+Most generic intransitive verb for human self-motion in water (without touching the bottom). (CoBL)
+
+### Contexts
+1. Is there anyone among your friends who cannot swim? (GLD) 2. If you do not learn to swim, you will drown. (GLD) 3. There is someone swimming out there. (GLD)
+

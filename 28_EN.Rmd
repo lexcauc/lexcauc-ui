@@ -1,0 +1,7 @@
+## 28. MOON
+### Definition
+Most generic term for the satellite of the planet Earth. Avoid terms for specific stages of the moon, e.g. "crescent". Avoid words that refer primarily to the time-unit of a 'month'; the word entered should be the basic word for the celestial object. (CoBL)
+
+### Contexts
+1. The sun shines during the day, the moon shines at night.  2. There is a full moon in the sky.
+

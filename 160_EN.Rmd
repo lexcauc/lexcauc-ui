@@ -1,0 +1,7 @@
+## 160. KID (< 1 YEAR)
+### Definition
+A goat less than 1 year old.
+
+### Contexts
+Our she-goat gave birth to a kid yesterday.
+

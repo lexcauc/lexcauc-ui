@@ -1,0 +1,7 @@
+## 320. FINGER
+### Definition
+One of the long extremities of the hand that is used for gripping objects. (Concepticon)
+
+### Contexts
+There are five fingers on the hand.
+

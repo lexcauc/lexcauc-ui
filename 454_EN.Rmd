@@ -1,0 +1,7 @@
+## 454. SPOON
+### Definition
+An implement for eating or serving, a small bowl with a long straight handle. (Concepticon)
+
+### Contexts
+Soup is eaten by a spoon.
+

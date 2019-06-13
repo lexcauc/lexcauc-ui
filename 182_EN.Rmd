@@ -1,0 +1,7 @@
+## 182. JACKDAW
+### Definition
+A small bird of the <i>Corvidae </i>family (<i>Coloeus monedula</i>). It is differentiated from the crow primarily by its smaller size.
+
+### Contexts
+A jackdaw is smaller than a crow.
+

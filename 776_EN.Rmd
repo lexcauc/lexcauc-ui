@@ -1,0 +1,7 @@
+## 776. RUN
+### Definition
+Most generic intransitive verb for swift motion of human beings with the feet. Avoid terms meaning "function", "manage" etc.. Avoid terms for movement of e.g. liquids, where different. Avoid terms specifically for animals, where different. (CoBL)
+
+### Contexts
+1. Can you run fast? (CoBL) 2. It is hard to run in sand.
+

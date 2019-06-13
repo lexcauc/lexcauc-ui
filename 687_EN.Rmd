@@ -1,0 +1,7 @@
+## 687. ROPE, CORD
+### Definition
+Threads of fabric wound together so that they form a thick elastic line that is hard to tear.
+
+### Contexts
+1. The bucket in the well hangs on a rope. 2. He tied the horse to the tree with a rope.
+

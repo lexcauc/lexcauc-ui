@@ -1,0 +1,7 @@
+## 525. WOMAN'S DRESS
+### Definition
+A one-piece garment for a woman that has a skirt and a body section.  (Concepticon)
+
+### Contexts
+1. Women wear dresses, men wear shirts. 2. Trousers are not worn with dresses.
+

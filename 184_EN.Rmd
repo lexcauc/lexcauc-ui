@@ -1,0 +1,7 @@
+## 184. SPARROW
+### Definition
+A small song bird, in the family Passeridae. (Concepticon)
+
+### Contexts
+1. A sparrow is smaller than a dove. 2. Sparrows sing, doves do not.
+

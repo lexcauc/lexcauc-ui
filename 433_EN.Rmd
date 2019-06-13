@@ -1,0 +1,7 @@
+## 433. DRINK
+### Definition
+To consume a liquid through the mouth. If there are separate transitive and intransitive verbs, choose the transitive variant.
+
+### Contexts
+1. Drink some water. 2. You should not drink dirty water.
+

@@ -1,0 +1,7 @@
+## 385. ALIVE
+### Definition
+Having life, not dead.
+
+### Contexts
+Has Murad died? No, he is still alive.
+

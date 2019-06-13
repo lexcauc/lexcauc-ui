@@ -1,0 +1,7 @@
+## 976. SMELL (TR)
+### Definition
+Perceiving an odour, by a human, through the nose. Not emitting an odour, smelling of something, e.g. by a flower. So not as in "the food smells good". The transitive verb (form) used where the subject of the verb is the person who perceives the odour, while that odour, or the substance or thing emitting it, is the object. Some languages (e.g. Slavic) have different verbs where the human subject is either the experiencer or agent of 'smell' (the same contrast that English itself has for other perception meanings such as 'see' vs. 'look', 'hear' vs. 'listen'). In such languages, select the verb form where the human subject is experiencer, not agent, who perceives the odour passively, not actively and intentionally 'sniffing' for it. So not as in "she knelt down and smelt the flowers".
+
+### Contexts
+1. I (can) smell smoke. (CoBL) 2. The wolf smelt human smell.
+

@@ -1,0 +1,7 @@
+## 324. FOOT
+### Definition
+Denoting the part of the leg below the ankle joint. In many languages, “leg” and “foot” are either not distinguished at all, and the particular meaning “foot” is translated as “smth. of the leg”, e.g., “head of leg”, “end of leg”, etc. In these cases, the “leg” root is still carrying the bulk of the meaning. (GLD)Even though both ‘foot’ and ‘leg’ are included in LexCauc, care should be taken not to input special anatomical terms; if there is not basic opposition between the two, the same term should be recorded for both meanings.
+
+### Contexts
+1. He put the shoe on his foot.  2. He kicked him with his foot.  3. There are toes on the feet.
+

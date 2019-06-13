@@ -1,0 +1,7 @@
+## 447. LID (OF CAULDRON)
+### Definition
+The cap of a cauldron.
+
+### Contexts
+When water boiled, I removed the lid from the cauldron.
+

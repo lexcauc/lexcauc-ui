@@ -1,0 +1,7 @@
+## 622. PLOUGHSHARE
+### Definition
+The metal part of the plough which breaks open the earth.
+
+### Contexts
+The ploughshare is at the end of a plough.
+

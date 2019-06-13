@@ -1,0 +1,7 @@
+## 908. FOUR
+### Definition
+The fourth natural number (5).
+
+### Contexts
+The cat has four legs.
+

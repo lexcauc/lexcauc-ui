@@ -1,0 +1,7 @@
+## 603. PLOW
+### Definition
+(Of a field) Process with a plough in order to prepare for planting cereals.
+
+### Contexts
+1. In spring fields are ploughed. 2. He ploughed the field with a plough.
+

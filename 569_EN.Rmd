@@ -1,0 +1,7 @@
+## 569. WINDOW
+### Definition
+An opening in the wall that is covered by glass and serves for illumination and ventilation.
+
+### Contexts
+Light comes to the room through the window.
+

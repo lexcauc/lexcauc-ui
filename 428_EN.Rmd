@@ -1,0 +1,7 @@
+## 428. RIPEN
+### Definition
+To reach a state in which a fruit can be eaten and a cereal can be harvested.
+
+### Contexts
+1. The plum has ripened, we can eat it. 2. Watermelons ripen in late summer.
+

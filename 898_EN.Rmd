@@ -1,0 +1,7 @@
+## 898. ROUND
+### Definition
+Preferably a common term for three-dimensional (ball) and flat (plate) objects. If there is no such term, include both as synonyms, marking 3D as non-basic.
+
+### Contexts
+1. Here is a round stone. (GLD) 2. Here is a round fruit. (GLD) 3. Here is a round dish. (GLD)
+

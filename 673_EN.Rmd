@@ -1,0 +1,7 @@
+## 673. REED
+### Definition
+
+
+### Contexts
+Reed grows on swamps.
+

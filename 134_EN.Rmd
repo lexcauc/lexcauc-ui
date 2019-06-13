@@ -1,0 +1,7 @@
+## 134. SHEPHERD
+### Definition
+A person herding sheep.
+
+### Contexts
+The shepherd led the sheep to the pasture.
+

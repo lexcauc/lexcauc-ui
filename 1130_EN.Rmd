@@ -1,0 +1,7 @@
+## 1130. TRUE
+### Definition
+See: https://github.com/lingdb/CoBL-public/wiki/true
+
+### Contexts
+This is not a fairy tale, but a true story.
+

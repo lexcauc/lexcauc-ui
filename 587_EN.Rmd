@@ -1,0 +1,7 @@
+## 587. CANDLE
+### Definition
+A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin. 
+
+### Contexts
+1. Candles are made out of wax. 2. When there is no light, we burn candles.
+

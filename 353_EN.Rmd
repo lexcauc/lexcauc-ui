@@ -1,0 +1,7 @@
+## 353. PLACENTA
+### Definition
+An organ that nourishes the fetus in the womb during pregnancy. Comes out of the womb after giving birth, is connected to the child by the umbilical cord.
+
+### Contexts
+When the child is born, it is connect to the placenta by the umbilical cord.
+

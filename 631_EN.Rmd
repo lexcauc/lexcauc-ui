@@ -1,0 +1,7 @@
+## 631. GRAIN (BARLEY, OATS ETC)
+### Definition
+A general, mass term for the fruit of cereals (of the family Gramineae) grown for food.
+
+### Contexts
+Flour is made out of grain.
+

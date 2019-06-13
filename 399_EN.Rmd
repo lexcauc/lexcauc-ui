@@ -1,0 +1,7 @@
+## 399. FEVER
+### Definition
+A higher than normal temperature of a person. (Concepticon, modified)
+
+### Contexts
+1. I caught a cold and I have fever. 2. He has fever, he must lie in bed.
+

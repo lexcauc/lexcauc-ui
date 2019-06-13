@@ -1,0 +1,7 @@
+## 274. HORN
+### Definition
+Applied to the prevailing/endemic species of the given region. If there are different words for ‘hollow horn’ and ‘antler’ and both kinds of species are endemic, the preferred choice is ‘hollow horn’ (‘antler’ is generally less stable and more likely to have a “descriptive” origin). However, the word for ‘antler’ can be used if there are no prevailing cavicorn endemics in the region (e.g., in North Siberia). If there are no cornute species in the region altogether, the slot remains empty (e.g., Oceania). To be strictly separated from termini technici like ‘hunting horn’ or ‘drinking horn’ which may be formed from different roots. (GLD)
+
+### Contexts
+1. Some animals have horns, some don’t. (GLD) 2. People don’t have horns, some animals do. (GLD) 3. He grabbed [the beast] by the horn.  4. He cut off [the beast’s] horn. (GLD)
+

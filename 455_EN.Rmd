@@ -1,0 +1,7 @@
+## 455. FORK
+### Definition
+A utensil with spikes used to put solid food into the mouth. (Concepticon)
+
+### Contexts
+Khinkal is eaten with a fork.
+

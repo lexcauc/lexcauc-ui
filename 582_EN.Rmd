@@ -1,0 +1,7 @@
+## 582. SPINNING TOP
+### Definition
+A child’s toy that is spinned using a piece of string.
+
+### Contexts
+1. Children are playing with spinning tops at the threshing floor. 2. The spinning top is a toy that spins rapidly.
+

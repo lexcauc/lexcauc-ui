@@ -1,0 +1,7 @@
+## 37. CLOUD
+### Definition
+Most generic term for a (white) cloud, in the sky. A cloud in the sky: i.e. avoid terms for cloud at ground level, if different, e.g. fog, mist. Avoid terms specific to particular types of cloud: raincloud, dark cloud, thunder cloud. Avoid technical, meteorological terms. (CoBL)
+
+### Contexts
+1. There is a white cloud in the sky. 2. Rain does not come from (white) clouds, only from rain clouds. 
+

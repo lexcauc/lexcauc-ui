@@ -1,0 +1,7 @@
+## 441. BOIL (TR, FOOD)
+### Definition
+To cook food by submerging it in boiling water.
+
+### Contexts
+1. Potatoes must be boiled. 2. She boiled chicken stock.
+

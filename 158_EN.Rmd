@@ -1,0 +1,7 @@
+## 158. HE-GOAT
+### Definition
+Adult male goat.
+
+### Contexts
+A she-goat give milk, a he-goat does not.
+

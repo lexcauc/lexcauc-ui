@@ -1,0 +1,7 @@
+## 103. COUSIN (FEMALE)
+### Definition
+A neutral term for uncle or aunt’s daughter. If there is no neutral word, enter the meaning ‘daughter of paternal uncle’ as the main entry, but also include other variants as separate entries. 
+
+### Contexts
+I have two cousins, the daughter of my father’s brother and the daughter of mother’s sister.
+

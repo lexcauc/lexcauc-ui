@@ -1,0 +1,7 @@
+## 558. HOUSE
+### Definition
+A self-standing building used as human habitat. Sometimes ROOM and HOUSE are expressed by the same term, while there is either a separate term for HOUSE proper, or HOUSE proper is expressed by the plural of HOUSE/ROOM. In this case this entry should include the term for HOUSE specifically, as there is a separate entry for ROOM.
+
+### Contexts
+1. This house was built by my grandfather. 2. This house has three rooms.
+

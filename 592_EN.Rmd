@@ -1,0 +1,7 @@
+## 592. BEAM
+### Definition
+A longish peace  of wood that supports the roof.
+
+### Contexts
+
+

@@ -1,0 +1,7 @@
+## 304. GUMS
+### Definition
+The mucosal tissue that partly lies over the teeth in the mouth. (Concepticon)
+
+### Contexts
+1. Gums are under the teeth. 2. Gums are red.
+

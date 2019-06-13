@@ -1,0 +1,7 @@
+## 570. FLOOR
+### Definition
+The bottom boundary of a room. In the Daghestanian context this refers to the traditional earthy floor.
+
+### Contexts
+Floors in the village are made of earth.
+

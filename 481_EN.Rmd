@@ -1,0 +1,7 @@
+## 481. HAZELNUT
+### Definition
+A nut of any bush in the Corylus genus.
+
+### Contexts
+1. There are many hazelnut trees in the lowlands. 2. Walnuts grow in the highlands, hazelnuts grow in the lowlands.
+

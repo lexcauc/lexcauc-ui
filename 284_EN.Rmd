@@ -1,0 +1,7 @@
+## 284. FACE
+### Definition
+The front part of the head, featuring the eyes, nose, and mouth and the surrounding area. (Concepticon)
+
+### Contexts
+1. There is mouth, eyes and nose on the face. 2. She has a beautiful face.
+

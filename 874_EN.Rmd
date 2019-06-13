@@ -1,0 +1,7 @@
+## 874. RIGHT
+### Definition
+Something that is on the right side relative to another object. (Concepticon)
+
+### Contexts
+1. A fork is held in the left hand, a knife, in the right. 2. I can see with my left eye better than with my right eye.
+

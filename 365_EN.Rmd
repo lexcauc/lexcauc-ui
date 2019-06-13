@@ -1,0 +1,7 @@
+## 365. VOMIT
+### Definition
+Most generic term for regurgitating the contents of the stomach. In many languages there is likely to be a problem in register with this word. In such cases, pick the most common term, which may be colloquial, but is not vulgar. If no suitable candidate exists, use the more formal term. The English Swadesh term for this meaning is probably not "vomit", but rather "throw up" in most varieties. (CoBL)
+
+### Contexts
+1. He ate something bad and threw up (vomited). (CoBL) 2. If you drink too much vodka, you will vomit.
+

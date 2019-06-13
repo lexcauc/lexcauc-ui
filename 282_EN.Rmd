@@ -1,0 +1,7 @@
+## 282. BRAIN
+### Definition
+The organ of the central nervous system of an animal located in the skull that controls the actions and thoughts of the animal. (Concepticon)
+
+### Contexts
+1. The brain is within the skull. 2. We need the brain for thinking.
+

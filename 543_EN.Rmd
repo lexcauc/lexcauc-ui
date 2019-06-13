@@ -1,0 +1,7 @@
+## 543. BRACELET
+### Definition
+Piece of jewellery worn around the wrist. (Concepticon)
+
+### Contexts
+Women wear bracelets on their wrists.
+

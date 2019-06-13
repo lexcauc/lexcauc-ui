@@ -1,0 +1,7 @@
+## 536. MITTEN
+### Definition
+A garment that is worn on the hand and covers all fingers together (not each finger individually), reaching at least up to the wrist.
+
+### Contexts
+Mittens make hands warm.
+

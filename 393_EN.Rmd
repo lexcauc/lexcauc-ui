@@ -1,0 +1,7 @@
+## 393. GRAVE
+### Definition
+A place (commonly marked with a headstone) where one or more people are buried (usually in a coffin underneath the ground). (Concepticon)
+
+### Contexts
+1. There is a shaykh’s tomb in our village. 2. There are many graves at the graveyard.
+

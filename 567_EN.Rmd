@@ -1,0 +1,7 @@
+## 567. DOOR-BOLT
+### Definition
+A mechanism that consists of a metal bar that is inserted into an opening, preventing the door from being opened.
+
+### Contexts
+Locks are opened with a key, door-bolts are opened by hand.
+

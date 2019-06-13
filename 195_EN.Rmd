@@ -1,0 +1,7 @@
+## 195. CAT
+### Definition
+A common four-legged animal (Felis silvestris) that lives close to people’s homes and catches mice.
+
+### Contexts
+1. Cats catch mice. 2. Cats live in homes, dogs do not.
+

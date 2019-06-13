@@ -1,0 +1,7 @@
+## 871. BOTTOM (N)
+### Definition
+
+
+### Contexts
+1. The pitcher is not empty: there is water left at the bottom. 2. I dropped a coin to the bottom of the pitcher.
+

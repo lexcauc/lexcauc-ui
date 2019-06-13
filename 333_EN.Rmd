@@ -1,0 +1,7 @@
+## 333. FEATHER
+### Definition
+A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift. The most general term should be chosen. If no single term for all kinds of feathers exists, the reasonable choice is ‘quill, flight feather of a bird’. Not to be confused with ‘fluff’, ‘down’, etc. The word should be applicable to different bird species.  (CoBL)
+
+### Contexts
+1. Adult birds are covered with feathers.  2. Birds have feathers, beasts have fur.  3. He plucked one feather from the bird’s wing.
+

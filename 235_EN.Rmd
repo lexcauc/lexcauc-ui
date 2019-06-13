@@ -1,0 +1,7 @@
+## 235. MOO
+### Definition
+To make the typical sound produced by a cow.
+
+### Contexts
+Cows moo.
+

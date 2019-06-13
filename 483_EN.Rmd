@@ -1,0 +1,7 @@
+## 483. URBECH
+### Definition
+A traditional sweet dish, a mass made out of ground seeds or nuts (similar to peanut butter).
+
+### Contexts
+Urbech is put into porridge.
+

@@ -1,0 +1,7 @@
+## 996. YELLOW
+### Definition
+The natural color of egg yolk. Avoid terms specifically describing gold. Avoid terms specificially for hair colour. (CoBL)
+
+### Contexts
+Egg yolk is yellow. (CoBL)
+

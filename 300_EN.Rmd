@@ -1,0 +1,7 @@
+## 300. TONGUE
+### Definition
+Basic term for the human tongue, avoiding more technical anatomical terminology, if different. Avoid terms specific to "sense of taste" or "language" where possible. (CoBL)
+
+### Contexts
+1. He showed him his tongue. (CoBL) 2. He bit his tongue while falling, and now it hurts. (CoBL)
+

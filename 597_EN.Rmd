@@ -1,0 +1,7 @@
+## 597. POLE (FOR CEILING)
+### Definition
+Short pieces of wood that support the earth ceiling.
+
+### Contexts
+Poles are above the beams.
+

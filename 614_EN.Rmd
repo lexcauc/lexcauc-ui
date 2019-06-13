@@ -1,0 +1,7 @@
+## 614. WINNOW
+### Definition
+Sift grain in order to separate grain from chaff.
+
+### Contexts
+The workers winnowed grain at the threshing-floor.
+

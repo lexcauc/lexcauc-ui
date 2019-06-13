@@ -1,0 +1,7 @@
+## 720. TROUGH
+### Definition
+A wooden container used to put forage for livestock.
+
+### Contexts
+Mother filled the trough with hay for the cow.
+

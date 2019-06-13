@@ -1,0 +1,7 @@
+## 279. ГОЛОВА
+### Определение
+The part of the body of an animal or human which contains the brain, mouth and main sense organs. (Concepticon) Not to be confused with: (a) narrower terms like ‘occiput’, ‘crown (of the head)’, etc.; (b) ‘brain’, ‘mind’, etc.; (c) metaphorical ‘head’ > ‘top’, ‘chief’, etc.  (GLD) Часть тела человека или животного, содержащия мозг, рот и основные органы чувств. (Concepticon) Отличать от: (а) более узких терминов — ‘затылок’, ‘макушка’ и т. п.; (б) ‘мозг’, ‘ум’ и т. п.; (в) метафорического переноса ‘голова’ > ‘верхушка’, ‘начальник’ и т. п. (GLD)
+
+### Контексты
+1. Он в драке ударил его по голове. (GLD) 2. Вот камень размером с человечью голову. (GLD)
+

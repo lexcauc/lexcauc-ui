@@ -1,0 +1,7 @@
+## 233. FROG
+### Definition
+A green tailless amphibian that is able to jump long distances and that produces quacking sounds
+
+### Contexts
+1. Frogs live in the swamp. 2. Frogs are green.
+

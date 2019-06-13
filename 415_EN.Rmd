@@ -1,0 +1,7 @@
+## 415. LAZY
+### Definition
+Unwilling to do work or make an effort. (Concepticon)
+
+### Contexts
+A lazy man doesn’t like to work.
+

@@ -1,0 +1,7 @@
+## 610. PICK AXE
+### Definition
+A sharp object for digging firm ground or crushing rocky surfaces.
+
+### Contexts
+A pick axe is used for digging firm ground.
+

@@ -1,0 +1,7 @@
+## 461. SIEVE (V)
+### Definition
+To pass a granular mass through a sieve in order to separate larger particles from smaller ones.
+
+### Contexts
+Flour must be sieved.
+

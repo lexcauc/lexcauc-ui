@@ -1,0 +1,7 @@
+## 688. KNOT (NOUN)
+### Definition
+Wound up rope or thread that cannot be unwound by a simple physical pressure without cutting the rope/thread.
+
+### Contexts
+This knot is hard to unwind, we will have to cut the rope.
+

@@ -1,0 +1,7 @@
+## 604. FURROW
+### Definition
+A cut in the earth made by a plough.
+
+### Contexts
+1. It is often difficult to make the first furrow. 2. Furrows are made by a plough.
+

@@ -1,0 +1,7 @@
+## 721. HEW
+### Definition
+To remove the surface layer of wood, making it flat.
+
+### Contexts
+1. I have hewn the stick to make the handle for a shovel. 2. He has hewn the log to make a ceiling beam.
+

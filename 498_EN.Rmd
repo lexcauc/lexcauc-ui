@@ -1,0 +1,7 @@
+## 498. FERMENTED DRINK
+### Definition
+A traditional fermented drink made of grain (a kind of home-made beer).
+
+### Contexts
+The FERMENTED DRINK is made out of fried flour.
+

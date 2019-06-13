@@ -1,0 +1,7 @@
+## 756. TURN (TR.)
+### Definition
+Most generic transitive verb used for moving an object with the result that its orientation changes (relative to some reference point).  Select the most general term: avoid alternatives or derivatives (e.g. English phrasal verbs) with more specific meanings such as 'turn over', 'turn around', 'turn towards', 'orient', although these may often have similar stems - select only the default, most general term.  The transitive verb is needed, so avoid intransitives, reflexives, middles, etc. (many may of course share the same root as the transitive that is the target here, which is fine).  If your language uses different terms for turning in horizontal and vertical planes, then use the one prototypically for turning in the horizontal plane.  Avoid terms specifically for only partial, only complete, or multiple rotations. If there is no general cover or ambiguous term, select the one for 90 or 180 degree rotation, whichever is most basic in your language.  Avoid more technical terms, such as 'rotate', 'reorient', 'gyrate', etc..  Avoid specifically torsional movement, e.g. "twist". (CoBL)
+
+### Contexts
+1. Women are turning the spindle. 2. This cart is so heavy it is hard to turn. (CoBL)
+

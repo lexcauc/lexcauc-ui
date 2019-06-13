@@ -1,0 +1,7 @@
+## 595. ROOF ROLLER
+### Definition
+The instrument used for evening out the earth roof.
+
+### Contexts
+After a rain we strengthen the roof using the roller.
+

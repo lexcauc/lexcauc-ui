@@ -1,0 +1,7 @@
+## 1010. DRY
+### Definition
+(Almost) free from liquid or moisture. Antonym of ‘wet’, applicable to as many different types of objects as possible (to be separated from specialized terms like dessicated, dehydrated etc.).  
+
+### Contexts
+1. A wet match will not burn, a dry one will. 2. There is a lot of dry grass on the neighbour’s roof. 3. My clothes are already dry, but his are still wet.
+

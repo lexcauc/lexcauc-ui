@@ -1,0 +1,7 @@
+## 761. THROW (V)
+### Definition
+See https://github.com/lingdb/CoBL-public/wiki/throw
+
+### Contexts
+1, He threw a stick into the water. (CoBL) 2. He threw a ball to the boy.
+

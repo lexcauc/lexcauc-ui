@@ -1,0 +1,7 @@
+## 210. LOUSE
+### Definition
+Head louse as a basic human parasite. Should be kept separate from body lice, pubic lice, animal/plant species of lice, as well as nits.  (GLD)
+
+### Contexts
+1. There is a large louse creeping across the top of his head. (GLD) 2. He has no lice. (GLD)
+

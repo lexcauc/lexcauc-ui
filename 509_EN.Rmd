@@ -1,0 +1,7 @@
+## 509. CLOTHES
+### Definition
+All coverings designed to be worn on a person's body. (Concepticon)
+
+### Contexts
+1. People wear clothes, animals do not. 2. Poor people have bad clothes.
+

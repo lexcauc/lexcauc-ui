@@ -1,0 +1,7 @@
+## 532. BOOT-TOP
+### Definition
+A separate item that covers the shins (if it exists in the culture and has a special name).
+
+### Contexts
+When there is a lot of snow, shepherds wear BOOT-TOPs.
+

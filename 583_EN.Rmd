@@ -1,0 +1,7 @@
+## 583. CHAIR
+### Definition
+A piece of furniture that consists of a seat, four legs and a backrest.
+
+### Contexts
+The chair has four legs and a backrest.
+

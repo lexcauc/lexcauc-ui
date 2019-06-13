@@ -1,0 +1,7 @@
+## 206. DEER
+### Definition
+The most general term for an animal of the <i>Cervidae </i>family. Is characterized by large antlers.
+
+### Contexts
+1. Deer live high in the mountains. 2. Deer have large antlers.
+

@@ -1,0 +1,7 @@
+## 695. KNIFE
+### Definition
+An elongated object with a sharp metallic part (blade) and a wooden handle, used for separating objects into parts. If different words are used for different types of knives, select the term for the most basic knife used for cutting food (a kitchen knife).
+
+### Contexts
+1. Murad cut the meat with a knife into several pieces. 2. This knife is very sharp, be careful.
+

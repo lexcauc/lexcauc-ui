@@ -1,0 +1,7 @@
+## 221. BEE
+### Definition
+Insects that live in colonies (hives), pollinate flowers and produce honey.
+
+### Contexts
+1. Bees make honey. 2. People in the neighbouring village keep bees.
+

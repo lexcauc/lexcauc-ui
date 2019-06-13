@@ -1,0 +1,7 @@
+## 584. STOOL
+### Definition
+Same as chair, but without the backrest. Since historically people seldom sat on chairs or stools, use the term for a traditional type of stool here.
+
+### Contexts
+The stool has three legs and no backrest.
+

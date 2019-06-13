@@ -1,0 +1,7 @@
+## 698. BREAK (INTR)
+### Definition
+To separate into two or more parts as a result of external impact in transverse direction (e.g. of a branch).
+
+### Contexts
+1. When strong winds are blowing, branches on trees break. 2. The door broke due to a heavy blow.
+

@@ -1,0 +1,7 @@
+## 601. VEGETABLE GARDEN
+### Definition
+A piece of land adjacent to the outside wall of the yard where one cultivates vegetables, flowers, trees and other plants.
+
+### Contexts
+1. Near each house is a vegetable garden. 2. We have a yard and a vegetable garden just outside.
+

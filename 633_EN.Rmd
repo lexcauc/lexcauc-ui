@@ -1,0 +1,7 @@
+## 633. BARLEY
+### Definition
+A strong cereal of the genus Hordeum, or its grains, often used as food or to make malted drinks. (Concepticon)
+
+### Contexts
+Malt is made out of barley.
+

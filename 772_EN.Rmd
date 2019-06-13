@@ -1,0 +1,7 @@
+## 772. JUMP, LEAP
+### Definition
+
+
+### Contexts
+He jumped to pick the apple from the tree.
+

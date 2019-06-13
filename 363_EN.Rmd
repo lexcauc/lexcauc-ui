@@ -1,0 +1,7 @@
+## 363. SWEAT
+### Definition
+A fluid that is secreted by sweat glands in the skin in order to regulate body temperature. (Concepticon)
+
+### Contexts
+Human sweat smells bad.
+

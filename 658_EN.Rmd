@@ -1,0 +1,7 @@
+## 658. FRUIT
+### Definition
+An edible fruit (in the botanical sense) of a tree used as food.
+
+### Contexts
+1. Fruit grow on trees. 2. Apples and pears are fruit.
+

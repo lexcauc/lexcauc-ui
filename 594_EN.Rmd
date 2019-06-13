@@ -1,0 +1,7 @@
+## 594. BOARD
+### Definition
+A standard-sized piece of wood used in construction.
+
+### Contexts
+Windows are made out of boards.
+

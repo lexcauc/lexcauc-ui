@@ -1,0 +1,7 @@
+## 262. BLOOD
+### Definition
+Of human blood. To be distinguished from ‘coagulated blood’, ‘ichor’, ‘menstrual blood’ etc. We know of no languages that distinguish lexically between ‘arterial blood’ (bright red) and ‘venous blood’ (dark red, black). (GLD)
+
+### Contexts
+1. If you cut yourself, blood will flow. 2. There’s blood flowing from his wound. 3. Blood is red.
+

@@ -1,0 +1,7 @@
+## 886. WIDE
+### Definition
+The target meaning is the opposite of 'narrow' (i.e. of gaps, spaces), not the opposite of 'thin' (i.e. of objects). That is, the lexeme selected should be the normal adjective to refer to a (horizontal) gap or space between two sides, rather than the (horizontal) breadth of an object or person.  If your language has a cover term for both, then as a basic, general term that is indeed appropriate; but if there are different terms, choose the more default one for wide gaps, not things.  This is why in English the choice is wide, not broad.  Avoid terms that primarily have the sense of 'far', referring to large distances and emptiness.  Avoid intensifying terms, such as 'vast'. (CoBL)
+
+### Contexts
+The canyon is wide here, but further down it's narrow. (CoBL)
+

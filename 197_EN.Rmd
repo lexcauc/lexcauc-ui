@@ -1,0 +1,7 @@
+## 197. RAT
+### Definition
+A larger mouse-like rodent.
+
+### Contexts
+
+

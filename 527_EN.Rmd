@@ -1,0 +1,7 @@
+## 527. SLEEVE
+### Definition
+Part of a garment covering the arm. (Concepticon)
+
+### Contexts
+The shirt has two sleeves.
+

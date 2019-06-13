@@ -1,0 +1,7 @@
+## 712. PRESS (V)
+### Definition
+To apply manual pressure by clenching the object in a fist.
+
+### Contexts
+
+

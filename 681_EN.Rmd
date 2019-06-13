@@ -1,0 +1,7 @@
+## 681. COLLECTIVE WORK
+### Definition
+Labour collective performed by all villagers, that serves a common purpose.
+
+### Contexts
+1. In spring the rains washed out the road, and the vilagers gathered for collective work. 2. Every villager must participate in collective work.
+

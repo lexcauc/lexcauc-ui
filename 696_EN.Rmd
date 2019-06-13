@@ -1,0 +1,7 @@
+## 696. SCISSORS
+### Definition
+Two sharp metal blades that are connnected in the middle and used for cutting various objects by single, directed movement (most typically thread).
+
+### Contexts
+1. She cut a piece of thread with scissors. 2. Give me scissors, I want to cut my fingernails.
+

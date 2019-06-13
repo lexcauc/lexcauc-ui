@@ -1,0 +1,7 @@
+## 638. PEA
+### Definition
+An annual plant, the most widespread species (Pisum sativum) of the genus Pisum of the Fabaceae family.
+
+### Contexts
+1. Peas are green. 2 Peas grow in legumes.
+

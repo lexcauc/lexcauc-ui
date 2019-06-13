@@ -1,0 +1,7 @@
+## 1073. SAY
+### Definition
+A neutral designation of a single speech act. Should be distinguished from durative action (‘to talk’), but also not confused with certain special markers of direct speech, e.g., Old Indian iti. (GLD)
+
+### Contexts
+1. What did you say? [= a request to repeat something that was misheard] (GLD) 2. He said that he would come tomorrow. (GLD)
+

@@ -1,0 +1,7 @@
+## 1009. WET
+### Definition
+Most generic adjective describing presence of water, not merely moisture or humidity. Presence of water throughout a material, not just surface moisture. Antonym of "dry". Avoid terms specifically for change of state. Avoid intensive meanings, e.g. "soaked". Avoid terms specifically for humidity in the air. (CoBL)
+
+### Contexts
+1. This shirt is wet, take it off. 2. This stone is wet, do not sit on it. 3. A wet match will not burn, a dry one will.
+

@@ -1,0 +1,7 @@
+## 661. APRICOT
+### Definition
+A fruit of Prunus armeniaca, a species of the genus Prunus of the Rosaceae family.
+
+### Contexts
+Apricots are soft and yellow.
+

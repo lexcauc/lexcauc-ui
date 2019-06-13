@@ -1,0 +1,7 @@
+## 653. TREE TRUNK
+### Definition
+The main stem of the tree.
+
+### Contexts
+1. The cat can climb the tree trunk 2. The tree trunk is covered in bark.
+

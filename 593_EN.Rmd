@@ -1,0 +1,7 @@
+## 593. WALLPOST
+### Definition
+A thick vertical piece of wood that is embedded inside the floor and supports the ceiling.
+
+### Contexts
+1. The wallpost is placed under the beam. 2. The wallpost supports the ceiling.
+

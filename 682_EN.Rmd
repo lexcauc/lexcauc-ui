@@ -1,0 +1,7 @@
+## 682. BEND (TR)
+### Definition
+To give an arc-like shape to an originally straight, elongated object through the use of physical force.
+
+### Contexts
+1. I bent the spoon. 2. I was unable to bent the thick branch.
+

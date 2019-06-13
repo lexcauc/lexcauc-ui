@@ -1,0 +1,7 @@
+## 705. RUB (V, BY HAND)
+### Definition
+To perform fast repeated movements by hand in two directions on the surface of an object.
+
+### Contexts
+1. For the shoes to be clean, they have to be rubbed. 2. He rubbed his forehead.
+

@@ -1,0 +1,7 @@
+## 656. WOOD CHIP
+### Definition
+The byproduct of tree processing: small elongated, thin, curly pieces of wood.
+
+### Contexts
+1. In the shed where I sawed wood there is a lot of wood chips. 2. He scattered wood chips over the road.
+

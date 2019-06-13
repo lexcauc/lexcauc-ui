@@ -1,0 +1,7 @@
+## 340. LUNG
+### Definition
+A biological organ that extracts oxygen from the air. (Concepticon)
+
+### Contexts
+1. Heart and lungs are within the rib cage. 2. Humans breathe with their lungs.
+

@@ -1,0 +1,7 @@
+## 607. HOE
+### Definition
+tool with handle and blade with two or more prongs used for weeding, raking, etc. (Concepticon)
+
+### Contexts
+Earth for planting potatoes is raked using a hoe.
+

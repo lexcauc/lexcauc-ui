@@ -1,0 +1,7 @@
+## 347. GULLET
+### Definition
+The duct below the throat through which food comes into the stomach.
+
+### Contexts
+Having passed the throat, food comes into the stomach through the gullet.
+

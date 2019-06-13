@@ -1,0 +1,7 @@
+## 552. BRAIDS (PAIR OF)
+### Definition
+See 550 BRAID. The word for a pair of smaller braids is entered her, if it exists.
+
+### Contexts
+
+

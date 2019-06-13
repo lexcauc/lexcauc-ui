@@ -1,0 +1,7 @@
+## 440. GNAW (V)
+### Definition
+Treat some material with one's teeth. (Concepticon)
+
+### Contexts
+1. A squirrel is gnawing at nuts. 2. A dog is gnawing at a bone.
+

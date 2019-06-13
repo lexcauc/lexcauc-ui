@@ -1,0 +1,7 @@
+## 354. UMBILICAL CORD
+### Definition
+A conduit between the developing embryo or fetus and the placenta. (Concepticon)
+
+### Contexts
+When the child is born, the umbilical cord is cut.
+

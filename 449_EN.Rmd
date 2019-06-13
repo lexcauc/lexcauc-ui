@@ -1,0 +1,7 @@
+## 449. CLAY POT
+### Definition
+A deep container for food and other things made from clay. (Concepticon, mod.)
+
+### Contexts
+Milkis put in a clay pot.
+

@@ -1,0 +1,7 @@
+## 196. MOUSE
+### Definition
+A rodent of the <i>Muridæ</i> family characterised by a long hairless tail, rounded ears, and a pointed nose. If a separate word for ‘rat’ is present in the language, use the least marked term for a small rodent.
+
+### Contexts
+1. Mice have eaten all the bread. 2. Cats catch mice.
+

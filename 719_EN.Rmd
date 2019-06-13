@@ -1,0 +1,7 @@
+## 719. BROOM
+### Definition
+A tool made of a bundle of twigs, for sweeping the floor.
+
+### Contexts
+1. I swept the floor with a broom. 2. Brooms are made out of twigs.
+

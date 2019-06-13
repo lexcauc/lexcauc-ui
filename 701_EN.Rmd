@@ -1,0 +1,7 @@
+## 701. TEAR (TR)
+### Definition
+To divide into two parts with a sharp movement in the lengthwise direction.
+
+### Contexts
+I tore the thread into two pieces.
+

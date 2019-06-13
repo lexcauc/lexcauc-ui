@@ -1,0 +1,7 @@
+## 554. SHAVE
+### Definition
+To cut the hair close to the skin with a razor. (Concepticon) Enter the word specifically for completely shaving off (facial) hair.
+
+### Contexts
+1. Men shave their beards with a razor. 2. Wahhabis shave their moustache.  3. Men used to shave off all hair on their heads.
+

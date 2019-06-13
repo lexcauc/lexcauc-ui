@@ -1,0 +1,7 @@
+## 591. ROOF
+### Definition
+The structure covering a building. (Concepticon)
+
+### Contexts
+1. When snow falls, roof are cleaned. 2. Any house has walls and a roof.
+

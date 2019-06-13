@@ -1,0 +1,7 @@
+## 394. TOMBSTONE
+### Definition
+A stone marking a grave.
+
+### Contexts
+A tombstone is put above a grave.
+

@@ -1,0 +1,7 @@
+## 194. HARE
+### Definition
+Mammal of the family hares and rabbits (Leporidae) with long ears, short tail and hindlegs which are shorter than the forelegs and permit running quickly. (Concepticon)
+
+### Contexts
+The hare ran away from the wolf.
+

@@ -1,0 +1,7 @@
+## 193. PUPPY OF DOG
+### Definition
+A juvenile dog.
+
+### Contexts
+The puppy is playing with a cat.
+

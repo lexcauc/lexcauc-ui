@@ -1,0 +1,7 @@
+## 556. SOAP
+### Definition
+A solid object that emits foam under contact with water and is used for hand washing.
+
+### Contexts
+You must wash your hands with soap.
+

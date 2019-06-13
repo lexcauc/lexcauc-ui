@@ -1,0 +1,7 @@
+## 172. DUCK
+### Definition
+An aquatic bird of the family Anatidae, having a flat bill and webbed feet. (Concepticon)
+
+### Contexts
+Ducks are found in large rivers and lakes.
+

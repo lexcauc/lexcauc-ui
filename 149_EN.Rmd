@@ -1,0 +1,7 @@
+## 149. EARMARK
+### Definition
+Cut or mark in the ear of a sheep that is used to indicate its owner.
+
+### Contexts
+Sheep of each family have their own earmarks.
+

@@ -1,0 +1,7 @@
+## 370. SLEEP
+### Definition
+Most generic verb for resting in a state of decreased consciousness and reduced metabolism. Stative not dynamic or inchoative meaning, e.g. "fall asleep". (CoBL) In Daghestanian languages, often only an inchoative verb is available. In this case enter its pfv. and ipfv. forms in the corresponding fields, regardless of semantics, and put «Inchoative verb» in the notes column.
+
+### Contexts
+1. People usually sleep in the night and keep awake by day. (GLD) 2. Do not wake him up, he is sleeping. (GLD)
+

@@ -1,0 +1,7 @@
+## 220. SPIDER WEB
+### Definition
+A fine net of threads woven by a spider to catch insects. (Concepticon)
+
+### Contexts
+1. A spider has woven a web in the corner of the room. 2. A fly got caught in a spiderweb.
+

@@ -1,0 +1,7 @@
+## 278. SPINE
+### Definition
+The body part that consists of a row of vertebrae, that support the head and torso and that forms a canal for nerves. (Concepticon)
+
+### Contexts
+1. The spine passes through the back. 2. He broke his spine.
+

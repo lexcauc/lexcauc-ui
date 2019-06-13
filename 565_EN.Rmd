@@ -1,0 +1,7 @@
+## 565. DOORPOST
+### Definition
+The structure which contains the door.
+
+### Contexts
+The doorpost has become crooked, and the door doesn’t close well.
+

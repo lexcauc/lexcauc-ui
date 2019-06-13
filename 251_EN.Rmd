@@ -1,0 +1,7 @@
+## 251. HIDE OF COWS
+### Definition
+The hide of cows.
+
+### Contexts
+1. I removed the hide from the cow. 2. X is made out of sheep hide, Y is made out of cow hide. 
+

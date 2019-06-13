@@ -1,0 +1,7 @@
+## 448. CAULDRON (METAL)
+### Definition
+A generic kitchen utensil used for cooking food by boiling or for boiling water.
+
+### Contexts
+I put the cauldron on the fire.
+

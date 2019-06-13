@@ -1,0 +1,7 @@
+## 547. TATTOO
+### Definition
+An image created on the body by injecting ink under the skin. In Daghestan, tattoos are traditionally found on the hands of women.
+
+### Contexts
+Women used to have tattoos on their hands.
+

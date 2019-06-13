@@ -1,0 +1,7 @@
+## 203. WOLF
+### Definition
+A large wild canid (Canidae), closely related to the dog. (Concepticon)
+
+### Contexts
+1. Wolves hunt hares. 2. Wolves are similar to dogs. 3. Wolves live in the woods, dogs protect people.
+

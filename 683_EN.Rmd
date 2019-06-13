@@ -1,0 +1,7 @@
+## 683. BEND (INTR)
+### Definition
+To change form from straight to arc-like (of an elongated object)
+
+### Contexts
+1. The trees bend under the wind. 2. The thin plank bends under weight.
+

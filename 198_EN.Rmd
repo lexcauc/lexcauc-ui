@@ -1,0 +1,7 @@
+## 198. BADGER
+### Definition
+A mammal belonging to the <i>Meles </i>genus of the <i>Mustelidae </i>family.
+
+### Contexts
+
+

@@ -1,0 +1,7 @@
+## 566. LOCK (N.)
+### Definition
+An object used for locking the door; can only be opened with a key.
+
+### Contexts
+1. The thief broke the lock off. 2. Murad put a lock on the barn door.
+

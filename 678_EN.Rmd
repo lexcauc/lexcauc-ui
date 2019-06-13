@@ -1,0 +1,7 @@
+## 678. MUSHROOM
+### Definition
+
+
+### Contexts
+1. Mushrooms are not eaten in our village. 2. Many mushrooms are poisonous.
+

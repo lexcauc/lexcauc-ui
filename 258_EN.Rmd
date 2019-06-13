@@ -1,0 +1,7 @@
+## 258. MOUSTACHE
+### Definition
+A growth of facial hair of humans between the nose and the upper lip. (Concepticon)
+
+### Contexts
+1. Beard and moustache grow on men’s faces. 2. Moustache grows above the lip.
+

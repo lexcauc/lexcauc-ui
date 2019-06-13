@@ -1,0 +1,7 @@
+## 568. KEY
+### Definition
+An object designed to be able to open (and usually close) a lock. (Concepticon) 
+
+### Contexts
+1. I don’t have a key to this door, I cannot enter. 2. Locks are opened with a key, door-bolts are opened by hand.
+

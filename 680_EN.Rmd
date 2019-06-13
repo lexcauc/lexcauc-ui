@@ -1,0 +1,7 @@
+## 680. WORK
+### Definition
+To perform a physical activity that is essential for the normal functioning of a rural household (agricultural work, repair of tools, crafts etc.). 
+
+### Contexts
+1. Where is Rasul? He is in the shed, working. 2. Please come later, I am working at the moment.
+

@@ -1,0 +1,7 @@
+## 676. THORNY PLANT
+### Definition
+The term for a thorny grass-like plant that is most widespread in a given culture.
+
+### Contexts
+There is often a lot of thorny plants in a field that has been sown.
+

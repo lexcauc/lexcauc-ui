@@ -1,0 +1,7 @@
+## 237. BLEAT (GOAT)
+### Definition
+To make the typical sound produced by a goat.
+
+### Contexts
+Goats bleat.
+
