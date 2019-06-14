@@ -69,7 +69,7 @@ for(i in 1:nrow(display)) {
 }
 
 # Collapse lexeme variants into single rows, spread the table
-display %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", ")) %>% slice(1) %>% ungroup() %>% transmute(id = lex.id, rus = rus, eng = eng, orthographic = orthographic, lang = lang) %>% spread(lang,orthographic) -> display.spread
+display %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse="; ")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", ")) %>% slice(1) %>% ungroup() %>% transmute(id = lex.id, rus = rus, eng = eng, orthographic = orthographic, lang = lang) %>% spread(lang,orthographic) -> display.spread
 
 # Display the table
 datatable(display.spread,escape = FALSE, rownames = FALSE,
