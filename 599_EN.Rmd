@@ -1,7 +1,0 @@
-## 599. MORTAR
-### Definition
-A lime mixture that becomes form after drying up, binding stones or bricks together. 
-
-### Contexts
-When we build a wall, we put mortar between the rocks.
-

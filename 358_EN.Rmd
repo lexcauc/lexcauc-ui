@@ -1,7 +1,0 @@
-## 358. BREATHE
-### Definition
-To repeatedly draw air into, and expel it from, the lungs, in order to extract oxygen from it and excrete waste products. (CoBL)
-
-### Contexts
-1. All living people breathe. 2. Open the window, it is hard to breathe in the room.
-

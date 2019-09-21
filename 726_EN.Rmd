@@ -1,7 +1,0 @@
-## 726. HAMMER
-### Definition
-A tool with a wooden handle and a heavy metallic tip, made for making strong blows, specifically for inserting nails into wood.
-
-### Contexts
-
-

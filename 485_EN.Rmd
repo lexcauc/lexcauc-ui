@@ -1,7 +1,0 @@
-## 485. MAW
-### Definition
-A section of the stomach of ruminant animals. Used as a coagulant in the traditional cheese preparation process.
-
-### Contexts
-Maw is put into cheese.
-

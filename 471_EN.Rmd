@@ -1,7 +1,0 @@
-## 471. DOUGH
-### Definition
-A mixture of flour and water ready to be baked into bread, pastry etc. (Concepticon)
-
-### Contexts
-Mother made dough out of flour and water.
-

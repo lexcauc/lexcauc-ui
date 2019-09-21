@@ -1,7 +1,0 @@
-## 497. WINE
-### Definition
-An alcoholic beverage made by fermenting juice of grapes. (Concepticon)
-
-### Contexts
-Wine is made out of grapes.
-

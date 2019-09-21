@@ -1,7 +1,0 @@
-## 545. BEAD
-### Definition
-A round shiny object (of any origin) that serves as a component of a necklace.
-
-### Contexts
-A necklace is made out of beads.
-

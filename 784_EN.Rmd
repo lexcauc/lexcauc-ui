@@ -1,7 +1,0 @@
-## 784. ARRIVE
-### Definition
-
-
-### Contexts
-1. He walked for 10 days and arrived at the village. 2. The bus arrived at the village.
-

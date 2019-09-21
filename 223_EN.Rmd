@@ -1,7 +1,0 @@
-## 223. BEEHIVE
-### Definition
-An artificial construction for bees to live in.(for natural beehive, add an optional)
-
-### Contexts
-Bees live in hives.
-

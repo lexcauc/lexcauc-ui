@@ -1,7 +1,0 @@
-## 3. DUST
-### Definition
-Any kind of solid material divided in particles of very small size. The CoBL context refers to ‘road dust’, while in the Daghestanian context ‘indoor dust’ seems preferable. For compatibility, both contexts are included, but the ‘indoor dust’ should be given preference.
-
-### Contexts
-1. The table in grandfather’s room got covered with dust. 2. When the ground is dry, you kick up dust when you walk.
-

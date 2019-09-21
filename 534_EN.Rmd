@@ -1,7 +1,0 @@
-## 534. BELT
-### Definition
-A strap of leather or other material, worn on the waist and supporting the trousers. Avoid entering a special word for a strap used in various other household functions (such as tying shoes), if different.
-
-### Contexts
-The belt is put into the trousers.
-

@@ -1,7 +1,0 @@
-## 562. ROOM
-### Definition
-A separate part of a building, enclosed by walls, a floor and a ceiling. (Concepticon)
-
-### Contexts
-There are three rooms in our house.
-

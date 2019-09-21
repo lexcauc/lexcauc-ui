@@ -1,7 +1,0 @@
-## 177. HAWK
-### Definition
-A representative of the genus <i>Accipiter </i>that is most typical for the given area. Since identifying large birds of prey is often difficult, this word is included in the optional part of the list; it should only be entered if the consultant is sufficiently familiar with this semantic field.
-
-### Contexts
-The hawk hunts chicken.
-

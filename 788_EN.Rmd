@@ -1,7 +1,0 @@
-## 788. CHASE
-### Definition
-
-
-### Contexts
-The herdsman is chasing the herd to the pasture.
-

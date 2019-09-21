@@ -1,7 +1,0 @@
-## 466. BREAD
-### Definition
-A common food made mainly from flour, water and yeast and produced by kneading and baking a dough. (Concepticon)
-
-### Contexts
-1. I am eating bread with cheese. 2. In our village they make round bread.
-

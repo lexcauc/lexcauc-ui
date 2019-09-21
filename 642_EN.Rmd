@@ -1,7 +1,0 @@
-## 642. BRANCH
-### Definition
-An appendage that digresses from the main trunk of the tree.
-
-### Contexts
-1. A bird is sitting on a branch. 2. The boy broke off a branch from the tree and started running around with it.
-

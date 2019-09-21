@@ -1,7 +1,0 @@
-## 1063. HOW?
-### Definition
-Interrogative of manner. Meaning "in what way/manner" rather than "in what state". Avoid elicitation with, e.g. "How are you?", How is the weather?" (CoBL)
-
-### Contexts
-How do you make fire?
-

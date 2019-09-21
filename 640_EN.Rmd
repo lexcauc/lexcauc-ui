@@ -1,7 +1,0 @@
-## 640. HAY
-### Definition
-Dry grass that is used as fodder for livestock.
-
-### Contexts
-1. Hay is mowed in summer. 2. Hay is stored at the hayloft.
-

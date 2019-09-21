@@ -1,7 +1,0 @@
-## 857. STICK (INTR)
-### Definition
-
-
-### Contexts
-Dough stuck to the table.
-

@@ -1,7 +1,0 @@
-## 1132. THEY
-### Definition
-Ideally, third person plural nominative pronoun. Avoid various honorific forms. Subject pronoun where available, avoiding exclusively emphatic or contrastive forms if possible. IF there are distinct, non-cognate masculine and feminine forms, if one is also generic, or unmarked, select it. Otherwise (exceptionally), enter both masculine and feminine forms as 'synonym' lexemes. (CoBL)
-
-### Contexts
-XX and YY are my friends. They went to the village yesterday.
-

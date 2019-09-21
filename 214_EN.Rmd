@@ -1,7 +1,0 @@
-## 214. ANT
-### Definition
-Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies. (Concepticon)
-
-### Contexts
-1. Ants bite badly. 2. Ants build ant hills.
-

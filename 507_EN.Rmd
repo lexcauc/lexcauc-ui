@@ -1,7 +1,0 @@
-## 507. REMOVE (TROUSERS)
-### Definition
-To remove clothes from the legs.
-
-### Contexts
-I removed my trousers.
-

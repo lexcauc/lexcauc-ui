@@ -1,7 +1,0 @@
-## 639. GRASS
-### Definition
-The green plant covering of uncultivated fields and pastures.
-
-### Contexts
-1. There is grass growing beside the river (CoBL). 2. Grass is green, the sky is blue.
-

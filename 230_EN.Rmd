@@ -1,7 +1,0 @@
-## 230. BUTTERFLY
-### Definition
-Самое общее слово для представителя отряда чешуекрылых (Lepidoptera), активного днём. Отличать от слов для ночных бабочек (ср. рус. мотылёк), гусениц и моли. The most general term for a representative of the order Lepidoptera, active at day. To be distinguished from specialized words for nocturnal butterflies (moths), caterpillars and moths that act as household pests.
-
-### Contexts
-1. Butterflies fly around flowers. 2. Butterflies fly during the day, moths fly during the night.
-

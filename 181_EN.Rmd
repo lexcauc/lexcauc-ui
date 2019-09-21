@@ -1,7 +1,0 @@
-## 181. MAGPIE
-### Definition
-A black and white bird of the genus <i>Pica</i>.
-
-### Contexts
-A magpie has a brown belly, while a crow has a black one.
-

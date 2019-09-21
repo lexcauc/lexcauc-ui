@@ -1,7 +1,0 @@
-## 686. CHAIN
-### Definition
-A series of metal rings inserted into each other, without the possiblity of disassembly.
-
-### Contexts
-1. The dog is tied to its den by a chain. 2. To move a heavy object, you need a chain.
-

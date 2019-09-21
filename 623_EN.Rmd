@@ -1,7 +1,0 @@
-## 623. PLOUGH
-### Definition
-Сельскохозяйственное приспособление, которым проводят по земле для того, чтобы поднять её верхний слой и позволить сажать в неё семена. (Concepticon)
-
-### Contexts
-The plough lifts the upper layer of the earth.
-

@@ -1,7 +1,0 @@
-## 452. DISHES
-### Definition
-A collective noun for dishes (i.e. vessels used for preparing and serving food).
-
-### Contexts
-
-

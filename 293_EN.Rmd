@@ -1,7 +1,0 @@
-## 293. NOSE
-### Definition
-The organ of the human face used to breath and smell. (Concepticon) Should be distinguished from ‘nostrils’, “internal nose” (i. e. internal organs), as well as ‘flair’ or ‘scent’. (GLD)
-
-### Contexts
-1. We breathe and smell with the nose. (GLD) 2. Blood is dripping from his nose.
-

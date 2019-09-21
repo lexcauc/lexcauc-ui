@@ -1,7 +1,0 @@
-## 490. MILK (N.)
-### Definition
-A white liquid created by mammary glands of mammals for nourishment of their young. If there are different words for different kinds of milk, enter the word for cow milk.
-
-### Contexts
-1. Cows produce milk. 2. Cheese is made out of milk.
-

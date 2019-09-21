@@ -1,7 +1,0 @@
-## 451. PLATE
-### Definition
-A flat dish on which food is served.
-
-### Contexts
-Meat is served in a plate.
-

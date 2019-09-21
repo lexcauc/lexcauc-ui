@@ -1,7 +1,0 @@
-## 557. MIRROR
-### Definition
-A smooth surface that reflects the object located in front of it.
-
-### Contexts
-When shaving, men look into the mirror.
-

@@ -1,7 +1,0 @@
-## 204. BEAR
-### Definition
-Any representative of the <i>Ursidae</i> family. A large omnivorous mammal that lives in the forest.
-
-### Contexts
-1. Bears sleep during winter. 2. Bears like to eat honey.
-

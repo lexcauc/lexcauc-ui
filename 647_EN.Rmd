@@ -1,7 +1,0 @@
-## 647. OAK
-### Definition
-Any species of the genus Quercus of the family Fagaceae.
-
-### Contexts
-1. The oak in our yard has been growing for 100 years. 2. There are many acorns under our oak.
-

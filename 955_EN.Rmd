@@ -1,7 +1,0 @@
-## 955. DAY (DURATION)
-### Definition
-
-
-### Contexts
-1. There are three days in a week. 2. A day consists of morning, daytime, evening, and night.
-

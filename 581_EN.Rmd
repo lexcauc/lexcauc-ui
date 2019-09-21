@@ -1,7 +1,0 @@
-## 581. CRADLE
-### Definition
-A (usually rocking) bed for a baby.
-
-### Contexts
-1. When a child is born, relatives bring a cradle into the house. 2. The baby is rocking in a cradle.
-

@@ -1,7 +1,0 @@
-## 1054. NOT (INDICATIVE)
-### Definition
-The basic negation of an assertion (indicative, not prohibitive). Used with the most simple or statistically frequent verbal forms (e.g., Present Indefinite for Modern English). If different tense / aspect etc. forms use different negative markers and no preferences can be easily formulated, the suppletive variants should be treated as synonyms. In languages that use a special negative verbal stem, this particular stem should be used. Should be strictly separated from the negative answer “No”. (GLD)
-
-### Contexts
-1. I do not understand [in response to a question]. (GLD) 2. You do not / did not see [X]. (GLD)  3. He does not / did not love [X]. (GLD)
-

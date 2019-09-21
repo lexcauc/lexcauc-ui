@@ -1,7 +1,0 @@
-## 246. HISS
-### Definition
-To make the sound produced by a snake, usually during a threat.
-
-### Contexts
-Snakes hiss when attacking.
-

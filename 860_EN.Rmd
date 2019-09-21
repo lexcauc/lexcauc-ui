@@ -1,7 +1,0 @@
-## 860. OPEN (INTR)
-### Definition
-
-
-### Contexts
-
-

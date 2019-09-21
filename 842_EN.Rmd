@@ -1,7 +1,0 @@
-## 842. PLACE
-### Definition
-
-
-### Contexts
-1. The village is at a very beautiful place. 2. This placed is called X.1. Селение стоит в очень красивом месте. 2. Это место называется Х.
-

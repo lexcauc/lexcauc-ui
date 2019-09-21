@@ -1,7 +1,0 @@
-## 896. CORNER
-### Definition
-
-
-### Contexts
-There is a lot of dust in the corner of the room.
-

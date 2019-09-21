@@ -1,7 +1,0 @@
-## 632. WHEAT
-### Definition
-Plant belonging to genus Triticum and to family Poaceae (also known as Gramineae). (Concepticon)
-
-### Contexts
-Wheat grain is white.
-

@@ -1,7 +1,0 @@
-## 205. FOX
-### Definition
-A carnivorous relatively small canine of the Vulpes genus of the Canidae family, most typically the species Vulpes Vulpes.
-
-### Contexts
-1. A fox caught a hen. 2. Foxes have long tails.
-

@@ -1,7 +1,0 @@
-## 573. FOUNDATION
-### Definition
-A solid structure below the ground on which the house stands.
-
-### Contexts
-1. The house stands on its foundation. 2. The foundation is made of stone.
-

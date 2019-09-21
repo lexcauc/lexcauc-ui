@@ -1,7 +1,0 @@
-## 779. COME
-### Definition
-Of humans: to reach (preferably on foot) a destination. Should be distinguished from ‘enter’ (‘penetrate some confined space’), and, if possible, from ‘arrive’ and ‘reach’ (with strong emphasis either on the circumstances of one’s arrival or on the very facts).
-
-### Contexts
-1. He came to me / to my place. 2. The guest came yesterday and will leave tomorrow.
-

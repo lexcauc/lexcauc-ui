@@ -1,7 +1,0 @@
-## 864. LOCK (TR)
-### Definition
-
-
-### Contexts
-
-

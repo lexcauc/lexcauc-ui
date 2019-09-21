@@ -1,7 +1,0 @@
-## 424. EAT (TR)
-### Definition
-The most generic verb for humans consuming food.Avoid marked verbs, e.g. "eat up, devour".Default register: avoid nursery words, polite words, etc.If your language uses different default words for different types of food (e.g. meat, cereals, fruits/nuts, hard food, soft food, liquid food, etc.), then enter the most generic word. If there is no such generic term, enter the verb used for eating the most basic, traditional foodstuff for most speakers of that language: e.g. rice, bread, maize, etc. (which will probably also be the most statistically frequent).  (CoBL)
-
-### Contexts
-1. All people eat bread. 2. Cows eat grass. 3. He ate his lunch.
-

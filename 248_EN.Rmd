@@ -1,7 +1,0 @@
-## 248. SIDE
-### Definition
-The side of a human body. Elicit the anatomical meaning, not the locative meaning.
-
-### Contexts
-1. Put the boy on his right side. 2. My sides ache after running.
-

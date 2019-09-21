@@ -1,7 +1,0 @@
-## 470. CHUDU
-### Definition
-A traditional closed pastry with a filling.
-
-### Contexts
-1. Chudu with cheese are tasty. 2. Chudu is made out of flour, water, eggs and cheese.
-

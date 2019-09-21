@@ -1,7 +1,0 @@
-## 862. CLOSE (INTR)
-### Definition
-
-
-### Contexts
-
-

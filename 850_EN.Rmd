@@ -1,7 +1,0 @@
-## 850. STAND
-### Definition
-Most generic verb for standing in its basic sense of a person being in an upright position on their feet.  Of a person, i.e. not of a building 'standing' or being in a place.  Not a location meaning, i.e. not 'stand' in the sense of 'be in a place', e.g. not 'estar' in Spanish -- the correct Spanish lexeme choice is estar parado.  Stative meaning, 'be standing', rather than change of state "stand up", "get up", Spanish pararse..  (CoBL)Many languages lack a durative verb of standing altogether. In these languages, this meaning should be filled by the same lexeme as STAND UP.
-
-### Contexts
-1. Man can stand, sit, or lie. (GLD) 2. He is standing on his own two feet. (GLD) 3. I am tired of standing, I want to lie down. (GLD)
-

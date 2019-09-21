@@ -1,7 +1,0 @@
-## 154. YOUNG SHEEP (1-3 YEARS)
-### Definition
-Young female sheep 1 to 3 years old.
-
-### Contexts
-Young sheep do not give birth.
-

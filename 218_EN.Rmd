@@ -1,7 +1,0 @@
-## 218. BEDBUG
-### Definition
-<i>Cimex lectularius</i>, an insect that lives in bedding and feeds on human blood, usually at night.
-
-### Contexts
-1. This bed is full of bedbugs. 2. If you don’t clean your house, bedbugs will appear.
-

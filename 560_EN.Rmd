@@ -1,7 +1,0 @@
-## 560. YARD
-### Definition
-An area adjacent to a house and encircled with a fence.
-
-### Contexts
-1. A good wife cleans up the yard every day. 2. To enter they yard, open the gates.
-

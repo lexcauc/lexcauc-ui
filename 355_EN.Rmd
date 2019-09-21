@@ -1,7 +1,0 @@
-## 355. TESTICLES
-### Definition
-The organ that contains the reproductive glands of the males of humans and some animals.
-
-### Contexts
-Men have two testicles.
-

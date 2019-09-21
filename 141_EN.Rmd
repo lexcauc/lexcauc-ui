@@ -1,7 +1,0 @@
-## 141. STACK
-### Definition
-Basic term for cereals amassed in the field for storage. Do not include special terms such as ‘stack of hay’, etc.
-
-### Contexts
-We collected sheafs into a stack. [Add picture]
-

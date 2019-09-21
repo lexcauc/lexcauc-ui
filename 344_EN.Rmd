@@ -1,7 +1,0 @@
-## 344. STOMACH
-### Definition
-An organ in the body, involved in digestion of food. (Concepticon)
-
-### Contexts
-1. Food comes from the belly into the guts. 2. My stomach hurts.
-

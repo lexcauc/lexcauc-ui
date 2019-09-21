@@ -1,7 +1,0 @@
-## 446. BAKE (TR, OF BREAD)
-### Definition
-To make bread in an oven.
-
-### Contexts
-Mother has baked bread.
-

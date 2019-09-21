@@ -1,7 +1,0 @@
-## 704. FLAY
-### Definition
-To remove the skin from a dead animal and cut out its internals.
-
-### Contexts
-Before cutting the animal carcass, it must be flayed.
-

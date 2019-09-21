@@ -1,7 +1,0 @@
-## 431. MILDEW
-### Definition
-Microscopic fungi that appear on food during long-term storage and that make it inedible.
-
-### Contexts
-1. You cannot eat this bread, it has mildew on it. 2. This cheese is all covered in mildew.
-

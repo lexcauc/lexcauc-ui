@@ -1,7 +1,0 @@
-## 222. BEESWAX
-### Definition
-The material used by bees to construct honeycombs.
-
-### Contexts
-Honeycombs are made of beeswax.
-

@@ -1,7 +1,0 @@
-## 602. FENCE
-### Definition
-A relatively low wooden barrier that delimits the boundaries of areas (land plots etc.).
-
-### Contexts
-There is a fence around the vegetable garden.
-

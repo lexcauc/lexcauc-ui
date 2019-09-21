@@ -1,7 +1,0 @@
-## 530. SHOE
-### Definition
-The most general term for footwear (as opposed to clothes).
-
-### Contexts
-When you go outside, wear shoes.
-

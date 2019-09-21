@@ -1,7 +1,0 @@
-## 697. AXE
-### Definition
-A tool with a sharp, wide, heavy metallic part and wooden handle, used for cutting wood.
-
-### Contexts
-1. Trees are cut using an axe. 2. Give me an axe, I want to cut off this branch.
-

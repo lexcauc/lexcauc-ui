@@ -1,7 +1,0 @@
-## 212. FLEA
-### Definition
-A bloodsucking parasite that is found on the bodies of mammals, most typically dogs.
-
-### Contexts
-1. The fur coat is full of fleas. 2. This dog has many fleas.
-

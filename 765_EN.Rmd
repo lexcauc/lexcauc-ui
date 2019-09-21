@@ -1,7 +1,0 @@
-## 765. WALK
-### Definition
-Most generic verb for motion of human beings with the feet. Try to avoid specific terms denoting speed of movement, e.g. "run", etc. (CoBL)
-
-### Contexts
-People walk, snakes crawl, birds fly.
-

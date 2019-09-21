@@ -1,7 +1,0 @@
-## 564. GATE
-### Definition
-A structure, usually double, that covers the entryway into an enclosed space outside.
-
-### Contexts
-One enters the yard through the gate.
-

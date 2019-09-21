@@ -1,7 +1,0 @@
-## 624. THRESH
-### Definition
-Separating the grain from the straw or husks by beating. (Concepticon)
-
-### Contexts
-1. Grain is threshed at the threshing-floor. 2. When grain is threshed, seeds are separated from the straws.
-

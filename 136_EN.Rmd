@@ -1,7 +1,0 @@
-## 136. SHEEP SHED
-### Definition
-A covered building for sheep.
-
-### Contexts
-Drive the sheep into the shed.
-

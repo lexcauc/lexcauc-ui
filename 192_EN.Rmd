@@ -1,7 +1,0 @@
-## 192. FEMALE DOG
-### Definition
-Adult female dog, bitch.
-
-### Contexts
-The female dog gave birth to puppies.
-

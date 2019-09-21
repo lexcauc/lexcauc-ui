@@ -1,7 +1,0 @@
-## 542. RING
-### Definition
-A round piece of (precious) metal worn around the finger. (Concepticon)
-
-### Contexts
-1. A ring is given to the bride. 2. Rings are worn on fingers.
-

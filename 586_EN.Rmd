@@ -1,7 +1,0 @@
-## 586. LAMP
-### Definition
-A portable lighting device that has a glass covering and uses fuel for burning (oil, kerosene),
-
-### Contexts
-
-

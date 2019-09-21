@@ -1,7 +1,0 @@
-## 609. RAKE
-### Definition
-A garden tool with a row of pointed teeth fixed to a long handle, used for collecting grass or debris, or for loosening soil. (Concepticon)
-
-### Contexts
-Leaves are collected using a rake.
-

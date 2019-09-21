@@ -1,7 +1,0 @@
-## 508. REMOVE (HAT)
-### Definition
-To remove a headdress.
-
-### Contexts
-I removed my hat.
-

@@ -1,7 +1,0 @@
-## 298. BEAK
-### Definition
-External anatomical structure of birds which is used for taking food and for eating. (Concepticon)
-
-### Contexts
-1. The eagle has a long beak. 2. Birds have beaks, men have mouths.
-

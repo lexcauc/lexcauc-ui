@@ -1,7 +1,0 @@
-## 239. HEE-HAW
-### Definition
-To make the typical sound produced by a donkey.
-
-### Contexts
-Donkeys hee-haw.
-

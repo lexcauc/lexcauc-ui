@@ -1,7 +1,0 @@
-## 1108. HANDLE
-### Definition
-
-
-### Contexts
-The axe has a wooden handle.
-

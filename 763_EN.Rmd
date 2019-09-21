@@ -1,7 +1,0 @@
-## 763. SHAKE
-### Definition
-
-
-### Contexts
-I shook the apple tree for the apples to fall down.
-

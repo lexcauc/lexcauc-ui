@@ -1,7 +1,0 @@
-## 1072. TALK
-### Definition
-
-
-### Contexts
-Murad is talking to Rasul.
-

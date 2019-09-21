@@ -1,7 +1,0 @@
-## 529. SOCK
-### Definition
-A soft garment worn on the foot and lower leg, under shoes or other footwear. (Concepticon, mod.)
-
-### Contexts
-Socks are worn under the shoes.
-

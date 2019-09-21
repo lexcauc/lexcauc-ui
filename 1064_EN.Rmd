@@ -1,7 +1,0 @@
-## 1064. HERE
-### Definition
-Most generic adverbial indicating proximal location. (CoBL) In three-way and more elaborate systems, indicating location near the speaker.
-
-### Contexts
-There is no snake here (near me).
-

@@ -1,7 +1,0 @@
-## 651. STONE (OF FRUIT)
-### Definition
-A hard objet inside a fruit, its seed.
-
-### Contexts
-1. He was eating fruit and spitting out stones. 2. When you eat an apricot, you must remove the stone.
-

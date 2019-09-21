@@ -1,7 +1,0 @@
-## 884. LONG
-### Definition
-Having much distance from one terminating point on an object or an area to another terminating point. (Concepticon) Of physical objects. Not to be confused with ‘high’, ‘tall’ (vertical, not horizontal) in languages that distinguish between the two. Antonymous to No.105 ‘short’.  (GLD)
-
-### Contexts
-1. Here is a long stick, here is a short one. (GLD) 2. This rope is long, I need a short one. (GLD) 3. Women have long hair, men have short hair. (GLD)
-

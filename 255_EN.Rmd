@@ -1,7 +1,0 @@
-## 255. HAIR (SINGLE)
-### Definition
-A single growth of hair. Often uses a root different from HAIR (MASS).
-
-### Contexts
-There was a hair in the soup.
-

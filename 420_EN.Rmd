@@ -1,7 +1,0 @@
-## 420. MUTE
-### Definition
-Of a person who cannot produce speech.
-
-### Contexts
-1. Mute people cannot speak. 2. He is silent because he is mute.
-

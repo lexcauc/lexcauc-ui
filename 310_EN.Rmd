@@ -1,7 +1,0 @@
-## 310. SHOULDER
-### Definition
-The part of the torso that corresponds to the shoulder joint, i.e. the area between the neck and the arm, <strong>not </strong>a part of the arm from the shoulder to the elbow.
-
-### Contexts
-1. Put your shoulder under the beam. 2. They are pushing each other with their shoulders.
-

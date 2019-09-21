@@ -1,7 +1,0 @@
-## 86. GRANDFATHER (FATHER OF FATHER)
-### Definition
-Father’s father.
-
-### Contexts
-When my father was born, my grandfather was 30 years old.
-

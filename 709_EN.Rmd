@@ -1,7 +1,0 @@
-## 709. DRAG
-### Definition
-The verb denoting the act of moving an object in constant contact with the ground.
-
-### Contexts
-He dragged the tree home.
-

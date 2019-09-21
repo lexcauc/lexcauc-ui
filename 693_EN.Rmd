@@ -1,7 +1,0 @@
-## 693. CUT
-### Definition
-Most generic transitive verb referring to incision rather than separation or segmentation. Avoid terms for "cutting off", "cutting through", "cutting in half", "cut into pieces" etc. Avoid terms specific to cutting wood. (CoBL) Included for compatibility with the Jena 200 list.
-
-### Contexts
-I’ve cut my finger; look, it’s bleeding. (CoBL)
-

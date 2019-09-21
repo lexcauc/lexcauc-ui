@@ -1,7 +1,0 @@
-## 526. SHIRT
-### Definition
-An article of clothing that is worn on the upper part of the body, that has long sleeves that cover the arms and buttons. (Concepticon, mod.)
-
-### Contexts
-1. Женщины носят платья, мужчины — рубашки. 2. Одежда мужчины — рубашка и штаны. 1. Women wear dresses, men wear shirts. 2. Men’s clothing are shirt and trousers.
-

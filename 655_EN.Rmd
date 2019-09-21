@@ -1,7 +1,0 @@
-## 655. BARK (N.)
-### Definition
-The exterior covering of the trunk and branches of a tree.  (Concepticon)
-
-### Contexts
-1. He tore some bark off the tree. 2. A piece of bark came loose from the tree.
-

@@ -1,7 +1,0 @@
-## 531. BOOT
-### Definition
-A shoe that covers part of the leg. (Concepticon)
-
-### Contexts
-You should wear boots when you walk on dirt.
-

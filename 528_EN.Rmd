@@ -1,7 +1,0 @@
-## 528. TROUSERS
-### Definition
-An item of clothing worn on the lower part of the body and covering both legs separately. (Concepticon)
-
-### Contexts
-1. Tuck your shirt into your trousers. 2. The shirt is worn on the torso, trousers are worn on the legs.
-

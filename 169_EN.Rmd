@@ -1,7 +1,0 @@
-## 169. HEN
-### Definition
-Adult female chicken.
-
-### Contexts
-Hens lay eggs.
-

@@ -1,7 +1,0 @@
-## 348. FAT OF ANIMALS
-### Definition
-Fat as a component of an animal body, not as a food product.
-
-### Contexts
-The ram consists of meat, fat and bones.
-

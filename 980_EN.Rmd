@@ -1,7 +1,0 @@
-## 980. SWEET
-### Definition
-Most generic adjective describing the taste of honey or sugar.  Avoid figurative and emotional terms, such as those describing people. (CoBL)
-
-### Contexts
-1. Sugar is sweet, salt is not. 2. Apples are sweet, lemon are sour.
-

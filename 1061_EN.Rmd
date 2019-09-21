@@ -1,7 +1,0 @@
-## 1061. WHO?
-### Definition
-Interrogative (not relative) pronoun, referring to an animate subject/object. (GLD)
-
-### Contexts
-1. Who came and what did he bring? (GLD) 2. Who killed this dog? (GLD)
-

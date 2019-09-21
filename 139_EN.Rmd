@@ -1,7 +1,0 @@
-## 139. THRESHING-FLOOR
-### Definition
-A space for threshing wheat, usually open-air.
-
-### Contexts
-Wheat is threshed at the threshing-floor.
-

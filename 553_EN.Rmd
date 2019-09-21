@@ -1,7 +1,0 @@
-## 553. RAZOR
-### Definition
-A bladed tool used for the removal of body hair through the act of shaving. (Concepticon)
-
-### Contexts
-Men shave their beard with a razor.
-

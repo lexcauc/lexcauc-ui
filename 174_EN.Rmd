@@ -1,7 +1,0 @@
-## 174. BIRD
-### Definition
-Most generic term for a member of the class Aves. Avoid specific terms for a small, large or predatory bird where possible. Avoid terms for domesticated birds, i.e. "fowl".
-
-### Contexts
-1. Birds are singing in the forest. 2. Birds lay eggs.
-

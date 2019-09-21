@@ -1,7 +1,0 @@
-## 499. FERMENT (OF DOUGH)
-### Definition
-To undergo a process whose result is the production of gases, acids and alcohol. In common situations, fermentation occurs with dough or with alcohol. Due to the universality of yeast dough it is best to use the verb that includes to its fermentation; usually, however, the same verb is also used for alcoholic drinks.
-
-### Contexts
-1. Dough started to ferment because of yeast. 2. FERMENTED DRINK started to ferment.
-

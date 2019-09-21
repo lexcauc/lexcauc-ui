@@ -1,7 +1,0 @@
-## 469. FRIED GRAIN
-### Definition
-Grain fried on a frying pan.
-
-### Contexts
-1. FRIED FLOUR is made out of FRIED GRAIN. 2. FRIED GRAIN is tasty.
-

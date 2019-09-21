@@ -1,7 +1,0 @@
-## 612. STAKE
-### Definition
-A sharp piece of wood used for delimiting boundaries.
-
-### Contexts
-When a border is delimited, stakes are wedgedinto the ground.
-

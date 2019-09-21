@@ -1,7 +1,0 @@
-## 643. LEAF
-### Definition
-The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk. (Concepticon) Should be applicable to as many different plant species as possible. Should also be separated from special collective terms, such as ‘foliage’ or ‘greenery’ (hence the singular use in ex. 1). Not ‘leaf of grass’ (for languages that distinguish between ‘tree leaf’ and ‘grass leaf’). (GLD)
-
-### Contexts
-1. He plucked one leaf from the tree/bush. (GLD)  2. Trees / bushes bear leaves, but dead trees / bushes have no leaves. (GLD)
-

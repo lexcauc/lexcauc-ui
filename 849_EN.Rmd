@@ -1,7 +1,0 @@
-## 849. HALT
-### Definition
-
-
-### Contexts
-
-

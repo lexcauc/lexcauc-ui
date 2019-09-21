@@ -1,7 +1,0 @@
-## 702. TEAR OFF
-### Definition
-To separate by hand a smaller part from a larger object.
-
-### Contexts
-1. I tore off a piece of bread. 2. The child tore off a piece from a page in the book.
-

@@ -1,7 +1,0 @@
-## 488. HONEY
-### Definition
-A viscous, sweet substance produced from nectar or honeydew by bees. (Concepticon)
-
-### Contexts
-1. Bees produce honey. 2. Honey is sweet. 3. You can eat honey but you cannot eat beeswax.
-

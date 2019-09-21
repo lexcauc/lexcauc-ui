@@ -1,7 +1,0 @@
-## 617. MOW (V, GRASS)
-### Definition
-To remove grass from the surface of the earth using a sharp blade.
-
-### Contexts
-1. In summer hay is mowed. 2. He mowed all grass on his field.
-

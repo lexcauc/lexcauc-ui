@@ -1,7 +1,0 @@
-## 493. WHEY
-### Definition
-The liquid that remains after milk curdles and is strained. A byproduct of cheese manufacture.
-
-### Contexts
-When cheese is made, whey remains.
-

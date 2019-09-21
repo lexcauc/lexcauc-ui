@@ -1,7 +1,0 @@
-## 443. BOIL (TR, OF WATER)
-### Definition
-To warm water up to a temperature where it changes to the gaseous phase.
-
-### Contexts
-1. This water must be boiled to drink it. 2. To make tea, people boil water.
-

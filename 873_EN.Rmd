@@ -1,7 +1,0 @@
-## 873. EDGE
-### Definition
-
-
-### Contexts
-Move the glass from the edge of the table.
-

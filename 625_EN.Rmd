@@ -1,7 +1,0 @@
-## 625. THRESHING BOARD
-### Definition
-The object with which grain is beaten during threshing.
-
-### Contexts
-During threshing, threshing boards are attached behind the oxen.
-

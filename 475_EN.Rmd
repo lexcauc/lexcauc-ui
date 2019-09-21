@@ -1,7 +1,0 @@
-## 475. MILL
-### Definition
-A mechanism and the corresponding building whose purpose is to grind flour. In the Caucasus, this mainly refer to water mills.
-
-### Contexts
-Flour is ground at the mill.
-

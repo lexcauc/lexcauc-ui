@@ -1,7 +1,0 @@
-## 89. GRANDMOTHER (MOTHER OF MOTHER)
-### Definition
-Mother’s mother.
-
-### Contexts
-My grandmother gave birth to my mother when she was 20 years old.
-

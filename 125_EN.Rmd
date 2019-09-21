@@ -1,7 +1,0 @@
-## 125. WE (EXCLUSIVE)
-### Definition
-1st person plural exclusive pronoun (not including the hearer). Avoid exclusively emphatic or contrastive forms. If there are distinct masculine and feminine forms (e.g. Spanish nosotros/nosotras), then if one is also generic, mixed or unmarked, enter that one (e.g. Spanish nosotros). If there is no generic masculine/feminine form, then (exceptionally) the two forms should be entered as separate 'synonym' lexemes. Avoid dual forms, if different, or honorific forms. If the language has no clusivity distinction, enter the same word in both functions.
-
-### Contexts
-We will go hunting, and you will not.
-

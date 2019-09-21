@@ -1,7 +1,0 @@
-## 142. LARGE STACK
-### Definition
-The most widespread type of a larger stack (such as <i>skirda</i>).
-
-### Contexts
-
-

@@ -1,7 +1,0 @@
-## 853. PICK UP
-### Definition
-
-
-### Contexts
-I picked up the hammer from the floor.
-

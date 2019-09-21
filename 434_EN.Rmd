@@ -1,7 +1,0 @@
-## 434. DRINK (SIP)
-### Definition
-Some languages have a special verb for consuming hot drinks (e.g. tea). 
-
-### Contexts
-We are drinking / sipping hot tea.
-

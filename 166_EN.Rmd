@@ -1,7 +1,0 @@
-## 166. FOAL OF DONKEY
-### Definition
-A juvenile donkey. If there are several words for different kinds of foals, use the one that refers to a newborn.
-
-### Contexts
-Our donkey gave birth to a foal yesterday.
-

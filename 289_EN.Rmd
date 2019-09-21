@@ -1,7 +1,0 @@
-## 289. EYEBROW
-### Definition
-The hair that grows over the bone ridge above the eye socket. (Concepticon)
-
-### Contexts
-1. Eyebrows are below the forehead. 2. He has bushy eyebrows.
-

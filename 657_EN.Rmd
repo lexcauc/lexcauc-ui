@@ -1,7 +1,0 @@
-## 657. STICK
-### Definition
-Most generic term for a long, thin piece of wood, mainly left in the shape in which it grew, that does not bend. (Concepticon) Avoid terms specifically used for starting a fire. Avoid terms for smaller sticks, e.g. "twigs". (CoBL) Also avoid terms for specific functional types of sticks, such as ‘staff’, etc.
-
-### Contexts
-1. He hit the dog with a stick. 2. He picked up a stick from the ground.
-

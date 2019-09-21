@@ -1,7 +1,0 @@
-## 232. SNAIL
-### Definition
-(Gastropoda) Ventral footed mollusk, including land snails, terrestrial pulmonate gastropod mollusks. (Concepticon)
-
-### Contexts
-1. There are often many snails in wet places. 2. Snails crawl slowly.
-

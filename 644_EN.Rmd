@@ -1,7 +1,0 @@
-## 644. FLOWER
-### Definition
-A plant of the group of flowering plants (Angiospermae) characterized by a group of petals around the central part at the end of the stalk.
-
-### Contexts
-1. Grass and flowers grow in the field. 2. A bee landed on a flower.
-

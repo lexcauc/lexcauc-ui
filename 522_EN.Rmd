@@ -1,7 +1,0 @@
-## 522. WOOL COMB
-### Definition
-A comb used to comb wool.
-
-### Contexts
-Wool is combed with a wool comb.
-

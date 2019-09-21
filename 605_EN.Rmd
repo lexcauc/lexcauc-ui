@@ -1,7 +1,0 @@
-## 605. DIG
-### Definition
-To move earth, rocks, etc. out of the way, usually to create a hole. Not ‘dig’ in the sense of digging out a specific object.
-
-### Contexts
-1. He dug a hole with a shovel. 2. The villagers dug a canal along the road.
-

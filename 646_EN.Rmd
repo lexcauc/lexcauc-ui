@@ -1,7 +1,0 @@
-## 646. BUSH
-### Definition
-A kind of small-sized tree, which does not reach up to a person’s height.
-
-### Contexts
-1. Bushes are low, trees are high. 2. The enemies hid in the bushes.
-

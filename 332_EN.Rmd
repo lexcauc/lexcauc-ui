@@ -1,7 +1,0 @@
-## 332. WING
-### Definition
-Most generic term for the appendage of an animal's body, typically a bird, that allows it to fly in the air. (CoBL)
-
-### Contexts
-1. Birds have wings, people do not. (CoBL) 2. The swallow hurt its wing and cannot fly.
-

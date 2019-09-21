@@ -1,7 +1,0 @@
-## 792. ROAD
-### Definition
-The most typical kind of walkway for the given region (path, trail, serpentine etc.); in many cultures, ‘path’ is the correct equivalent (since ‘road’ may be taken to represent a cultural term imposed by a technologically superior civilization). (GLD)
-
-### Contexts
-1. There is a road from my village to the next one, but no road to the far away village. (GLD) 2. He is walking on the road. (GLD)
-

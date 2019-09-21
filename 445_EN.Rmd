@@ -1,7 +1,0 @@
-## 445. FRY (TR, FOOD)
-### Definition
-To cook in hot fat (Concepticon), e.g. in oil.
-
-### Contexts
-He fried meat in a pan.
-

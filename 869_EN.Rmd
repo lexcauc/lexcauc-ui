@@ -1,7 +1,0 @@
-## 869. LOW
-### Definition
-
-
-### Contexts
-1. A tree is high, a bush is low. 2. This tree is lower than that one.
-

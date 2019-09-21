@@ -1,7 +1,0 @@
-## 724. SAW
-### Definition
-A tool for sawing wood.
-
-### Contexts
-
-

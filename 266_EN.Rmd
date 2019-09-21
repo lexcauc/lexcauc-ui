@@ -1,7 +1,0 @@
-## 266. CARTILAGE
-### Definition
-a resilient and smooth elastic tissue, a rubber-like padding that covers and protects the ends of long bones at the joints. (Wiki) For the purposes of lexical elicitation, a relatively soft part of a bone that is difficult to chew; often occurs in meat.
-
-### Contexts
-It is difficult to chew a cartilage. 2. A cartilage is a soft bone.
-

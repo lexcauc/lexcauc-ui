@@ -1,7 +1,0 @@
-## 691. CUT (WOOD)
-### Definition
-To fell the tree with an axe.
-
-### Contexts
-He cut down the tree.
-

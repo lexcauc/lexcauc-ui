@@ -1,7 +1,0 @@
-## 341. LIVER
-### Definition
-A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions. (Concepticon) Applicable to both humans and animals. ‘Liver’ as a body organ rather than an abstract vessel for the mind, soul, etc., see ‘heart’.  (GLD)
-
-### Contexts
-1. He cut the liver from the carcass. (GLD) 2. Human liver is larger than a dog’s liver. (GLD) 3. Alcohol kills the liver.
-

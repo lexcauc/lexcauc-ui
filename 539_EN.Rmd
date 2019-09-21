@@ -1,7 +1,0 @@
-## 539. POCKET
-### Definition
-A kind of pouch, which is accessible by an opening in an article of clothing and serves for storage; usually large enough in order to accommodate at least one hand.  (Concepticon)
-
-### Contexts
-1. Pockets are found in trousers. 2. Take your hands out of your pockets.
-

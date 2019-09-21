@@ -1,7 +1,0 @@
-## 537. HEADSCARF
-### Definition
-A piece of fabric that covers the hair of women. Usually several terms for different kinds of headscarves are used. Since the set of these terms and their distribution are culture-dependent, enter the least marked word for the headscarf as a women’s headdress as opposed to men’s hat.Кусок ткани, закрывающий волосы женщины. Обычно имеется несколько терминов для разных видов платков. Поскольку набор этих терминов и их дистрибуция культурно обусловлены, необходимо выбирать наименее маркированный термин для платка как женского головного убора в противовес шапке у мужчин. 
-
-### Contexts
-1. When it is cold, women wear a headscarf. 2. Men wear hats, women wear headscarves.
-

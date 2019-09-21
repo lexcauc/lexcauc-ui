@@ -1,7 +1,0 @@
-## 889. THIN
-### Definition
-Most generic word describing a relatively small width between opposite surfaces or sides of an object. See: https://github.com/lingdb/CoBL-public/wiki/thinMany languages distinguish between 1D (rope) and 2D (wall) thickness. The main term should be the 2D one. The 1D term can be entered as a synonym.
-
-### Contexts
-1. This stalk is thin, it is easy to break. 2. This wall is thick, that one is thin. 3. This rope is thick, that one is thin.
-

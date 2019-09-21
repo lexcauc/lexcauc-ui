@@ -1,7 +1,0 @@
-## 465. STIR
-### Definition
-To mix together two substances by circular motions of a spoon or another object.
-
-### Contexts
-Stir the soup.
-

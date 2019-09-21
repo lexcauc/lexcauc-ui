@@ -1,7 +1,0 @@
-## 861. CLOSE (TR)
-### Definition
-
-
-### Contexts
-Close the door.
-

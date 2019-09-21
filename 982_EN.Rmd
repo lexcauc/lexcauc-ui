@@ -1,7 +1,0 @@
-## 982. BITTER
-### Definition
-Having an acrid taste.
-
-### Contexts
-1. This plant has a bitter sap. 2. Beer is bitter.
-

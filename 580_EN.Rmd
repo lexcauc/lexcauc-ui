@@ -1,7 +1,0 @@
-## 580. BLANKET
-### Definition
-A large cloth that covers one’s body during sleep in order to maintain warmth.
-
-### Contexts
-To be warm, one sleeps under a blanket.
-

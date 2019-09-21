@@ -1,7 +1,0 @@
-## 995. GREEN
-### Definition
-[As on the RGB 0:255:0 and similar cards. The natural color of fresh, newly sprung grass.] (GLD)
-
-### Contexts
-Grass is green.
-

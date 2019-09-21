@@ -1,7 +1,0 @@
-## 397. SICK
-### Definition
-Whose health is altered (Concepticon); having an illness, disease.
-
-### Contexts
-1. A sick man must not work. 2. Young people are healthy, old people are sick.
-

@@ -1,7 +1,0 @@
-## 521. THIMBLE
-### Definition
-An instrument that one puts on the finger to avoid being injured during sewing.
-
-### Contexts
-To avoid injury during sewing, one wears a thimble.
-

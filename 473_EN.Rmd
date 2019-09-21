@@ -1,7 +1,0 @@
-## 473. FLOUR
-### Definition
-Ground or milled grain or cereal. (Concepticon)
-
-### Contexts
-1. Flour is ground grain. 2. Dough is made out of flour and water.
-

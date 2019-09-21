@@ -1,7 +1,0 @@
-## 544. NECKLACE
-### Definition
-An article of jewelry that is worn around the neck. (Concepticon)
-
-### Contexts
-Women wear necklaces around their necks.
-

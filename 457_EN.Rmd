@@ -1,7 +1,0 @@
-## 457. SKIMMER
-### Definition
-A spoon with holes which is used to take khinkal from the liquid in which it is boiling.
-
-### Contexts
-Khinkal is taken out by a skimmer.
-

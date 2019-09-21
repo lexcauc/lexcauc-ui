@@ -1,7 +1,0 @@
-## 302. FANG (OF DOG)
-### Definition
-One of the four sharp front teeth of animals.
-
-### Contexts
-Dogs have sharp teeth.
-

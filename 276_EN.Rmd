@@ -1,7 +1,0 @@
-## 276. TAIL FAT
-### Definition
-Жировое отложение округлой формы в районе хвоста у барана «курдючной» породы. (Wiki) Собирать скорее концепт «пищевой продукт», чем концепт «часть тела барана», хотя обычно они обозначаются одним словом. A roundish fatty deposit in the area around the tail of a special breed of sheep, “kurdyuk”. (Wiki). Should be collected specifically as an animal product rather than a body part, although usually these are expressed by the same word.
-
-### Contexts
-1. Tail fat is eaten. 2. This ram has a large tail fat (area).
-

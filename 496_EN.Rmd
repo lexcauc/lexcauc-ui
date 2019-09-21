@@ -1,7 +1,0 @@
-## 496. BUTTER
-### Definition
-A soft, fatty foodstuff that is made by churning the cream of milk (most often cows milk). (Concepticon)
-
-### Contexts
-Butter is churned out of milk.
-

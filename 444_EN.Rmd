@@ -1,7 +1,0 @@
-## 444. BOIL (INTR, OF WATER)
-### Definition
-To be at a temperature (as a liquid) where it moves into the gaseous phase. (Concepticon)
-
-### Contexts
-1. The stock is boiling. 2. The milk is boiling, remove it from the hob.
-

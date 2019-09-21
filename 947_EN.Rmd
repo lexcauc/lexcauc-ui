@@ -1,7 +1,0 @@
-## 947. STOP (INTR)
-### Definition
-
-
-### Contexts
-
-

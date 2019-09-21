@@ -1,7 +1,0 @@
-## 868. HIGH
-### Definition
-
-
-### Contexts
-1. A tree is high, a bush is low. 2. This tree is higher than that one.
-

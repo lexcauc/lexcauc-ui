@@ -1,7 +1,0 @@
-## 620. SCYTHE
-### Definition
-A farm tool consisting of a long bent blade attached to a shaft, that is designed for cutting straws of grass or grain from an upright position. (Concepticon)
-
-### Contexts
-1. Grass is mowed by a scythe. 2. Before mowing hay, the scythe is straightened.
-

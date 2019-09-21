@@ -1,7 +1,0 @@
-## 611. WEDGE
-### Definition
-A sharp object hammered into wood or tools as a fastener.
-
-### Contexts
-The wedge is hammered into wood.
-

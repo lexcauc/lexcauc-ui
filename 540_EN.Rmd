@@ -1,7 +1,0 @@
-## 540. BUTTON
-### Definition
-A fastener consisting of a knob or disc that is passed through a slit in the adjacent material. (Concepticon)
-
-### Contexts
-Fasten the buttons on your shirt.
-

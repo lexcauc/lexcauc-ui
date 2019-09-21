@@ -1,7 +1,0 @@
-## 430. ROTTEN
-### Definition
-Most generic adjective for decomposing or decomposed solid food, typically fruit. Try to avoid terms for "mouldy". Try to avoid terms specifically for meat or decomposing flesh. Try to avoid terms specifically for wood. (CoBL)
-
-### Contexts
-1. This apple is rotten. (CoBL) 2. Don’t eat rotten fruit.
-

@@ -1,7 +1,0 @@
-## 652. TREE STUMP
-### Definition
-The part of the trunk that is left after the tree has been cut.
-
-### Contexts
-This trunk is left from an oak which has been cut down.
-

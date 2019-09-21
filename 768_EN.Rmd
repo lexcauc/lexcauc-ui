@@ -1,7 +1,0 @@
-## 768. BLOW (V, OF PERSON)
-### Definition
-Most basic verb for action of expelling air with force from the mouth. Avoid intransitive forms, such as the wind blowing. Avoid also blow in the sense of "hit". (CoBL)
-
-### Contexts
-1. He blew on the sticks to start a fire. (CoBL) 2. He blew on tea to make it colder.
-

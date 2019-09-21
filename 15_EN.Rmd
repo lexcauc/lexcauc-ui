@@ -1,7 +1,0 @@
-## 15. SEA
-### Definition
-Most generic term for a large body of salt water. Avoid terms for subsets thereof, e.g. "bay", "inlet" etc. Avoid more cartographical terminology, e.g. "ocean". (CoBL)
-
-### Contexts
-1. The river flows from the mountains into the sea. 2. Water from the sea is salty.
-

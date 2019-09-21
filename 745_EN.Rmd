@@ -1,7 +1,0 @@
-## 745. WEAVE
-### Definition
-To create fabric out of strings using a loom.
-
-### Contexts
-
-

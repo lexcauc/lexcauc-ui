@@ -1,7 +1,0 @@
-## 243. HOWL
-### Definition
-To make the typical sound produced by a wolf or a jackal during the night.
-
-### Contexts
-Jackals howl during the night.
-

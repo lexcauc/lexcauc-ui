@@ -1,7 +1,0 @@
-## 180. CROW
-### Definition
-A black bird of the crows genus (<i>Corvus</i>). Since distinguishing crows from other similar black birds (such as ravens) can be challenging, the name of the most typical representative of this genus should be entered.
-
-### Contexts
-1. Crows croak loudly. 2. A crow took cheese away.
-

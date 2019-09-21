@@ -1,7 +1,0 @@
-## 524. SHEPHERD’S COAT
-### Definition
-A felt coat used by herdsmen.
-
-### Contexts
-The shepherd put on the shepherd’s coat.
-

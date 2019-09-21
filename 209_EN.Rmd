@@ -1,7 +1,0 @@
-## 209. CAMEL
-### Definition
-An animal of the genus <i>Camelus</i>. Is not endemic to the Caucasus, but known since ancient times; according to Nikolayaev & Starostin, the term for the camel is reconstructed for Proto-East Caucasian.
-
-### Contexts
-1. Camels live in hot places. 2. A camel can live without water for a long time.
-

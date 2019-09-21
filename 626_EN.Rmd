@@ -1,7 +1,0 @@
-## 626. EAR (OF CORN)
-### Definition
-A mature cereal.
-
-### Contexts
-After harvest, ears of corn are left in the field.
-

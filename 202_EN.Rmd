@@ -1,7 +1,0 @@
-## 202. FISH
-### Definition
-Most generic noun for a live fish (cold-blooded aquatic vertebrate with scales, fins and gills). Avoid terms for caught, cooked or prepared fish. Avoid terms specifically for river fish or sea fish. (based on CoBL)
-
-### Contexts
-1. All fish live in water. 2. Birds fly, fish swim. 3. I want to catch this fish.
-

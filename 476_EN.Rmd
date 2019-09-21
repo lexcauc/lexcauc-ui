@@ -1,7 +1,0 @@
-## 476. MEAT
-### Definition
-Meat as food. To be distinguished from specific kinds of meat (from various body parts, various animals etc.) and from marked terms like ‘flesh’.  (GLD)
-
-### Contexts
-1. Which animal’s meat is this? (GLD) 2. He got / brought plenty of meat. (GLD) 3. He ate all the meat and all the fat. (GLD)
-

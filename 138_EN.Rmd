@@ -1,7 +1,0 @@
-## 138. HAYLOFT
-### Definition
-A building for storing hay.
-
-### Contexts
-We filled the hayloft with hay.
-

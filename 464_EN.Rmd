@@ -1,7 +1,0 @@
-## 464. MIX (INTR)
-### Definition
-To be combined with another liquid or granular substance.
-
-### Contexts
-The milk has poured out and mixed with dirt, you cannot drink it.
-

@@ -1,7 +1,0 @@
-## 692. CUT TO PIECES
-### Definition
-To divide an object (specifically food) with a knife into several smaller pieces.
-
-### Contexts
-1. Murad cut the meat with a knife into several pieces 2. We are out of sausage, cut us some more.
-

@@ -1,7 +1,0 @@
-## 615. СЕМЯ
-### Определение
-Generic term for ‘seed’ of any plant; the word that can be applied to as many different plant species as possible. Not specifically ‘fruit-stone’, although the same root may be used for both small and large seeds. To be kept separate from more specialized terms (‘seed for sowing’, ‘moist seed’, ‘seed of a particular group of plants, e.g., cereals’). (GLD) Выбирать значение отдельного семечка в противовес собирательному, ср. франц. graine, не semence (в некоторых языках это будет означать использование в этой позиции сингулятива). (CoBL)
-
-### Контексты
-1. У меня было только десять семян на посадку, и их съели птицы. (CoBL) 2. Если семя попадёт в землю, оно прорастёт. (GLD)
-

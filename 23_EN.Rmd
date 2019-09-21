@@ -1,7 +1,0 @@
-## 23. STONE
-### Definition
-An average-size stone that can be taken into one’s hand (and used as a tool). It is preferable to separate this term from words for notably smaller stones (‘pebble’, ‘gravel’, etc.) and notably bigger stones (‘boulder’, ‘block’ etc.). (GLD)
-
-### Contexts
-1. He took a stone in his hand.  2. He threw a stone at the bird.  3. He used a stone to beat a peg into the ground.
-

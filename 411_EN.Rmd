@@ -1,7 +1,0 @@
-## 411. POISON
-### Definition
-A substance which, if ingested, can cause serious illness or death.
-
-### Contexts
-1. Snakes have poison. 2. He drank poison and died.
-

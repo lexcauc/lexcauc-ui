@@ -1,7 +1,0 @@
-## 785. ENTER
-### Definition
-
-
-### Contexts
-The guest entered the house from the outside.
-

@@ -1,7 +1,0 @@
-## 60. CHARCOAL PIECE
-### Definition
-One granule of charcoal.
-
-### Contexts
-A piece of charcoal fell out of the stove.
-

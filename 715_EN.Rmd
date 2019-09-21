@@ -1,7 +1,0 @@
-## 715. POUR (TR, GRANULAR)
-### Definition
-To cause a granular substance to flow into a container.
-
-### Contexts
-He poured grain into the sack.
-

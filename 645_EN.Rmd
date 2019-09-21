@@ -1,7 +1,0 @@
-## 645. TREE
-### Definition
-Most generic substantive for a large woody perennial plant. (CoBL) Not to be confused with designations of particular tree species, as well as the collective ‘forest’ or ‘wood (material)’. (GLD)
-
-### Contexts
-1. All trees have roots. (GLD) 2. The tree has a thick trunk, the bush has a thin one. (GLD) 3. There is a tall tree growing over there. (GLD) 4. He cut down the tree. (GLD)
-

@@ -1,7 +1,0 @@
-## 456. LADLE
-### Definition
-A large spoon used to distribute soup and other kinds of food. (Concepticon)
-
-### Contexts
-I put soup in the bowl with a ladle.
-

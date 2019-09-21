@@ -1,7 +1,0 @@
-## 148. CALF
-### Definition
-Bovine younger than 1 year old.
-
-### Contexts
-Our cow gave birth to a calf yesterday.
-

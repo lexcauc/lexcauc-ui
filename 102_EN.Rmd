@@ -1,7 +1,0 @@
-## 102. COUSIN (MALE)
-### Definition
-A neutral term for uncle or aunt’s son. If there is no neutral word, enter the meaning ‘son of paternal uncle’ as the main entry, but also include other variants as separate entries.
-
-### Contexts
-I have two cousins, the son of my father’s brother and the son of my mother’s sister.
-

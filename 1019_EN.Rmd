@@ -1,7 +1,0 @@
-## 1019. PLAY (TR)
-### Definition
-Most generic verb, typically transitive, for engaging in a specific game, for the purpose of amusement. Select the transitive verb form, i.e. where followed by the word 'game' or the name of a game. Avoid intransitive/middle/reflexive forms just for amusing oneself without a specific structured game, such as 'have fun', French 's'amuser', etc.. Avoid terms that specifically imply competition, rather than non-serious amusement. Avoid the meaning of playing a musical instrument. (CoBL)
-
-### Contexts
-1. Children are playing football outside. 2. I played cheese with my son.
-

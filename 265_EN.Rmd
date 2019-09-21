@@ -1,7 +1,0 @@
-## 265. JOINT
-### Definition
-Any part of the body where two bones join; a gristle.
-
-### Contexts
-A joint connects bones.
-

@@ -1,7 +1,0 @@
-## 315. PAW
-### Definition
-A paw is the soft foot of a mammal, generally a quadruped, that has claws. (Concepticon)
-
-### Contexts
-The bear has a large paw.
-

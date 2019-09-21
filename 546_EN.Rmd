@@ -1,7 +1,0 @@
-## 546. EARRING
-### Definition
-A piece of jewelry worn on the ear. (Concepticon)
-
-### Contexts
-Women wear earrings in their ears.
-

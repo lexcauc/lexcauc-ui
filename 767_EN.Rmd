@@ -1,7 +1,0 @@
-## 767. FLY (V)
-### Definition
-Of birds, denoting neutral movement through the sky (but not ‘to fly off’, ‘to fly away’ etc., frequently denoted by different verbs). Should be kept apart from specific types of flying (‘to soar’, ‘to flit’, etc.). On rare occasions a neutral iterative verb ‘to fly’ (Where is the bird flying?) and a more marked habitual verb ‘to fly’ (Little chicks do not yet know how to fly) can contain different roots that is a symmetric correspondence to the frequent root opposition ‘to go’ ~ ‘to walk’ (see No.33). In such a case both roots can be taken as synonyms. NB: this entry does not refer to the noun ‘fly’ (insect)!  
-
-### Contexts
-1. Birds can fly, beasts and people cannot.  2. Little chicks do not yet know how to fly.  3. There’s a bird in the sky. Where is it flying?
-

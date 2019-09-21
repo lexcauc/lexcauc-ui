@@ -1,7 +1,0 @@
-## 876. NEAR
-### Definition
-Not far distant in time or space or degree or circumstances. (Concepticon) Prefer adverbial forms.
-
-### Contexts
-1. That tree is far away, I cannot see it; this one is quite near, I can see it clearly. (GLD) 2. You can walk there in one day; it's near. (CoBL)
-

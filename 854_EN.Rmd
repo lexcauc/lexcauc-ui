@@ -1,7 +1,0 @@
-## 854. INSERT
-### Definition
-
-
-### Contexts
-He inserted the thread into the needle.
-

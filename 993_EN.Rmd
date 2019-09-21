@@ -1,7 +1,0 @@
-## 993. RED
-### Definition
-[As on the RGB 255:0:0 and similar cards. The natural color of arterial blood from a fresh wound.] (GLD)
-
-### Contexts
-Blood is red.
-

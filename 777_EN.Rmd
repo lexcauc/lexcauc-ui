@@ -1,7 +1,0 @@
-## 777. GO
-### Definition
-Indicates movement from point A to point B; on foot by default, but with more emphasis on the fact of movement than on the mode of movement. A continuative/durative/ imperfective verb. The original Swadesh item ‘to walk’, referring either to movement with no specific direction (walking in the park) or emphasizing the idea of using one’s feet rather than any means of transport (I’m going to walk to the station), was rather ambiguous and tended to be replaced by ‘to go’ already in the early wordlists; we recommend preserving this tradition. NB: in many languages this may be the same root as ‘to go away’ (the antonym of ‘to come’), but the correlation is not necessary (cf. Russian идти, not уходить).
-
-### Contexts
-1. He was standing here, but now he is going that way [indicate direction w. hand].  2. Today I work at home, tomorrow I’m going to the next village.  3. Where are you going?
-

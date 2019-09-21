@@ -1,7 +1,0 @@
-## 442. BOIL (INTR, OF FOOD)
-### Definition
-To come to a cooked state as a result of boiling (of food).
-
-### Contexts
-The stock has boiled (cooked by boiling) well.
-

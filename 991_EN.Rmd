@@ -1,7 +1,0 @@
-## 991. WHITE
-### Definition
-[As on the RGB 255:255:255 card. The natural color of snow, paper, babies’ teeth etc.] (GLD)
-
-### Contexts
-1. There is a white cloud in the sky. (CoBL) 2. White snow is on the ground.
-

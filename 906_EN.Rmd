@@ -1,7 +1,0 @@
-## 906. TWO
-### Definition
-The second natural number (2).
-
-### Contexts
-All people have two eyes.
-

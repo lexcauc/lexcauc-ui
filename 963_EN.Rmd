@@ -1,7 +1,0 @@
-## 963. YESTERDAY
-### Definition
-Term used for the day before today, e.g. French hier. Not 'the day before' any other day as point of reference, e.g. French la veille, etc.. (CoBL)
-
-### Contexts
-I havent’ seen him today but I have seen him yesterday.
-

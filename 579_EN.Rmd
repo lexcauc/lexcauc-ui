@@ -1,7 +1,0 @@
-## 579. PILLOW
-### Definition
-Cushion placed under the head for sleeping. (Concepticon)
-
-### Contexts
-When sleeping, one puts a pillow under the head.
-

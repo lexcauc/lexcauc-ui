@@ -1,7 +1,0 @@
-## 505. PUT ON (HAT)
-### Definition
-To put on a headdress.
-
-### Contexts
-I put on a hat.
-

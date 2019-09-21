@@ -1,7 +1,0 @@
-## 759. DRIP (INTR)
-### Definition
-
-
-### Contexts
-
-

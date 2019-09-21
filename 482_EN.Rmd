@@ -1,7 +1,0 @@
-## 482. WALNUT
-### Definition
-A nut of the tree Juglans regia.
-
-### Contexts
-1. Walnuts grow in the highlands, hazelnuts grow in the lowlands. 2. Khinkal is made with walnuts.
-

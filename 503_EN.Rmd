@@ -1,7 +1,0 @@
-## 503. PUT ON (DRESS)
-### Definition
-To put on clothing that covers the upper part of the body (shirt, dress).
-
-### Contexts
-1. I put on the shirt. 2. She put on the dress.
-

@@ -1,7 +1,0 @@
-## 511. SPIN
-### Definition
-To make (yarn) by drawing out, twisting, and winding fibers. (Concepticon)
-
-### Contexts
-Patimat has spinned all the wool.
-

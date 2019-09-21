@@ -1,7 +1,0 @@
-## 904. EXCHANGE
-### Definition
-
-
-### Contexts
-He exchanged X for Y.
-

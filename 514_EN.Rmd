@@ -1,7 +1,0 @@
-## 514. SEW
-### Definition
-Most generic verb for passing thread repeatedly through fabric or a material, using a needle, in order to join two or more parts. (CoBL)
-
-### Contexts
-1. Sew the sleeve to the shirt. 2. Sew the sack with a thick thread. 3. He sewed the two pieces of cloth together. (CoBL)
-

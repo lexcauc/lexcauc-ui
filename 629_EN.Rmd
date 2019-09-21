@@ -1,7 +1,0 @@
-## 629. CHAFF
-### Definition
-The outer shell or coating of a cereal seed.  (Concepticon, mod.)
-
-### Contexts
-1. After threshing the chaff stays on the ground. 2. What is left after threshing is grain, chaff and straw. 
-

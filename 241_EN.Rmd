@@ -1,7 +1,0 @@
-## 241. BARK (V.)
-### Definition
-To make the loud, abrupt sound produced by a dog.
-
-### Contexts
-Dogs bark.
-

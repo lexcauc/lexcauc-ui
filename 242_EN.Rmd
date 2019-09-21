@@ -1,7 +1,0 @@
-## 242. ROAR
-### Definition
-To make the prolongated sound produced by a dog or wolf, typically when threating to attack.
-
-### Contexts
-When a dog wants to bite, it roars.
-

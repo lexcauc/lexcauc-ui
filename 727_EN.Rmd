@@ -1,7 +1,0 @@
-## 727. SLEDGEHAMMER
-### Definition
-A large hammer with a long handle that can only be used by two hands.
-
-### Contexts
-
-

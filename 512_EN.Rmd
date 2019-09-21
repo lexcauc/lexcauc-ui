@@ -1,7 +1,0 @@
-## 512. SPINDLE
-### Definition
-A stick used in spinning fiber into thread. (Concepticon)
-
-### Contexts
-Wool is wound around the spindle.
-

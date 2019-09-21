@@ -1,7 +1,0 @@
-## 905. ONE
-### Definition
-The first natural number (1). Cardinal numeral. It is recommendable to keep this apart from the respective element of the numeric row one, two, three, four… used in counting. Same contexts as in No.91 ‘two’. (GLD)
-
-### Contexts
-1. There is one leaf on the ground, there are many leaves on the tree. (GLD) 2. Here is one stone, here are two stones, here are three stones. (GLD)
-

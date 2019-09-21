@@ -1,7 +1,0 @@
-## 708. PULL
-### Definition
-Most generic verb for moving an object with the hands in a direction towards oneself -- basic opposite of 'push'.  Avoid terms specifically for bringing something closer to oneself; the verb selected should be generic enough also to apply to cases where the person pulling the object is himself moving, i.e. pulling it along. Avoid terms specifically for dragging an object in constant contact with the ground, e.g. 'drag', 'haul'. Avoid intensifying terms emphasising sudden pulling, e.g. 'yank'. Avoid intensifying terms emphasising strenuous force and/or particularly heavy objects, e.g. 'tug', "drag". Avoid terms specifically involving rotation (e.g. 'roll'), causing to fall (e.g. 'pull over') or other overly specific senses. Avoid terms for more general change of position, e.g. 'move, carry'. (CoBL)
-
-### Contexts
-1. He went and pulled the cart behind him. 2. He pulled the table towards himself.
-

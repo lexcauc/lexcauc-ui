@@ -1,7 +1,0 @@
-## 578. BEDCLOTHES
-### Definition
-A set of betclothes, a place to sleep: matress, blanket and pillow. Beds were not traditionally used, hence the word BEDCLOTHES is less marked than BED.
-
-### Contexts
-The sleeping place is matress and blanket.
-

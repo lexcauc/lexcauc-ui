@@ -1,7 +1,0 @@
-## 588. GUTTER
-### Definition
-The pipe through which water flows down from the roof
-
-### Contexts
-All roofs used to have a gutter.
-

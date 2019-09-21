@@ -1,7 +1,0 @@
-## 623. ПЛУГ
-### Определение
-An agricultural device pulled through the ground in order to break it open into furrows for planting. (Concepticon) 
-
-### Контексты
-Плуг поднимает верхний слой земли.
-

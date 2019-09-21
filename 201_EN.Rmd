@@ -1,7 +1,0 @@
-## 201. HEDGEHOG
-### Definition
-Small mammal of the Erinaceinae subfamily characterized by its spiny back and by its habit of rolling itself into a ball when attacked. (Concepticon)
-
-### Contexts
-1. A hedgehog is spiny. 2. Hedgehogs roll when attacked.
-

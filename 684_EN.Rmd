@@ -1,7 +1,0 @@
-## 684. TIE (OBJECTS)
-### Definition
-Most generic transitive verb for attaching two things by means of rope. (CoBL)
-
-### Contexts
-1. He tied two sticks together with a rope. (CoBL) 2. He tied his hands together.
-

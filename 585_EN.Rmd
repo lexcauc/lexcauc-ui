@@ -1,7 +1,0 @@
-## 585. TABLE
-### Definition
-A piece of furtniture that consist of a flat horizontal surface (tabletop) and four legs; used for serving food and eating meals
-
-### Contexts
-Food is placed on the table.
-

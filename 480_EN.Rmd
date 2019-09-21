@@ -1,7 +1,0 @@
-## 480. GRAPE
-### Definition
-A small, round, smooth-skinned edible fruit, usually purple, red, or green, that grows in bunches on certain vines. (Concepticon)
-
-### Contexts
-1. On the plain they cultivate grapes. 2. Wine is made out of grapes.
-

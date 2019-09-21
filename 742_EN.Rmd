@@ -1,7 +1,0 @@
-## 742. TIN
-### Definition
-
-
-### Contexts
-
-

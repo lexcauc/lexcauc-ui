@@ -1,7 +1,0 @@
-## 425. EAT (INTR)
-### Definition
-The intransitive variant of the verb ‘to eat’ (‘have a meal’), if it exists in the language.
-
-### Contexts
-They sat down to have a meal.
-

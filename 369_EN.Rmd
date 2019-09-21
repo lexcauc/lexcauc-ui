@@ -1,7 +1,0 @@
-## 369. SALIVA
-### Definition
-A secretion from the salivary glands (found in the mouth) that can be spat out. (Concepticon)
-
-### Contexts
-He spat the saliva from his mouth.
-

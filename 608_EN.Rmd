@@ -1,7 +1,0 @@
-## 608. PITCHFORK
-### Definition
-An agricultural tool comprising a fork attached to a long handle used for gathering hay and pitching it high up onto a haystack. (Concepticon, mod.)
-
-### Contexts
-Hay is put up to the hayloft by using a pitchfork.
-

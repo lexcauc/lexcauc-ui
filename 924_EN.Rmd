@@ -1,7 +1,0 @@
-## 924. COUNT
-### Definition
-To determine the quantity of objects.
-
-### Contexts
-2. I counted the stones: there were five. 2. He counted the sheep, two were missing.
-

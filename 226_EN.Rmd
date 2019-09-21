@@ -1,7 +1,0 @@
-## 226. MOSQUITO
-### Definition
-A small flying insect (of the family Culicidae) known for biting and sucking blood. (Concepticon)
-
-### Contexts
-1. A mosquito bit me at night. 2. Mosquitoes drink blood. 3. A mosquito is smaller than a gadfly.
-

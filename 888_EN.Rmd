@@ -1,7 +1,0 @@
-## 888. THICK
-### Definition
-Most generic word describing a relatively great extension between the opposite surfaces or sides of an object (cf. OED definition).  Avoid terms referring to liquids (e.g. 'thick soup', 'blood is thicker than water'), as the opposite of a runny liquid.  Avoid terms specifically meaning 'fat(ness)', 'plump' (of people or animals). (CoBL)Many languages distinguish between 1D (rope) and 2D (wall) thickness. The main term should be the 2D one. The 1D term can be entered as a synonym.
-
-### Contexts
-1. That tree trunk is thick; it would take a long time cut through. (CoBL) 2. This wall is thick, that one is thin. 3. This rope is thick, that one is thin.
-

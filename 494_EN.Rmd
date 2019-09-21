@@ -1,7 +1,0 @@
-## 494. FOREMILK
-### Definition
-The secretion of mammary glands that is produced in the first days after giving birth.
-
-### Contexts
-Cows give foremilk after giving birth.
-

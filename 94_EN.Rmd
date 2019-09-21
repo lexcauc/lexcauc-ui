@@ -1,7 +1,0 @@
-## 94. UNCLE (BROTHER OF FATHER)
-### Definition
-Father’s brother.
-
-### Contexts
-1. I have two uncles, one on my father's side and one on my mother's side. 2. My uncle Hasan is my father’s brother.
-

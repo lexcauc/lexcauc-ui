@@ -1,7 +1,0 @@
-## 472. KNEAD
-### Definition
-To press a dough many times with one's hands. (Concepticon)
-
-### Contexts
-Before baking bread you must knead dough.
-

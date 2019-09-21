@@ -1,7 +1,0 @@
-## 571. CEILING
-### Definition
-A structure that covers the top of a room.
-
-### Contexts
-The ceiling is made of logs.
-

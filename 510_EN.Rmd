@@ -1,7 +1,0 @@
-## 510. FABRIC
-### Definition
-A woven fabric used as material for making clothes.
-
-### Contexts
-Clothes are made from fabric.
-

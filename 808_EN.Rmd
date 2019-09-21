@@ -1,7 +1,0 @@
-## 808. TAKE
-### Definition
-Most generic verb with the meaning of removing an object from one place to another. Avoid terms for stealing, where different. Avoid terms emphasising grabbing, seizing or holding. Basic root, without additional specification where possible. (CoBL)
-
-### Contexts
-1. When you go to the shop, take some money. 2. I took the axe to give it to my brother.
-

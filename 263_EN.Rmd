@@ -1,7 +1,0 @@
-## 263. VEIN, ARTERY
-### Definition
-Any blood artery or vein in a human body.
-
-### Contexts
-1. Blood flows through the veins/arteries. 2. He has cut his vein.
-

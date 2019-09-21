@@ -1,7 +1,0 @@
-## 555. CUT (HAIR)
-### Definition
-To shorten hair using scissors.
-
-### Contexts
-
-
