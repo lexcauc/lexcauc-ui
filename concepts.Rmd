@@ -3,15 +3,17 @@ title: "Concepts"
 ---
 
 ```{r, include=FALSE}
-read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
-read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/forms.csv",stringsAsFactors = FALSE) -> forms
-read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/languages.csv",stringsAsFactors = FALSE) -> langs
-#read.csv("/home/oleg/build/lexcauc/lexcauc-db/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
-#read.csv("/home/oleg/build/lexcauc/lexcauc-db/forms.csv",stringsAsFactors = FALSE) -> forms
-#read.csv("/home/oleg/build/lexcauc/lexcauc-db/languages.csv",stringsAsFactors = FALSE) -> langs
+#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
+#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/forms.csv",stringsAsFactors = FALSE) -> forms
+#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/languages.csv",stringsAsFactors = FALSE) -> langs
+read.csv("/home/oleg/build/lexcauc/lexcauc-db/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
+read.csv("/home/oleg/build/lexcauc/lexcauc-db/forms.csv",stringsAsFactors = FALSE) -> forms
+read.csv("/home/oleg/build/lexcauc/lexcauc-db/languages.csv",stringsAsFactors = FALSE) -> langs
 ```
 
 ```{r,include=FALSE,eval=FALSE}
+# Generate concept pages
+
 sapply(seq_along(concepts$no),function(i){
     title <- paste0("## ", concepts$no[i], ". ", concepts$rus[i])
     def <- paste0("### Определение", "\n", ifelse(is.na(concepts$def_RU[i]), "", concepts$def_RU[i]), "\n")
@@ -32,6 +34,7 @@ sapply(seq_along(concepts$no),function(i){
 ```{r sets table 1, include=FALSE}
 library(DT)
 library(tidyverse)
+library(dplyr)
 knitr::opts_chunk$set(echo=FALSE, message=FALSE)
 ```
 
@@ -63,16 +66,24 @@ mutate(display, rus = "",
                 lang = as.factor(lang)) -> display
 
 # Populate Russian and English columns with corresponding names and URLs
-for(i in 1:nrow(display)) {
-  display$rus[i] = concepts$rus[concepts$no == display$lc.id[i]]
-  display$eng[i] = concepts$eng[concepts$no == display$lc.id[i]]
-}
+# for(i in 1:nrow(display)) {
+#  display$rus[i] <- concepts$rus[concepts$no == display$lc.id[i]]
+#  display$eng[i] <- concepts$eng[concepts$no == display$lc.id[i]]
+#}
 
 # Collapse lexeme variants into single rows, spread the table
-display %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse="; ")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", ")) %>% slice(1) %>% ungroup() %>% transmute(id = lex.id, rus = rus, eng = eng, orthographic = orthographic, lang = lang) %>% spread(lang,orthographic) -> display.spread
+  display %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse="; "), phonemic = paste(phonemic, collapse="; "), ipa = paste(ipa, collapse="; ")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", "), phonemic = paste(phonemic, collapse=", "), ipa = paste(ipa, collapse=", ")) %>% slice(1) %>% ungroup() %>% transmute(id = lc.id, rus = rus, eng = eng, orthographic = orthographic, phonemic = phonemic, ipa = ipa, lang = lang) %>% gather("type","text",ipa,phonemic,orthographic) %>% unite(lang.type, c(lang,type), sep = ".")  %>% spread(lang.type,text) -> display.spread
+
+# Replace the concept numbers with corresponding names and URLs
+for(i in 1:nrow(display.spread)) {
+ #display$rus[i] <- concepts$rus[concepts$no == display$rus[i]]
+ concepts %>% filter(no == display.spread$id[i]) %>% select(rus) -> display.spread$rus[i]
+ concepts %>% filter(no == display.spread$id[i]) %>% select(eng) -> display.spread$eng[i]  
+ #display$eng[i] <- concepts$eng[concepts$no == display$eng[i]]
+}
 
 # Display the table
-datatable(display.spread,escape = FALSE, rownames = FALSE,
+  datatable(display.spread,escape = FALSE, rownames = FALSE,
             extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
             filter = list(position = 'top', clear = TRUE),
             options = list(
