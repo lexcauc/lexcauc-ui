@@ -62,7 +62,7 @@ sapply(langs$lang.id,function(l){
             def.en = def.en,
             gender = gender,
             notes = notes) %>% slice(1) %>% ungroup -> langtbl
-  filename1 <- paste0("_", l,".html")
+  filename1 <- paste0("languages/_", l,".html")
   saveWidget(datatable(langtbl, escape = FALSE, rownames = FALSE,
             extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
             filter = list(position = 'top', clear = TRUE),
@@ -88,7 +88,7 @@ sapply(langs$lang.id,function(l){
 ```
 
 ```{r show language table}
-langs %>% transmute(lang.name = paste0("<a href='", lang.id, ".html' target = '_blank'>",lang.name,"</a>"), group = group) -> langlist
+langs %>% transmute(lang.name = paste0("<a href='languages/", lang.id, ".html' target = '_blank'>",lang.name,"</a>"), group = group) -> langlist
 
 map.feature(languages = langs$lang.glog, features = langs$group, latitude = langs$latitude, longitude = langs$longitude, popup = langlist$lang.name)
 
