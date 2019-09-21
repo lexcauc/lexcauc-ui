@@ -39,12 +39,12 @@ sapply(seq_along(concepts$no),function(i){
 ```{r render table 1}
 
 # Place links to concept definitions
-mutate(concepts,rus = paste0("<a href = '",
+mutate(concepts,rus = paste0("<a href = 'concepts/",
                        no,
                         "_RU.html' target='_blank'>",
                         rus,
                         "</a>"),
-          eng = paste0("<a href = '",
+          eng = paste0("<a href = 'concepts/",
                         no,
                         "_EN.html' target='_blank'>",
                         eng,
