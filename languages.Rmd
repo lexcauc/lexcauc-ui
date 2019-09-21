@@ -3,19 +3,7 @@ title: "Languages"
 ---
   
 ```{r, include=FALSE}
-#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
-#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/forms.csv",stringsAsFactors = FALSE) -> forms
-#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/languages.csv",stringsAsFactors = FALSE) -> langs
-read.csv("/home/oleg/build/lexcauc/lexcauc-db/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
-read.csv("/home/oleg/build/lexcauc/lexcauc-db/forms.csv",stringsAsFactors = FALSE) -> forms
-read.csv("/home/oleg/build/lexcauc/lexcauc-db/languages.csv",stringsAsFactors = FALSE) -> langs
-```
-
-```{r packages, include=FALSE}
-library(DT)
-library(tidyverse)
-library(dplyr)
-knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+source("shared.R")
 ```
 
 ```{r generate pages,include=FALSE,eval=TRUE}
