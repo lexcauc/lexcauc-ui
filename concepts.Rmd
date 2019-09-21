@@ -6,23 +6,33 @@ title: "Concepts"
 source("shared.R")
 ```
 
-```{r,include=FALSE,eval=FALSE}
+```{r,include=FALSE,eval=TRUE}
 # Generate concept pages
 
 sapply(seq_along(concepts$no),function(i){
-    title <- paste0("## ", concepts$no[i], ". ", concepts$rus[i])
-    def <- paste0("### Определение", "\n", ifelse(is.na(concepts$def_RU[i]), "", concepts$def_RU[i]), "\n")
-    ctx <- paste0("### Контексты", "\n", ifelse(is.na(concepts$cx_RU[i]), "", concepts$cx_RU[i]), "\n")
-    text <- c(title, def, ctx)
-    writeLines(text,paste0(concepts$no[i],"_RU.Rmd"))
-  })
-
-sapply(seq_along(concepts$no),function(i){
-    title <- paste0("## ", concepts$no[i], ". ", concepts$eng[i])
-    def <- paste0("### Definition", "\n", ifelse(is.na(concepts$def_EN[i]), "", concepts$def_EN[i]), "\n")
-    ctx <- paste0("### Contexts", "\n", ifelse(is.na(concepts$cx_EN[i]), "", concepts$cx_EN[i]), "\n")
-    text <- c(title, def, ctx)
-    writeLines(text,paste0(concepts$no[i],"_EN.Rmd"))
+    preamble <- paste0("```{r, include = FALSE}","\n",
+                       "source('shared.R')", "\n",
+                       "```")
+    title <- paste0("## ", concepts$no[i], ". ", concepts$rus[i], " / ", concepts$eng[i], "\n")
+    def <- paste0("### Definition {.tabset}", "\n", 
+                  "#### Russian", "\n", 
+                  ifelse(is.na(concepts$def_RU[i]), "", concepts$def_RU[i]), "\n\n",
+                  "#### English", "\n",
+                  ifelse(is.na(concepts$def_EN[i]), "", concepts$def_EN[i]), "\n\n")
+    ctx <- paste0("### Contexts {.tabset}", "\n", 
+                  "#### Russian","\n",
+                  ifelse(is.na(concepts$cx_RU[i]), "", concepts$cx_RU[i]), "\n\n",
+                  "#### English", "\n",
+                  ifelse(is.na(concepts$cx_EN[i]), "", concepts$cx_EN[i]), "\n\n")
+    plan <- paste0("### Map", "\n",
+                  "```{r}", "\n",
+                  "concept.id <- ", concepts$no[i], "\n",
+                  "langs %>% transmute(lang.id, lang.url = paste0(\"<a href=\'\", lang.id, \".html\' target = \'_blank\'>\",lang.name,\"</a>\")) -> langurls", "\n",
+                  "forms %>% filter(aux == \"\") %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=\"; \"), phonemic = paste(phonemic, collapse=\"; \"), ipa = paste(ipa, collapse=\"; \")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=\", \"), phonemic = paste(phonemic, collapse=\", \"), ipa = paste(ipa, collapse=\", \")) %>% slice(1) %>% ungroup() %>% filter(lc.id == concept.id) %>% transmute(lang = lang, glog = pull(filter(langs, lang.id == lang), lang.glog), lat = pull(filter(langs, lang.id == lang), latitude), long = pull(filter(langs, lang.id == lang), longitude), label = paste0(orthographic, \" / \", phonemic, \" / \", ipa), popup = pull(filter(langurls, lang.id == lang), lang.url), affil = pull(filter(langs, lang.id == lang), group)) -> lexmap", "\n",
+                  "map.feature(languages = lexmap$glog, label = lexmap$label, latitude = lexmap$lat, longitude = lexmap$long, popup = lexmap$popup, features = lexmap$affil, label.hide = FALSE)", "\n",
+                  "```", "\n")
+    text <- c(preamble, title, def, ctx, plan)
+    writeLines(text,paste0("cx_", concepts$no[i],".Rmd"))
   })
 ```
 
