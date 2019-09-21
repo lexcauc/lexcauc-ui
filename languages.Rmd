@@ -1,0 +1,114 @@
+---
+title: "Languages"
+---
+  
+```{r, include=FALSE}
+#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
+#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/forms.csv",stringsAsFactors = FALSE) -> forms
+#read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/languages.csv",stringsAsFactors = FALSE) -> langs
+read.csv("/home/oleg/build/lexcauc/lexcauc-db/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
+read.csv("/home/oleg/build/lexcauc/lexcauc-db/forms.csv",stringsAsFactors = FALSE) -> forms
+read.csv("/home/oleg/build/lexcauc/lexcauc-db/languages.csv",stringsAsFactors = FALSE) -> langs
+```
+
+```{r packages, include=FALSE}
+library(DT)
+library(tidyverse)
+library(dplyr)
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+```{r generate pages,include=FALSE,eval=TRUE}
+# Place links to concept definitions
+mutate(concepts,rus = paste0("<a href = '",
+                       no,
+                        "_RU.html' target='_blank'>",
+                        rus,
+                        "</a>"),
+          eng = paste0("<a href = '",
+                        no,
+                        "_EN.html' target='_blank'>",
+                        eng,
+                        "</a>")) ->
+concepts
+
+# Generate language pages
+
+sapply(langs$lang.id,function(l){ 
+  forms %>% 
+  filter(lang==l) %>% 
+  group_by(lex.id) %>% 
+  transmute(lc.id = lc.id,
+            #rus = ifelse(lc.id > 0, concepts %>% filter(no == lc.id) %>% pull(rus),""),
+            lc.rus = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(rus), "")}),
+            lc.eng = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(eng), "")}),
+            main.orth = paste0(orthographic[aux == ""], collapse = "; "), 
+            main.phon = paste0("<span title=\"", gloss[aux == ""], "\">", phonemic[aux == ""], "</span>",collapse = "; "),
+            main.ipa = paste0(ipa[aux == ""], collapse = "; "),
+            aux.orth = paste0(orthographic[aux == "aux"], 
+                                      if_else(subentry[aux == "aux"] != "", 
+                                              paste0(" (<span style=\"font-variant: small-caps\">",
+                                                     subentry[aux == "aux"], 
+                                                     "</span>)"), 
+                                              ""), 
+                                      collapse = "; "),
+            aux.phon = paste0("<span title=\"", 
+                              gloss[aux == "aux"], 
+                              "\">", 
+                              phonemic[aux == "aux"], 
+                              "</span>",
+                              if_else(subentry[aux == "aux"] != "", 
+                                      paste0(" (<span style=\"font-variant: small-caps\">", 
+                                             subentry[aux == "aux"], 
+                                             "</span>)"), 
+                                      ""), 
+                              collapse = "; "),
+            aux.ipa = paste0(ipa[aux == "aux"], 
+                             if_else(subentry[aux == "aux"] != "", 
+                                     paste0(" (<span style=\"font-variant: small-caps\">",
+                                            subentry[aux == "aux"], 
+                                            "</span>)"), 
+                                     ""), 
+                             collapse = "; "),
+            def.ru = def.ru,
+            def.en = def.en,
+            gender = gender,
+            notes = notes) %>% slice(1) %>% ungroup -> langtbl
+  filename1 <- paste0("_", l,".html")
+  saveWidget(datatable(langtbl, escape = FALSE, rownames = FALSE,
+            extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
+            filter = list(position = 'top', clear = TRUE),
+            options = list(
+              dom = 'Btip', 
+              autoWidth = TRUE, 
+              colReorder = TRUE, 
+              buttons = I('colvis'),
+              fixedHeader = TRUE,
+              pageLength = 20)), filename1)
+  
+  filename2 <- paste0(l,".Rmd")
+  langs %>% filter(lang.id == l) %>% pull(lang.name) -> langname
+  text <- paste0("---\n",
+                 "title: ", langname, "\n",
+                 "output:\n",
+                 "  html_document:\n",
+                 "    includes:\n",
+                 "      after_body: ", filename1,"\n",
+                 "---")
+  writeLines(text,filename2)
+})
+```
+
+```{r show language table}
+langs %>% transmute(lang.name = paste0("<a href='", lang.id, ".html' target = '_blank'>",lang.name,"</a>"), group = group) -> langlist
+datatable(langlist, escape = FALSE, rownames = FALSE,
+            extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
+            filter = list(position = 'top', clear = TRUE),
+            options = list(
+              dom = 'Btip', 
+              autoWidth = TRUE, 
+              colReorder = TRUE, 
+              buttons = I('colvis'),
+              fixedHeader = TRUE,
+              pageLength = 20))
+```
