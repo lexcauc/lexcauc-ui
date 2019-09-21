@@ -89,6 +89,9 @@ sapply(langs$lang.id,function(l){
 
 ```{r show language table}
 langs %>% transmute(lang.name = paste0("<a href='", lang.id, ".html' target = '_blank'>",lang.name,"</a>"), group = group) -> langlist
+
+map.feature(languages = langs$lang.glog, features = langs$group, latitude = langs$latitude, longitude = langs$longitude)
+
 datatable(langlist, escape = FALSE, rownames = FALSE,
             extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
             filter = list(position = 'top', clear = TRUE),
