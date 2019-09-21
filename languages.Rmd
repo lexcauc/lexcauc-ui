@@ -74,7 +74,7 @@ sapply(langs$lang.id,function(l){
               fixedHeader = TRUE,
               pageLength = 20)), filename1)
   
-  filename2 <- paste0(l,".Rmd")
+  filename2 <- paste0("languages/", l, ".Rmd")
   langs %>% filter(lang.id == l) %>% pull(lang.name) -> langname
   text <- paste0("---\n",
                  "title: ", langname, "\n",

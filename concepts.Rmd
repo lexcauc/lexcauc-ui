@@ -32,7 +32,7 @@ sapply(seq_along(concepts$no),function(i){
                   "map.feature(languages = lexmap$glog, label = lexmap$label, latitude = lexmap$lat, longitude = lexmap$long, popup = lexmap$popup, features = lexmap$affil, label.hide = FALSE)", "\n",
                   "```", "\n")
     text <- c(preamble, title, def, ctx, plan)
-    writeLines(text,paste0("cx_", concepts$no[i],".Rmd"))
+    writeLines(text,paste0("concepts/", concepts$no[i],".Rmd"))
   })
 ```
 
