@@ -1,5 +1,6 @@
 name: "lexcauc"
-output_dir: "site"
+output_dir: "_site"
+exclude: ["Makefile"]
 navbar:
     title: "LexCauc"
     left:
