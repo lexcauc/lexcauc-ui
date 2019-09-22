@@ -7,83 +7,18 @@ source("shared.R")
 ```
 
 ```{r generate pages,include=FALSE,eval=TRUE}
-# Place links to concept definitions
-mutate(concepts,rus = paste0("<a href = '",
-                       no,
-                        "_RU.html' target='_blank'>",
-                        rus,
-                        "</a>"),
-          eng = paste0("<a href = '",
-                        no,
-                        "_EN.html' target='_blank'>",
-                        eng,
-                        "</a>")) ->
-concepts
-
 # Generate language pages
 
 sapply(langs$lang.id,function(l){ 
-  forms %>% 
-  filter(lang==l) %>% 
-  group_by(lex.id) %>% 
-  transmute(lc.id = lc.id,
-            #rus = ifelse(lc.id > 0, concepts %>% filter(no == lc.id) %>% pull(rus),""),
-            lc.rus = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(rus), "")}),
-            lc.eng = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(eng), "")}),
-            main.orth = paste0(orthographic[aux == ""], collapse = "; "), 
-            main.phon = paste0("<span title=\"", gloss[aux == ""], "\">", phonemic[aux == ""], "</span>",collapse = "; "),
-            main.ipa = paste0(ipa[aux == ""], collapse = "; "),
-            aux.orth = paste0(orthographic[aux == "aux"], 
-                                      if_else(subentry[aux == "aux"] != "", 
-                                              paste0(" (<span style=\"font-variant: small-caps\">",
-                                                     subentry[aux == "aux"], 
-                                                     "</span>)"), 
-                                              ""), 
-                                      collapse = "; "),
-            aux.phon = paste0("<span title=\"", 
-                              gloss[aux == "aux"], 
-                              "\">", 
-                              phonemic[aux == "aux"], 
-                              "</span>",
-                              if_else(subentry[aux == "aux"] != "", 
-                                      paste0(" (<span style=\"font-variant: small-caps\">", 
-                                             subentry[aux == "aux"], 
-                                             "</span>)"), 
-                                      ""), 
-                              collapse = "; "),
-            aux.ipa = paste0(ipa[aux == "aux"], 
-                             if_else(subentry[aux == "aux"] != "", 
-                                     paste0(" (<span style=\"font-variant: small-caps\">",
-                                            subentry[aux == "aux"], 
-                                            "</span>)"), 
-                                     ""), 
-                             collapse = "; "),
-            def.ru = def.ru,
-            def.en = def.en,
-            gender = gender,
-            notes = notes) %>% slice(1) %>% ungroup -> langtbl
-  filename1 <- paste0("_languages/", l,".html")
-  saveWidget(datatable(langtbl, escape = FALSE, rownames = FALSE,
-            extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
-            filter = list(position = 'top', clear = TRUE),
-            options = list(
-              dom = 'Btip', 
-              autoWidth = TRUE, 
-              colReorder = TRUE, 
-              buttons = I('colvis'),
-              fixedHeader = TRUE,
-              pageLength = 20)), file.path(normalizePath(dirname(filename1)),basename(filename1)))
-  
-  filename2 <- paste0("_languages/", l, ".Rmd")
   langs %>% filter(lang.id == l) %>% pull(lang.name) -> langname
-  text <- paste0("---\n",
-                 "title: ", langname, "\n",
-                 "output:\n",
-                 "  html_document:\n",
-                 "    includes:\n",
-                 "      after_body: ", basename(filename1),"\n",
-                 "---")
-  writeLines(text,file.path(normalizePath(dirname(filename2)),basename(filename2)))
+  preamble <- paste0("---", "\n",
+                 "title: \"", langname, "\"\n",
+                 "params: ", "\n",
+                 " lang.id: \"", l, "\"\n",
+                 "---", "\n")
+  body <- readLines("_language-template.Rmd")
+  text <- c(preamble, body)
+  writeLines(text,paste0("_languages/", l, ".Rmd"))
 })
 ```
 
