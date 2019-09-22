@@ -10,28 +10,17 @@ source("shared.R")
 # Generate concept pages
 
 sapply(seq_along(concepts$no),function(i){
-    preamble <- paste0("```{r, include = FALSE}","\n",
-                       "source('shared.R')", "\n",
-                       "```")
-    title <- paste0("## ", concepts$no[i], ". ", concepts$rus[i], " / ", concepts$eng[i], "\n")
-    def <- paste0("### Definition {.tabset}", "\n", 
-                  "#### Russian", "\n", 
-                  ifelse(is.na(concepts$def_RU[i]), "", concepts$def_RU[i]), "\n\n",
-                  "#### English", "\n",
-                  ifelse(is.na(concepts$def_EN[i]), "", concepts$def_EN[i]), "\n\n")
-    ctx <- paste0("### Contexts {.tabset}", "\n", 
-                  "#### Russian","\n",
-                  ifelse(is.na(concepts$cx_RU[i]), "", concepts$cx_RU[i]), "\n\n",
-                  "#### English", "\n",
-                  ifelse(is.na(concepts$cx_EN[i]), "", concepts$cx_EN[i]), "\n\n")
-    plan <- paste0("### Map", "\n",
-                  "```{r}", "\n",
-                  "concept.id <- ", concepts$no[i], "\n",
-                  "langs %>% transmute(lang.id, lang.url = paste0(\"<a href=\'\", lang.id, \".html\' target = \'_blank\'>\",lang.name,\"</a>\")) -> langurls", "\n",
-                  "forms %>% filter(aux == \"\") %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=\"; \"), phonemic = paste(phonemic, collapse=\"; \"), ipa = paste(ipa, collapse=\"; \")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=\", \"), phonemic = paste(phonemic, collapse=\", \"), ipa = paste(ipa, collapse=\", \")) %>% slice(1) %>% ungroup() %>% filter(lc.id == concept.id) %>% transmute(lang = lang, glog = pull(filter(langs, lang.id == lang), lang.glog), lat = pull(filter(langs, lang.id == lang), latitude), long = pull(filter(langs, lang.id == lang), longitude), label = paste0(orthographic, \" / \", phonemic, \" / \", ipa), popup = pull(filter(langurls, lang.id == lang), lang.url), affil = pull(filter(langs, lang.id == lang), group)) -> lexmap", "\n",
-                  "map.feature(languages = lexmap$glog, label = lexmap$label, latitude = lexmap$lat, longitude = lexmap$long, popup = lexmap$popup, features = lexmap$affil, label.hide = FALSE)", "\n",
-                  "```", "\n")
-    text <- c(preamble, title, def, ctx, plan)
+    preamble <- paste0("---","\n",
+                       "title: \"", concepts$no[i], ". ", concepts$rus[i], " / ", concepts$eng[i], "\"\n",
+                       "params: ", "\n",
+                       " concept.id: \"", concepts$no[i], "\"\n",
+                       " def.ru: \"", concepts$def_RU[i], "\"\n",
+                       " def.en: \"", concepts$def_EN[i], "\"\n",
+                       " cx.ru: \"", concepts$cx_RU[i], "\"\n",
+                       " cx.en: \"", concepts$cx_EN[i], "\"\n",
+                       "---", "\n")
+    body <- readLines("_concept-template.Rmd")
+    text <- c(preamble, body)
     writeLines(text,paste0("_concepts/", concepts$no[i],".Rmd"))
   })
 ```
