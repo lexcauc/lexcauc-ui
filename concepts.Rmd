@@ -32,19 +32,19 @@ sapply(seq_along(concepts$no),function(i){
                   "map.feature(languages = lexmap$glog, label = lexmap$label, latitude = lexmap$lat, longitude = lexmap$long, popup = lexmap$popup, features = lexmap$affil, label.hide = FALSE)", "\n",
                   "```", "\n")
     text <- c(preamble, title, def, ctx, plan)
-    writeLines(text,paste0("concepts/", concepts$no[i],".Rmd"))
+    writeLines(text,paste0("_concepts/", concepts$no[i],".Rmd"))
   })
 ```
 
 ```{r render table 1}
 
 # Place links to concept definitions
-mutate(concepts,rus = paste0("<a href = 'concepts/",
+mutate(concepts,rus = paste0("<a href = '",
                        no,
                         "_RU.html' target='_blank'>",
                         rus,
                         "</a>"),
-          eng = paste0("<a href = 'concepts/",
+          eng = paste0("<a href = '",
                         no,
                         "_EN.html' target='_blank'>",
                         eng,

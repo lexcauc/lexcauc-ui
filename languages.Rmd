@@ -62,7 +62,7 @@ sapply(langs$lang.id,function(l){
             def.en = def.en,
             gender = gender,
             notes = notes) %>% slice(1) %>% ungroup -> langtbl
-  filename1 <- paste0("languages/_", l,".html")
+  filename1 <- paste0("_languages/", l,".html")
   saveWidget(datatable(langtbl, escape = FALSE, rownames = FALSE,
             extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
             filter = list(position = 'top', clear = TRUE),
@@ -72,23 +72,23 @@ sapply(langs$lang.id,function(l){
               colReorder = TRUE, 
               buttons = I('colvis'),
               fixedHeader = TRUE,
-              pageLength = 20)), filename1)
+              pageLength = 20)), file.path(normalizePath(dirname(filename1)),basename(filename1)))
   
-  filename2 <- paste0("languages/", l, ".Rmd")
+  filename2 <- paste0("_languages/", l, ".Rmd")
   langs %>% filter(lang.id == l) %>% pull(lang.name) -> langname
   text <- paste0("---\n",
                  "title: ", langname, "\n",
                  "output:\n",
                  "  html_document:\n",
                  "    includes:\n",
-                 "      after_body: ", filename1,"\n",
+                 "      after_body: ", basename(filename1),"\n",
                  "---")
-  writeLines(text,filename2)
+  writeLines(text,file.path(normalizePath(dirname(filename2)),basename(filename2)))
 })
 ```
 
 ```{r show language table}
-langs %>% transmute(lang.name = paste0("<a href='languages/", lang.id, ".html' target = '_blank'>",lang.name,"</a>"), group = group) -> langlist
+langs %>% transmute(lang.name = paste0("<a href='", lang.id, ".html' target = '_blank'>",lang.name,"</a>"), group = group) -> langlist
 
 map.feature(languages = langs$lang.glog, features = langs$group, latitude = langs$latitude, longitude = langs$longitude, popup = langlist$lang.name)
 
