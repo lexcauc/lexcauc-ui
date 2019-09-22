@@ -1,0 +1,25 @@
+```{r, include = FALSE}
+source('shared.R')
+```
+
+### Definition {.tabset}
+#### Russian
+`r params$def.ru`
+
+#### English
+`r params$def.en`
+
+### Contexts {.tabset}
+#### Russian
+`r params$cx.ru`
+
+#### English
+`r params$cx.en`
+
+### Map
+```{r}
+concept.id <- params$concept.id
+langs %>% transmute(lang.id, lang.url = paste0("<a href='", lang.id, ".html' target = '_blank'>",lang.name,"</a>")) -> langurls
+forms %>% filter(aux == "") %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse="; "), phonemic = paste(phonemic, collapse="; "), ipa = paste(ipa, collapse="; ")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", "), phonemic = paste(phonemic, collapse=", "), ipa = paste(ipa, collapse=", ")) %>% slice(1) %>% ungroup() %>% filter(lc.id == concept.id) %>% transmute(lang = lang, glog = pull(filter(langs, lang.id == lang), lang.glog), lat = pull(filter(langs, lang.id == lang), latitude), long = pull(filter(langs, lang.id == lang), longitude), label = paste0(orthographic, " / ", phonemic, " / ", ipa), popup = pull(filter(langurls, lang.id == lang), lang.url), affil = pull(filter(langs, lang.id == lang), group)) -> lexmap
+map.feature(languages = lexmap$glog, label = lexmap$label, latitude = lexmap$lat, longitude = lexmap$long, popup = lexmap$popup, features = lexmap$affil, label.hide = FALSE)
+```
