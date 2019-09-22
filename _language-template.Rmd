@@ -1,0 +1,69 @@
+```{r, include = FALSE}
+source('shared.R')
+```
+
+```{r, render language table}
+# Place links to concept definitions
+mutate(concepts,rus = paste0("<a href = '",
+                       no,
+                        "_RU.html' target='_blank'>",
+                        rus,
+                        "</a>"),
+          eng = paste0("<a href = '",
+                        no,
+                        "_EN.html' target='_blank'>",
+                        eng,
+                        "</a>")) ->
+concepts
+
+forms %>% 
+  filter(lang==params$lang.id) %>% 
+  group_by(lex.id) %>% 
+  transmute(lc.id = lc.id,
+            #rus = ifelse(lc.id > 0, concepts %>% filter(no == lc.id) %>% pull(rus),""),
+            lc.rus = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(rus), "")}),
+            lc.eng = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(eng), "")}),
+            main.orth = paste0(orthographic[aux == ""], collapse = "; "), 
+            main.phon = paste0("<span title=\"", gloss[aux == ""], "\">", phonemic[aux == ""], "</span>",collapse = "; "),
+            main.ipa = paste0(ipa[aux == ""], collapse = "; "),
+            aux.orth = paste0(orthographic[aux == "aux"], 
+                                      if_else(subentry[aux == "aux"] != "", 
+                                              paste0(" (<span style=\"font-variant: small-caps\">",
+                                                     subentry[aux == "aux"], 
+                                                     "</span>)"), 
+                                              ""), 
+                                      collapse = "; "),
+            aux.phon = paste0("<span title=\"", 
+                              gloss[aux == "aux"], 
+                              "\">", 
+                              phonemic[aux == "aux"], 
+                              "</span>",
+                              if_else(subentry[aux == "aux"] != "", 
+                                      paste0(" (<span style=\"font-variant: small-caps\">", 
+                                             subentry[aux == "aux"], 
+                                             "</span>)"), 
+                                      ""), 
+                              collapse = "; "),
+            aux.ipa = paste0(ipa[aux == "aux"], 
+                             if_else(subentry[aux == "aux"] != "", 
+                                     paste0(" (<span style=\"font-variant: small-caps\">",
+                                            subentry[aux == "aux"], 
+                                            "</span>)"), 
+                                     ""), 
+                             collapse = "; "),
+            def.ru = def.ru,
+            def.en = def.en,
+            gender = gender,
+            notes = notes) %>% slice(1) %>% ungroup -> langtbl
+
+datatable(langtbl, escape = FALSE, rownames = FALSE,
+            extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
+            filter = list(position = 'top', clear = TRUE),
+            options = list(
+              dom = 'Btip', 
+              autoWidth = TRUE, 
+              colReorder = TRUE, 
+              buttons = I('colvis'),
+              fixedHeader = TRUE,
+              pageLength = 20))
+```
