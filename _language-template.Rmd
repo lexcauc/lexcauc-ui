@@ -6,12 +6,12 @@ source('shared.R')
 # Place links to concept definitions
 mutate(concepts,rus = paste0("<a href = '",
                        no,
-                        "_RU.html' target='_blank'>",
+                        ".html' target='_blank'>",
                         rus,
                         "</a>"),
           eng = paste0("<a href = '",
                         no,
-                        "_EN.html' target='_blank'>",
+                        ".html' target='_blank'>",
                         eng,
                         "</a>")) ->
 concepts
