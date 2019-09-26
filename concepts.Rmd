@@ -68,16 +68,52 @@ for(i in 1:nrow(display.spread)) {
  concepts %>% filter(no == display.spread$id[i]) %>% select(eng) -> display.spread$eng[i]  
  #display$eng[i] <- concepts$eng[concepts$no == display$eng[i]]
 }
+  
+
+
+grep(".*\\.ipa$",colnames(display.spread))-1 -> cols.ipa
+grep(".*\\.phonemic$",colnames(display.spread))-1 -> cols.phonemic
+grep(".*\\.orthographic$",colnames(display.spread))-1 -> cols.orthographic
+
 
 # Display the table
-  datatable(display.spread,escape = FALSE, rownames = FALSE,
-            extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
-            filter = list(position = 'top', clear = TRUE),
-            options = list(
-              dom = 'Btip', 
-              autoWidth = TRUE, 
-              colReorder = TRUE, 
-              buttons = I('colvis'),
-              fixedHeader = TRUE,
-              pageLength = 20))
+datatable(display.spread, escape = FALSE, rownames = FALSE,
+          extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
+          filter = list(position = 'top', clear = TRUE),
+          options = list(
+            columnDefs = list(list(targets = cols.ipa, visible = FALSE),
+                              list(targets = cols.orthographic, visible = TRUE),
+                              list(targets = cols.phonemic, visible = FALSE)
+            ),
+            dom = 'Btip', 
+            autoWidth = TRUE, 
+            colReorder = TRUE, 
+            buttons = list(
+              list(
+                extend = 'collection',
+                text = 'Transcription',
+                buttons = list(
+                  list(
+                    extend = 'colvisGroup',
+                    text = "orthographic",
+                    show = cols.orthographic,
+                    hide = append(cols.phonemic,cols.ipa)
+                  ),
+                  list(
+                    extend = 'colvisGroup',
+                    text = "phonemic",
+                    show = cols.phonemic,
+                    hide = append(cols.ipa,cols.orthographic)
+                  ),                
+                  list(
+                    extend = 'colvisGroup',
+                    text = "IPA",
+                    show = cols.ipa,
+                    hide = append(cols.phonemic,cols.orthographic)
+                  )                    
+                )
+              )
+            ),
+            fixedHeader = TRUE,
+            pageLength = 20))
 ```
