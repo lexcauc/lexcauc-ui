@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE)
 
 read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/lexcauc-concepts.csv", stringsAsFactors = FALSE) -> concepts
 read.csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/forms.csv", stringsAsFactors = FALSE) -> forms
-read_csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/languages.csv", col_types = "ccccfdd") -> langs
+read_csv("https://raw.githubusercontent.com/lexcauc/lexcauc-db/master/languages.csv", col_types = "ccccfddc") -> langs
 #read.csv("../lexcauc-db/lexcauc-concepts.csv",stringsAsFactors = FALSE) -> concepts
 #read.csv("../lexcauc-db/forms.csv",stringsAsFactors = FALSE) -> forms
-#read_csv("../lexcauc-db/languages.csv",stringsAsFactors = FALSE, col_types = "cccfdd") -> langs
+#read_csv("../lexcauc-db/languages.csv",stringsAsFactors = FALSE, col_types = "cccfddc") -> langs
