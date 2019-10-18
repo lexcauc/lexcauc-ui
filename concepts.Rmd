@@ -6,7 +6,7 @@ title: "Concepts"
 source("shared.R")
 ```
 
-```{r,include=FALSE,eval=TRUE}
+```{r,include=FALSE,eval=FALSE}
 # Generate concept pages
 
 sapply(seq_along(concepts$no),function(i){
@@ -79,7 +79,7 @@ grep(".*\\.orthographic$",colnames(display.spread))-1 -> cols.orthographic
 # Display the table
 datatable(display.spread, escape = FALSE, rownames = FALSE,
           extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
-          filter = list(position = 'top', clear = TRUE),
+          filter = 'top',
           options = list(
             columnDefs = list(list(targets = cols.ipa, visible = FALSE),
                               list(targets = cols.orthographic, visible = TRUE),
