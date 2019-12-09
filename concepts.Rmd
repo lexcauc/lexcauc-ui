@@ -6,7 +6,7 @@ title: "Concepts"
 source("shared.R")
 ```
 
-```{r,include=FALSE,eval=FALSE}
+```{r,include=FALSE,eval=TRUE}
 # Generate concept pages
 
 sapply(seq_along(concepts$no),function(i){
@@ -59,17 +59,16 @@ mutate(display, rus = "",
 #}
 
 # Collapse lexeme variants into single rows, spread the table
-  display %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse="; "), phonemic = paste(phonemic, collapse="; "), ipa = paste(ipa, collapse="; ")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", "), phonemic = paste(phonemic, collapse=", "), ipa = paste(ipa, collapse=", ")) %>% slice(1) %>% ungroup() %>% transmute(id = lc.id, rus = rus, eng = eng, orthographic = orthographic, phonemic = phonemic, ipa = ipa, lang = lang) %>% gather("type","text",ipa,phonemic,orthographic) %>% unite(lang.type, c(lang,type), sep = ".")  %>% spread(lang.type,text) -> display.spread
+  display %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse="; "), phonemic = paste(phonemic, collapse="; "), ipa = paste(ipa, collapse="; ")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", "), phonemic = paste(phonemic, collapse=", "), ipa = paste(ipa, collapse=", ")) %>% slice(1) %>% ungroup() %>% transmute(sort = sapply(lc.id, function(x) {concepts %>% filter(no == x) %>% pull(sort) %>% ifelse(x != 0 && . != 0, ., 9999)}), id = lc.id, rus = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(rus), "")}), eng = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(eng), "")}), orthographic = orthographic, phonemic = phonemic, ipa = ipa, lang = lang) %>% gather("type","text",ipa,phonemic,orthographic) %>% unite(lang.type, c(lang,type), sep = ".")  %>% spread(lang.type,text) -> display.spread
 
-# Replace the concept numbers with corresponding names and URLs
-for(i in 1:nrow(display.spread)) {
- #display$rus[i] <- concepts$rus[concepts$no == display$rus[i]]
- concepts %>% filter(no == display.spread$id[i]) %>% select(rus) -> display.spread$rus[i]
- concepts %>% filter(no == display.spread$id[i]) %>% select(eng) -> display.spread$eng[i]  
- #display$eng[i] <- concepts$eng[concepts$no == display$eng[i]]
-}
-  
-
+# # Replace the concept numbers with corresponding names and URLs
+# for(i in 1:nrow(display.spread)) {
+#  #display$rus[i] <- concepts$rus[concepts$no == display$rus[i]]
+#  concepts %>% filter(no == display.spread$id[i]) %>% pull(rus) -> display.spread$rus[i]
+#  concepts %>% filter(no == display.spread$id[i]) %>% pull(eng) -> display.spread$eng[i]  
+#  concepts %>% filter(no == display.spread$id[i]) %>% pull(sort) -> display.spread$sort[i]
+#  #display$eng[i] <- concepts$eng[concepts$no == display$eng[i]]
+# }
 
 grep(".*\\.ipa$",colnames(display.spread))-1 -> cols.ipa
 grep(".*\\.phonemic$",colnames(display.spread))-1 -> cols.phonemic
@@ -83,8 +82,10 @@ datatable(display.spread, escape = FALSE, rownames = FALSE,
           options = list(
             columnDefs = list(list(targets = cols.ipa, visible = FALSE),
                               list(targets = cols.orthographic, visible = TRUE),
-                              list(targets = cols.phonemic, visible = FALSE)
+                              list(targets = cols.phonemic, visible = FALSE),
+                              list(targets = c(0), visible = FALSE)
             ),
+            order = list(list(0,"asc")),
             dom = 'Btip', 
             autoWidth = TRUE, 
             colReorder = TRUE, 

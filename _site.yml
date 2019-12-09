@@ -15,3 +15,4 @@ navbar:
 output:
     html_document:
         theme: simplex          
+        css: style.css
