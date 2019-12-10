@@ -6,7 +6,7 @@ title: "Concepts"
 source("shared.R")
 ```
 
-```{r,include=FALSE,eval=TRUE}
+```{r,include=FALSE,eval=FALSE}
 # Generate concept pages
 
 sapply(seq_along(concepts$no),function(i){
@@ -58,6 +58,10 @@ mutate(display, rus = "",
 #  display$eng[i] <- concepts$eng[concepts$no == display$lc.id[i]]
 #}
 
+# Create a named list for language names
+langnames <- as.list(langs$lang.name)
+names(langnames) <- as.list(langs$lang.id)
+
 # Collapse lexeme variants into single rows, spread the table
   display %>% group_by(lc.id,lang) %>% mutate(orthographic = paste(orthographic, collapse="; "), phonemic = paste(phonemic, collapse="; "), ipa = paste(ipa, collapse="; ")) %>% slice(1) %>% ungroup() %>% group_by(lex.id,lang) %>% mutate(orthographic = paste(orthographic, collapse=", "), phonemic = paste(phonemic, collapse=", "), ipa = paste(ipa, collapse=", ")) %>% slice(1) %>% ungroup() %>% transmute(sort = sapply(lc.id, function(x) {concepts %>% filter(no == x) %>% pull(sort) %>% ifelse(x != 0 && . != 0, ., 9999)}), id = lc.id, rus = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(rus), "")}), eng = sapply(lc.id, function(x) {ifelse(x != 0, concepts %>% filter(no == x) %>% pull(eng), "")}), orthographic = orthographic, phonemic = phonemic, ipa = ipa, lang = lang) %>% gather("type","text",ipa,phonemic,orthographic) %>% unite(lang.type, c(lang,type), sep = ".")  %>% spread(lang.type,text) -> display.spread
 
@@ -74,11 +78,26 @@ grep(".*\\.ipa$",colnames(display.spread))-1 -> cols.ipa
 grep(".*\\.phonemic$",colnames(display.spread))-1 -> cols.phonemic
 grep(".*\\.orthographic$",colnames(display.spread))-1 -> cols.orthographic
 
+# Generate human-readable column names
+sapply(as.list(names(display.spread)), function(n){
+  case_when(
+    n == "sort" ~ "",
+    n == "id" ~ "LexCauc ID",
+    n == "rus" ~ "Concept (Russian)",
+    n == "eng" ~ "Concept (English)",
+    grepl("\\.ipa|\\.phonemic|\\.orthographic", n) ~ as.character(langnames[strsplit(n, "\\.")[[1]][1]]),
+    # grepl(".ipa", n) ~ paste0(langnames[strsplit(n, "\\.")[[1]][1]]," (IPA)"),
+    # grepl(".phonemic", n) ~ paste0(langnames[strsplit(n, "\\.")[[1]][1]]," (phonemic)"),
+    # grepl(".orthographic", n) ~ paste0(langnames[strsplit(n, "\\.")[[1]][1]]," (orthographic)"),
+    TRUE ~ n
+  )
+}) -> newcols
 
 # Display the table
 datatable(display.spread, escape = FALSE, rownames = FALSE,
           extensions = c('ColReorder', 'Buttons', 'FixedHeader'),
           filter = 'top',
+          colnames = newcols,
           options = list(
             columnDefs = list(list(targets = cols.ipa, visible = FALSE),
                               list(targets = cols.orthographic, visible = TRUE),
@@ -115,6 +134,6 @@ datatable(display.spread, escape = FALSE, rownames = FALSE,
                 )
               )
             ),
-            fixedHeader = TRUE,
-            pageLength = 20))
+            fixedHeader = list(headerOffset = 45),
+            pageLength = 50))
 ```
