@@ -6,7 +6,7 @@ title: "Languages"
 source("shared.R")
 ```
 
-  ```{r generate pages,include=FALSE,eval=TRUE}
+```{r generate pages,include=FALSE,eval=TRUE}
 # Generate language pages
 
 sapply(langs$lang.id,function(l){ 

@@ -6,7 +6,7 @@ title: "Concepts"
 source("shared.R")
 ```
 
-```{r,include=FALSE,eval=FALSE}
+```{r,include=FALSE,eval=TRUE}
 # Generate concept pages
 
 sapply(seq_along(concepts$no),function(i){
