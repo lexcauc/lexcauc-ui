@@ -25,5 +25,9 @@ forms %>% filter(aux == "") %>% group_by(lc.id,lang) %>% mutate(orthographic = p
 
 inner_join(forms.filtered,langs,by = c("lang" = "lang.id")) %>% transmute(lang = lang, lat = latitude, long = longitude, label = paste0(orthographic, " / ", phonemic, " / ", ipa), popup = lang.url, affil = group) -> lexmap
 
-map.feature(languages = "fake", label = lexmap$label, latitude = lexmap$lat, longitude = lexmap$long, popup = lexmap$popup, features = lexmap$affil, label.hide = FALSE)
+if(nrow(lexmap) > 0) {
+  map.feature(languages = "fake", label = lexmap$label, latitude = lexmap$lat, longitude = lexmap$long, popup = lexmap$popup, features = lexmap$affil, label.hide = FALSE)
+} else {
+  cat("No language has this word!")
+}
 ```
